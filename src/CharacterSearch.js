@@ -6,7 +6,7 @@ export const CharacterSearch=()=>{
   const [characterName,setCharacterName] = useState('');
   const [characterInfo,setCharacterInfo] = useState(null);
   const variables = { search:characterName.trim().toLowerCase() };
-
+//test commit 2
   const fetchData=async()=>{
     const query=`
       query($search: String){
