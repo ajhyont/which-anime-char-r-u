@@ -1,28 +1,33 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import axios from "axios";
 
 export const CharacterSearch=()=>{
 
   const [characterName,setCharacterName] = useState('');
   const [characterInfo,setCharacterInfo] = useState(null);
-  const variables = { search:characterName.trim().toLowerCase() };
 
-  const fetchData=async()=>{
-    const query=`
-      query($search: String){
-        Character(search: $search){
-          id
-          name{ first last }
-          description
-          image{ large }
+  
+    const fetchData = async()=>{
+      const variables = { search:characterName.trim().toLowerCase() };
+      const query=`
+        query($search:String){
+          Character(search: $search){
+            id
+            name{ first last }
+            description
+            image{ large }
+          } 
         }
-      }
-    `;
-    try{ 
-      const resp = await axios.post( 'https://graphql.anilist.co',{query,variables,} );
-      setCharacterInfo( resp.data.data.Character );
-    } catch(error){ console.error('Err fetching data:',error); }
-  };
+      `;
+      try{
+        const resp = await axios.post( 'https://graphql.anilist.co',{query,variables} );
+        setCharacterInfo( resp.data.data.Character );
+      } catch(error){ console.error('Error fetching data:',error); }
+    };
+  useEffect( ()=>{
+    //to Debounce the API call
+    const timerId = setTimeout(  () => {if(characterName)fetchData();},500  );
+    }, [characterName]);
 
   return(
     <>
