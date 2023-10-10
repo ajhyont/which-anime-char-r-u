@@ -1,0 +1,3456 @@
+{
+    "anime_characters": [
+        {
+            "id": 1,
+            "name": "Abarai, Renji"
+        },
+        {
+            "id": 2,
+            "name": "Accelerator"
+        },
+        {
+            "id": 3,
+            "name": "Ackerman, Mikasa"
+        },
+        {
+            "id": 4,
+            "name": "Adam"
+        },
+        {
+            "id": 5,
+            "name": "Ainsworth, Elias"
+        },
+        {
+            "id": 6,
+            "name": "Aioi, Yuuko"
+        },
+        {
+            "id": 7,
+            "name": "Aisaka, Taiga"
+        },
+        {
+            "id": 8,
+            "name": "Aizen, Sousuke"
+        },
+        {
+            "id": 9,
+            "name": "Akaashi, Keiji"
+        },
+        {
+            "id": 10,
+            "name": "Akagi, Shigeru"
+        },
+        {
+            "id": 11,
+            "name": "Akai, Shuuichi"
+        },
+        {
+            "id": 12,
+            "name": "Akame"
+        },
+        {
+            "id": 13,
+            "name": "Akashi"
+        },
+        {
+            "id": 14,
+            "name": "Akashi, Seijuurou"
+        },
+        {
+            "id": 15,
+            "name": "Akashiya, Moka"
+        },
+        {
+            "id": 16,
+            "name": "Akatsuki"
+        },
+        {
+            "id": 17,
+            "name": "Akaza"
+        },
+        {
+            "id": 18,
+            "name": "Akaza, Akari"
+        },
+        {
+            "id": 19,
+            "name": "Akaza, Akari"
+        },
+        {
+            "id": 20,
+            "name": "Aki Hayakawa"
+        },
+        {
+            "id": 21,
+            "name": "Akise, Aru"
+        },
+        {
+            "id": 22,
+            "name": "Akutagawa, Ryuunosuke"
+        },
+        {
+            "id": 23,
+            "name": "Aladdin"
+        },
+        {
+            "id": 24,
+            "name": "Albarn, Maka"
+        },
+        {
+            "id": 25,
+            "name": "Albedo"
+        },
+        {
+            "id": 26,
+            "name": "All Might"
+        },
+        {
+            "id": 27,
+            "name": "Alphonse Elric"
+        },
+        {
+            "id": 28,
+            "name": "Alucard"
+        },
+        {
+            "id": 29,
+            "name": "Amamiya, Ren"
+        },
+        {
+            "id": 30,
+            "name": "Amane, Misa"
+        },
+        {
+            "id": 31,
+            "name": "Amane, Suzuha"
+        },
+        {
+            "id": 32,
+            "name": "Anarchy, Stocking"
+        },
+        {
+            "id": 33,
+            "name": "Annie Leonhart"
+        },
+        {
+            "id": 34,
+            "name": "Anya Forger"
+        },
+        {
+            "id": 35,
+            "name": "Aoyama, Nanami"
+        },
+        {
+            "id": 36,
+            "name": "Aqua"
+        },
+        {
+            "id": 37,
+            "name": "Aragaki, Ayase"
+        },
+        {
+            "id": 38,
+            "name": "Araragi, Karen"
+        },
+        {
+            "id": 39,
+            "name": "Araragi, Koyomi"
+        },
+        {
+            "id": 40,
+            "name": "Araragi, Koyomi"
+        },
+        {
+            "id": 41,
+            "name": "Archer"
+        },
+        {
+            "id": 42,
+            "name": "Archiviste, No\u00e9"
+        },
+        {
+            "id": 43,
+            "name": "Armin Arlert"
+        },
+        {
+            "id": 44,
+            "name": "Armstrong, Alex Louis"
+        },
+        {
+            "id": 45,
+            "name": "Armstrong, Olivier Mira"
+        },
+        {
+            "id": 46,
+            "name": "Askeladd"
+        },
+        {
+            "id": 47,
+            "name": "Asta"
+        },
+        {
+            "id": 48,
+            "name": "Asuka Langley Souryuu"
+        },
+        {
+            "id": 49,
+            "name": "Asuka, Ryou"
+        },
+        {
+            "id": 50,
+            "name": "Ayanokouji, Kiyotaka"
+        },
+        {
+            "id": 51,
+            "name": "Ayumu Kasuga"
+        },
+        {
+            "id": 52,
+            "name": "Ayuzawa, Misaki"
+        },
+        {
+            "id": 53,
+            "name": "Azusagawa, Kaede"
+        },
+        {
+            "id": 54,
+            "name": "Bachira, Meguru"
+        },
+        {
+            "id": 55,
+            "name": "Balalaika"
+        },
+        {
+            "id": 56,
+            "name": "Ban"
+        },
+        {
+            "id": 57,
+            "name": "Batou"
+        },
+        {
+            "id": 58,
+            "name": "Beatrice"
+        },
+        {
+            "id": 59,
+            "name": "Beatrice"
+        },
+        {
+            "id": 60,
+            "name": "Bishamon"
+        },
+        {
+            "id": 61,
+            "name": "Black, Jet"
+        },
+        {
+            "id": 62,
+            "name": "Black\u2605Rock Shooter"
+        },
+        {
+            "id": 63,
+            "name": "Black\u2606Star"
+        },
+        {
+            "id": 64,
+            "name": "Blood, Staz Charlie"
+        },
+        {
+            "id": 65,
+            "name": "Bloodfallen, Shalltear"
+        },
+        {
+            "id": 66,
+            "name": "Boa, Hancock"
+        },
+        {
+            "id": 67,
+            "name": "Bokuto, Koutarou"
+        },
+        {
+            "id": 68,
+            "name": "Bokuto, Koutarou"
+        },
+        {
+            "id": 69,
+            "name": "Boyle, Arthur"
+        },
+        {
+            "id": 70,
+            "name": "Bradley, King"
+        },
+        {
+            "id": 71,
+            "name": "Brando, Diego"
+        },
+        {
+            "id": 72,
+            "name": "Braun, Gabi"
+        },
+        {
+            "id": 73,
+            "name": "Break, Xerxes"
+        },
+        {
+            "id": 74,
+            "name": "Brook"
+        },
+        {
+            "id": 75,
+            "name": "Brown, Nicolas"
+        },
+        {
+            "id": 76,
+            "name": "Bucciarati, Bruno"
+        },
+        {
+            "id": 77,
+            "name": "Busujima, Saeko"
+        },
+        {
+            "id": 78,
+            "name": "C.C."
+        },
+        {
+            "id": 79,
+            "name": "Cadis Etrama Di Raizel"
+        },
+        {
+            "id": 80,
+            "name": "Caiman"
+        },
+        {
+            "id": 81,
+            "name": "Callenreese, Aslan Jade"
+        },
+        {
+            "id": 82,
+            "name": "Casca"
+        },
+        {
+            "id": 83,
+            "name": "Charlotte, Katakuri"
+        },
+        {
+            "id": 84,
+            "name": "Chelsea"
+        },
+        {
+            "id": 85,
+            "name": "Cheng, Xiaoshi"
+        },
+        {
+            "id": 86,
+            "name": "Chidori, Kaname"
+        },
+        {
+            "id": 87,
+            "name": "Chifuyu Matsuno"
+        },
+        {
+            "id": 88,
+            "name": "Chii"
+        },
+        {
+            "id": 89,
+            "name": "Chika Fujiwara"
+        },
+        {
+            "id": 90,
+            "name": "Chrollo Lucilfer"
+        },
+        {
+            "id": 91,
+            "name": "Chuuya Nakahara"
+        },
+        {
+            "id": 92,
+            "name": "Cid Kagenou"
+        },
+        {
+            "id": 93,
+            "name": "Claes, Catarina"
+        },
+        {
+            "id": 94,
+            "name": "Clare"
+        },
+        {
+            "id": 95,
+            "name": "Cranel, Bell"
+        },
+        {
+            "id": 96,
+            "name": "Daidouji, Tomoyo"
+        },
+        {
+            "id": 97,
+            "name": "Daiki Aomine"
+        },
+        {
+            "id": 98,
+            "name": "Dante"
+        },
+        {
+            "id": 99,
+            "name": "Dazai, Osamu"
+        },
+        {
+            "id": 100,
+            "name": "de Blois, Victorique"
+        },
+        {
+            "id": 101,
+            "name": "de Jarjeyes, Oscar Fran\u00e7ois"
+        },
+        {
+            "id": 102,
+            "name": "Death the Kid"
+        },
+        {
+            "id": 103,
+            "name": "Decim"
+        },
+        {
+            "id": 104,
+            "name": "Degurechaff, Tanya"
+        },
+        {
+            "id": 105,
+            "name": "Deidara"
+        },
+        {
+            "id": 106,
+            "name": "Denji"
+        },
+        {
+            "id": 107,
+            "name": "Deviluke, Lala Satalin"
+        },
+        {
+            "id": 108,
+            "name": "Deviluke, Momo Belia"
+        },
+        {
+            "id": 109,
+            "name": "Diablo"
+        },
+        {
+            "id": 110,
+            "name": "Dio Brando"
+        },
+        {
+            "id": 111,
+            "name": "Dola, Schwi"
+        },
+        {
+            "id": 112,
+            "name": "Donquixote, Doflamingo"
+        },
+        {
+            "id": 113,
+            "name": "Donquixote, Rosinante"
+        },
+        {
+            "id": 114,
+            "name": "Dostoyevsky, Fyodor"
+        },
+        {
+            "id": 115,
+            "name": "Dracule, Mihawk"
+        },
+        {
+            "id": 116,
+            "name": "Dunois, Charlotte"
+        },
+        {
+            "id": 117,
+            "name": "Dustiness Ford, Lalatina"
+        },
+        {
+            "id": 118,
+            "name": "Echidna"
+        },
+        {
+            "id": 119,
+            "name": "Echizen, Ryouma"
+        },
+        {
+            "id": 120,
+            "name": "Edogawa, Conan"
+        },
+        {
+            "id": 121,
+            "name": "Edogawa, Ranpo"
+        },
+        {
+            "id": 122,
+            "name": "Edward Wong Hau Pepelu Tivrusky IV"
+        },
+        {
+            "id": 123,
+            "name": "Edward, Newgate"
+        },
+        {
+            "id": 124,
+            "name": "Eijirou Kirishima"
+        },
+        {
+            "id": 125,
+            "name": "Ein"
+        },
+        {
+            "id": 126,
+            "name": "Elaina"
+        },
+        {
+            "id": 127,
+            "name": "Emiya, Shirou"
+        },
+        {
+            "id": 128,
+            "name": "Emma"
+        },
+        {
+            "id": 129,
+            "name": "Endo, Kenji"
+        },
+        {
+            "id": 130,
+            "name": "Enma, Ai"
+        },
+        {
+            "id": 131,
+            "name": "Enoshima, Junko"
+        },
+        {
+            "id": 132,
+            "name": "Envy"
+        },
+        {
+            "id": 133,
+            "name": "Eris Boreas Greyrat"
+        },
+        {
+            "id": 134,
+            "name": "Eru Chitanda"
+        },
+        {
+            "id": 135,
+            "name": "Erwin Smith"
+        },
+        {
+            "id": 136,
+            "name": "Erza Scarlet"
+        },
+        {
+            "id": 137,
+            "name": "Esdeath"
+        },
+        {
+            "id": 138,
+            "name": "Eugeo"
+        },
+        {
+            "id": 139,
+            "name": "Evergarden, Violet"
+        },
+        {
+            "id": 140,
+            "name": "Fairbrook Wingates Hellsing, Integra"
+        },
+        {
+            "id": 141,
+            "name": "Faye Valentine"
+        },
+        {
+            "id": 142,
+            "name": "Fernandes, Jellal"
+        },
+        {
+            "id": 143,
+            "name": "Fibel, Sistine"
+        },
+        {
+            "id": 144,
+            "name": "Finger, Pieck"
+        },
+        {
+            "id": 145,
+            "name": "Flourite, Fai D."
+        },
+        {
+            "id": 146,
+            "name": "Foster, Isaac"
+        },
+        {
+            "id": 147,
+            "name": "Franky"
+        },
+        {
+            "id": 148,
+            "name": "Friend"
+        },
+        {
+            "id": 149,
+            "name": "Frieren"
+        },
+        {
+            "id": 150,
+            "name": "Fubuki"
+        },
+        {
+            "id": 151,
+            "name": "Fudou, Akira"
+        },
+        {
+            "id": 152,
+            "name": "Fujioka, Haruhi"
+        },
+        {
+            "id": 153,
+            "name": "Fujiwara, Bunta"
+        },
+        {
+            "id": 154,
+            "name": "Furude, Rika"
+        },
+        {
+            "id": 155,
+            "name": "Furuhashi, Fumino"
+        },
+        {
+            "id": 156,
+            "name": "Furukawa, Nagisa"
+        },
+        {
+            "id": 157,
+            "name": "Fushi"
+        },
+        {
+            "id": 158,
+            "name": "Fushiguro, Megumi"
+        },
+        {
+            "id": 159,
+            "name": "Fushiguro, Touji"
+        },
+        {
+            "id": 160,
+            "name": "Futaba, Rio"
+        },
+        {
+            "id": 161,
+            "name": "Future Trunks"
+        },
+        {
+            "id": 162,
+            "name": "Fuu"
+        },
+        {
+            "id": 163,
+            "name": "Gaara"
+        },
+        {
+            "id": 164,
+            "name": "Gabimaru"
+        },
+        {
+            "id": 165,
+            "name": "Gasai, Yuno"
+        },
+        {
+            "id": 166,
+            "name": "Gasai, Yuno"
+        },
+        {
+            "id": 167,
+            "name": "Genos"
+        },
+        {
+            "id": 168,
+            "name": "Getou, Suguru"
+        },
+        {
+            "id": 169,
+            "name": "Ghirga, Narancia"
+        },
+        {
+            "id": 170,
+            "name": "Gilgamesh"
+        },
+        {
+            "id": 171,
+            "name": "Gin"
+        },
+        {
+            "id": 172,
+            "name": "Ginko"
+        },
+        {
+            "id": 173,
+            "name": "Gojou, Satoru"
+        },
+        {
+            "id": 174,
+            "name": "Gokou, Ruri"
+        },
+        {
+            "id": 175,
+            "name": "Gokudera, Hayato"
+        },
+        {
+            "id": 176,
+            "name": "Gon Freecss"
+        },
+        {
+            "id": 177,
+            "name": "Gotou, Hitori"
+        },
+        {
+            "id": 178,
+            "name": "Gouda, Takeo"
+        },
+        {
+            "id": 179,
+            "name": "Greed"
+        },
+        {
+            "id": 180,
+            "name": "Grell Sutcliff"
+        },
+        {
+            "id": 181,
+            "name": "Griffith"
+        },
+        {
+            "id": 182,
+            "name": "Gundou, Misuzu"
+        },
+        {
+            "id": 183,
+            "name": "Guts"
+        },
+        {
+            "id": 184,
+            "name": "Gyro Zeppeli"
+        },
+        {
+            "id": 185,
+            "name": "Haibara, Ai"
+        },
+        {
+            "id": 186,
+            "name": "Haji"
+        },
+        {
+            "id": 187,
+            "name": "Hak Son"
+        },
+        {
+            "id": 188,
+            "name": "Hanagaki, Takemichi"
+        },
+        {
+            "id": 189,
+            "name": "Hanako-kun"
+        },
+        {
+            "id": 190,
+            "name": "Handa, Sei"
+        },
+        {
+            "id": 191,
+            "name": "Hange Zo\u00eb"
+        },
+        {
+            "id": 192,
+            "name": "Haninozuka, Mitsukuni"
+        },
+        {
+            "id": 193,
+            "name": "Hanma, Baki"
+        },
+        {
+            "id": 194,
+            "name": "Happy"
+        },
+        {
+            "id": 195,
+            "name": "Haruhi Suzumiya"
+        },
+        {
+            "id": 196,
+            "name": "Haruno, Sakura"
+        },
+        {
+            "id": 197,
+            "name": "Hasegawa, Taizou"
+        },
+        {
+            "id": 198,
+            "name": "Hatake, Kakashi"
+        },
+        {
+            "id": 199,
+            "name": "Hatori, Chise"
+        },
+        {
+            "id": 200,
+            "name": "Hatsune, Miku"
+        },
+        {
+            "id": 201,
+            "name": "Hatsuseno, Alpha"
+        },
+        {
+            "id": 202,
+            "name": "Hawkeye, Riza"
+        },
+        {
+            "id": 203,
+            "name": "Hayasaka, Ai"
+        },
+        {
+            "id": 204,
+            "name": "Hazuki, Nagisa"
+        },
+        {
+            "id": 205,
+            "name": "Hei"
+        },
+        {
+            "id": 206,
+            "name": "Hekmatyar, Koko"
+        },
+        {
+            "id": 207,
+            "name": "Hellscythe, Eucliwood"
+        },
+        {
+            "id": 208,
+            "name": "Hestia"
+        },
+        {
+            "id": 209,
+            "name": "Hibari, Kyouya"
+        },
+        {
+            "id": 210,
+            "name": "Hidenori, Tabata"
+        },
+        {
+            "id": 211,
+            "name": "Hiei"
+        },
+        {
+            "id": 212,
+            "name": "Hifumi, Takimoto"
+        },
+        {
+            "id": 213,
+            "name": "Higashikata, Jousuke"
+        },
+        {
+            "id": 214,
+            "name": "Higashiyama, Kobeni"
+        },
+        {
+            "id": 215,
+            "name": "Higurashi, Kagome"
+        },
+        {
+            "id": 216,
+            "name": "Hiiragi, Kagami"
+        },
+        {
+            "id": 217,
+            "name": "Hikigaya, Hachiman"
+        },
+        {
+            "id": 218,
+            "name": "Himejima, Akeno"
+        },
+        {
+            "id": 219,
+            "name": "Himeko Inaba"
+        },
+        {
+            "id": 220,
+            "name": "Himeno"
+        },
+        {
+            "id": 221,
+            "name": "Himura, Kenshin"
+        },
+        {
+            "id": 222,
+            "name": "Hinazuki, Kayo"
+        },
+        {
+            "id": 223,
+            "name": "Hiraga, Saito"
+        },
+        {
+            "id": 224,
+            "name": "Hirako, Shinji"
+        },
+        {
+            "id": 225,
+            "name": "Hirasawa, Yui"
+        },
+        {
+            "id": 226,
+            "name": "Hiratsuka, Shizuka"
+        },
+        {
+            "id": 227,
+            "name": "Hiro"
+        },
+        {
+            "id": 228,
+            "name": "Hiruma, Youichi"
+        },
+        {
+            "id": 229,
+            "name": "Hishiro, Chizuru"
+        },
+        {
+            "id": 230,
+            "name": "Hitachiin, Kaoru"
+        },
+        {
+            "id": 231,
+            "name": "Hohenheim, Van"
+        },
+        {
+            "id": 232,
+            "name": "Holo"
+        },
+        {
+            "id": 233,
+            "name": "Homura Akemi"
+        },
+        {
+            "id": 234,
+            "name": "Honda, Gorou"
+        },
+        {
+            "id": 235,
+            "name": "Honda, Hanako"
+        },
+        {
+            "id": 236,
+            "name": "Honma, Meiko"
+        },
+        {
+            "id": 237,
+            "name": "Hori, Kyouko"
+        },
+        {
+            "id": 238,
+            "name": "Hoshino, Ai"
+        },
+        {
+            "id": 239,
+            "name": "Hoshino, Aquamarine"
+        },
+        {
+            "id": 240,
+            "name": "Hoshino, Ruby"
+        },
+        {
+            "id": 241,
+            "name": "Houtarou Oreki"
+        },
+        {
+            "id": 242,
+            "name": "Howl"
+        },
+        {
+            "id": 243,
+            "name": "Hughes, Maes"
+        },
+        {
+            "id": 244,
+            "name": "Hyakkimaru"
+        },
+        {
+            "id": 245,
+            "name": "Hyakuya, Yuuichirou"
+        },
+        {
+            "id": 246,
+            "name": "Hyuuga, Hinata"
+        },
+        {
+            "id": 247,
+            "name": "Ibuki, Fuuko"
+        },
+        {
+            "id": 248,
+            "name": "Ichigo"
+        },
+        {
+            "id": 249,
+            "name": "Ichihara, Yuuko"
+        },
+        {
+            "id": 250,
+            "name": "Ichimaru, Gin"
+        },
+        {
+            "id": 251,
+            "name": "Ichinose, Chizuru"
+        },
+        {
+            "id": 252,
+            "name": "Ichinose, Guren"
+        },
+        {
+            "id": 253,
+            "name": "Ichinose, Kotomi"
+        },
+        {
+            "id": 254,
+            "name": "Iino, Miko"
+        },
+        {
+            "id": 255,
+            "name": "Ijichi, Nijika"
+        },
+        {
+            "id": 256,
+            "name": "Ikaros"
+        },
+        {
+            "id": 257,
+            "name": "Ikishima, Midari"
+        },
+        {
+            "id": 258,
+            "name": "Inori Yuzuriha"
+        },
+        {
+            "id": 259,
+            "name": "Inosuke Hashibira"
+        },
+        {
+            "id": 260,
+            "name": "Inoue, Orihime"
+        },
+        {
+            "id": 261,
+            "name": "Inumaki, Toge"
+        },
+        {
+            "id": 262,
+            "name": "Inuyasha"
+        },
+        {
+            "id": 263,
+            "name": "Iris"
+        },
+        {
+            "id": 264,
+            "name": "Isagi, Yoichi"
+        },
+        {
+            "id": 265,
+            "name": "Isla"
+        },
+        {
+            "id": 266,
+            "name": "Itachi Uchiha"
+        },
+        {
+            "id": 267,
+            "name": "Itoshiki, Nozomu"
+        },
+        {
+            "id": 268,
+            "name": "Itsuka, Kotori"
+        },
+        {
+            "id": 269,
+            "name": "Itsuki Nakano"
+        },
+        {
+            "id": 270,
+            "name": "Iwakura, Lain"
+        },
+        {
+            "id": 271,
+            "name": "Iwasawa, Masami"
+        },
+        {
+            "id": 272,
+            "name": "Izaya Orihara"
+        },
+        {
+            "id": 273,
+            "name": "Izuku Midoriya"
+        },
+        {
+            "id": 274,
+            "name": "Izumi Miyamura"
+        },
+        {
+            "id": 275,
+            "name": "Izumi, Sagiri"
+        },
+        {
+            "id": 276,
+            "name": "Izumi, Shinichi"
+        },
+        {
+            "id": 277,
+            "name": "Jabami, Yumeko"
+        },
+        {
+            "id": 278,
+            "name": "Jaegerjaquez, Grimmjow"
+        },
+        {
+            "id": 279,
+            "name": "James Moriarty, William"
+        },
+        {
+            "id": 280,
+            "name": "Jibril"
+        },
+        {
+            "id": 281,
+            "name": "Jin"
+        },
+        {
+            "id": 282,
+            "name": "Jinbe"
+        },
+        {
+            "id": 283,
+            "name": "Jiraiya"
+        },
+        {
+            "id": 284,
+            "name": "Joestar, Joseph"
+        },
+        {
+            "id": 285,
+            "name": "Johan Liebert"
+        },
+        {
+            "id": 286,
+            "name": "Johnny Joestar"
+        },
+        {
+            "id": 287,
+            "name": "Jousuke Higashikata"
+        },
+        {
+            "id": 288,
+            "name": "Joutarou Kuujou"
+        },
+        {
+            "id": 289,
+            "name": "Kaburagi, Kotetsu T."
+        },
+        {
+            "id": 290,
+            "name": "Kaga, Kouko"
+        },
+        {
+            "id": 291,
+            "name": "Kagari, Atsuko"
+        },
+        {
+            "id": 292,
+            "name": "Kagura"
+        },
+        {
+            "id": 293,
+            "name": "Kaguya Shinomiya"
+        },
+        {
+            "id": 294,
+            "name": "Kaiba, Seto"
+        },
+        {
+            "id": 295,
+            "name": "Kaidou, Shun"
+        },
+        {
+            "id": 296,
+            "name": "Kaiki, Deishuu"
+        },
+        {
+            "id": 297,
+            "name": "Kajou, Ayame"
+        },
+        {
+            "id": 298,
+            "name": "Kajou, Ayame"
+        },
+        {
+            "id": 299,
+            "name": "Kakyouin, Noriaki"
+        },
+        {
+            "id": 300,
+            "name": "Kallen Stadtfeld"
+        },
+        {
+            "id": 301,
+            "name": "Kamijou, Touma"
+        },
+        {
+            "id": 302,
+            "name": "Kamina"
+        },
+        {
+            "id": 303,
+            "name": "Kamui"
+        },
+        {
+            "id": 304,
+            "name": "Kana Arima"
+        },
+        {
+            "id": 305,
+            "name": "Kanade Tachibana"
+        },
+        {
+            "id": 306,
+            "name": "Kanamori, Sayaka"
+        },
+        {
+            "id": 307,
+            "name": "Kanao Tsuyuri"
+        },
+        {
+            "id": 308,
+            "name": "Kanbaru, Suruga"
+        },
+        {
+            "id": 309,
+            "name": "Kanbe, Daisuke"
+        },
+        {
+            "id": 310,
+            "name": "Kanda, Yuu"
+        },
+        {
+            "id": 311,
+            "name": "Kaneda, Shoutarou"
+        },
+        {
+            "id": 312,
+            "name": "Kaneki, Ken"
+        },
+        {
+            "id": 313,
+            "name": "Kani, Nayuta"
+        },
+        {
+            "id": 314,
+            "name": "Kanna Kamui"
+        },
+        {
+            "id": 315,
+            "name": "Kanoe, Yuuko"
+        },
+        {
+            "id": 316,
+            "name": "Kanroji, Mitsuri"
+        },
+        {
+            "id": 317,
+            "name": "Kanzaki, Urumi"
+        },
+        {
+            "id": 318,
+            "name": "Kaonashi"
+        },
+        {
+            "id": 319,
+            "name": "Kaori Miyazono"
+        },
+        {
+            "id": 320,
+            "name": "Karma Akabane"
+        },
+        {
+            "id": 321,
+            "name": "Kasuga, Arata"
+        },
+        {
+            "id": 322,
+            "name": "Kasumigaoka, Utaha"
+        },
+        {
+            "id": 323,
+            "name": "Katagiri, Yuuichi"
+        },
+        {
+            "id": 324,
+            "name": "Katsuki Bakugou"
+        },
+        {
+            "id": 325,
+            "name": "Katsura, Hinagiku"
+        },
+        {
+            "id": 326,
+            "name": "Katsura, Kotarou"
+        },
+        {
+            "id": 327,
+            "name": "Kawai, Rika"
+        },
+        {
+            "id": 328,
+            "name": "Kawamoto, Hinata"
+        },
+        {
+            "id": 329,
+            "name": "Kawashima, Ami"
+        },
+        {
+            "id": 330,
+            "name": "Kazami, Yuuji"
+        },
+        {
+            "id": 331,
+            "name": "Kazehaya, Shouta"
+        },
+        {
+            "id": 332,
+            "name": "Kazuma Satou"
+        },
+        {
+            "id": 333,
+            "name": "Keehl, Mihael"
+        },
+        {
+            "id": 334,
+            "name": "Kei Tsukishima"
+        },
+        {
+            "id": 335,
+            "name": "Kenji Harima"
+        },
+        {
+            "id": 336,
+            "name": "Kenma Kozume"
+        },
+        {
+            "id": 337,
+            "name": "Kenshirou"
+        },
+        {
+            "id": 338,
+            "name": "Kento Nanami"
+        },
+        {
+            "id": 339,
+            "name": "Kenzou Tenma"
+        },
+        {
+            "id": 340,
+            "name": "Keyaru"
+        },
+        {
+            "id": 341,
+            "name": "Khun, Aguero Agnes"
+        },
+        {
+            "id": 342,
+            "name": "Kim, Dokja"
+        },
+        {
+            "id": 343,
+            "name": "King"
+        },
+        {
+            "id": 344,
+            "name": "Kino"
+        },
+        {
+            "id": 345,
+            "name": "Kira, Yoshikage"
+        },
+        {
+            "id": 346,
+            "name": "Kirigaya, Kazuto"
+        },
+        {
+            "id": 347,
+            "name": "Kirigiri, Kyouko"
+        },
+        {
+            "id": 348,
+            "name": "Kirisaki, Chitoge"
+        },
+        {
+            "id": 349,
+            "name": "Kirishima, Touka"
+        },
+        {
+            "id": 350,
+            "name": "Kirisu, Mafuyu"
+        },
+        {
+            "id": 351,
+            "name": "Kiritsugu Emiya"
+        },
+        {
+            "id": 352,
+            "name": "Kirstein, Jean"
+        },
+        {
+            "id": 353,
+            "name": "Kiryuu, Zero"
+        },
+        {
+            "id": 354,
+            "name": "Kise, Ryouta"
+        },
+        {
+            "id": 355,
+            "name": "Kishibe, Rohan"
+        },
+        {
+            "id": 356,
+            "name": "Kita, Ikuyo"
+        },
+        {
+            "id": 357,
+            "name": "Kita, Ikuyo"
+        },
+        {
+            "id": 358,
+            "name": "Kitahara, Iori"
+        },
+        {
+            "id": 359,
+            "name": "Kiyose, Haiji"
+        },
+        {
+            "id": 360,
+            "name": "Kochou, Shinobu"
+        },
+        {
+            "id": 361,
+            "name": "Koga, Tomoe"
+        },
+        {
+            "id": 362,
+            "name": "Koibuchi, Kuranosuke"
+        },
+        {
+            "id": 363,
+            "name": "Koito, Yuu"
+        },
+        {
+            "id": 364,
+            "name": "Komaeda, Nagito"
+        },
+        {
+            "id": 365,
+            "name": "Konata Izumi"
+        },
+        {
+            "id": 366,
+            "name": "Konjiki no Yami"
+        },
+        {
+            "id": 367,
+            "name": "Koro-sensei"
+        },
+        {
+            "id": 368,
+            "name": "Kotegawa, Chisa"
+        },
+        {
+            "id": 369,
+            "name": "Kousaka, Honoka"
+        },
+        {
+            "id": 370,
+            "name": "Kousaka, Honoka"
+        },
+        {
+            "id": 371,
+            "name": "Koushi Sugawara"
+        },
+        {
+            "id": 372,
+            "name": "Kuchiki, Byakuya"
+        },
+        {
+            "id": 373,
+            "name": "Kuchiki, Rukia"
+        },
+        {
+            "id": 374,
+            "name": "Kukumila, Kurena"
+        },
+        {
+            "id": 375,
+            "name": "Kumagawa, Misogi"
+        },
+        {
+            "id": 376,
+            "name": "Kumiko Oumae"
+        },
+        {
+            "id": 377,
+            "name": "Kumoko"
+        },
+        {
+            "id": 378,
+            "name": "Kurama"
+        },
+        {
+            "id": 379,
+            "name": "Kuran, Kaname"
+        },
+        {
+            "id": 380,
+            "name": "Kurapika"
+        },
+        {
+            "id": 381,
+            "name": "Kurauchi, Kuranosuke"
+        },
+        {
+            "id": 382,
+            "name": "Kurisu Makise"
+        },
+        {
+            "id": 383,
+            "name": "Kuriyama, Mirai"
+        },
+        {
+            "id": 384,
+            "name": "Kuro no Rider"
+        },
+        {
+            "id": 385,
+            "name": "Kuroba, Kaito"
+        },
+        {
+            "id": 386,
+            "name": "Kurogane, Ikki"
+        },
+        {
+            "id": 387,
+            "name": "Kurokawa, Akane"
+        },
+        {
+            "id": 388,
+            "name": "Kurono, Kei"
+        },
+        {
+            "id": 389,
+            "name": "Kuroo, Tetsurou"
+        },
+        {
+            "id": 390,
+            "name": "Kurosaki, Ichigo"
+        },
+        {
+            "id": 391,
+            "name": "Kurosaki, Tasuku"
+        },
+        {
+            "id": 392,
+            "name": "Kurumi Tokisaki"
+        },
+        {
+            "id": 393,
+            "name": "Kururugi, Suzaku"
+        },
+        {
+            "id": 394,
+            "name": "Kusakabe, Shinra"
+        },
+        {
+            "id": 395,
+            "name": "Kushieda, Minori"
+        },
+        {
+            "id": 396,
+            "name": "Kusuo Saiki"
+        },
+        {
+            "id": 397,
+            "name": "Kusuriuri"
+        },
+        {
+            "id": 398,
+            "name": "Kuwabara, Kazuma"
+        },
+        {
+            "id": 399,
+            "name": "Kyan, Reki"
+        },
+        {
+            "id": 400,
+            "name": "Kyan, Reki"
+        },
+        {
+            "id": 401,
+            "name": "Kyon"
+        },
+        {
+            "id": 402,
+            "name": "Kyou Souma"
+        },
+        {
+            "id": 403,
+            "name": "Kyouraku, Jirou Souzousuke Shunsui"
+        },
+        {
+            "id": 404,
+            "name": "Lagusa, Angelo"
+        },
+        {
+            "id": 405,
+            "name": "Lamperouge, Lelouch"
+        },
+        {
+            "id": 406,
+            "name": "Lan, Wangji"
+        },
+        {
+            "id": 407,
+            "name": "Lancer"
+        },
+        {
+            "id": 408,
+            "name": "Lavi"
+        },
+        {
+            "id": 409,
+            "name": "Lawliet, L"
+        },
+        {
+            "id": 410,
+            "name": "Lawrence, Kraft"
+        },
+        {
+            "id": 411,
+            "name": "Le Blanc de La Valli\u00e8re, Louise Fran\u00e7oise"
+        },
+        {
+            "id": 412,
+            "name": "Lee, Rock"
+        },
+        {
+            "id": 413,
+            "name": "Lenz, Krista"
+        },
+        {
+            "id": 414,
+            "name": "Leonardo, Watch"
+        },
+        {
+            "id": 415,
+            "name": "Leone"
+        },
+        {
+            "id": 416,
+            "name": "Leonhart, Annie"
+        },
+        {
+            "id": 417,
+            "name": "Levi"
+        },
+        {
+            "id": 418,
+            "name": "Li, Shaoran"
+        },
+        {
+            "id": 419,
+            "name": "Littner, Yoko"
+        },
+        {
+            "id": 420,
+            "name": "Lockser, Juvia"
+        },
+        {
+            "id": 421,
+            "name": "Lubbock"
+        },
+        {
+            "id": 422,
+            "name": "Lucy"
+        },
+        {
+            "id": 423,
+            "name": "Lucy"
+        },
+        {
+            "id": 424,
+            "name": "Ludenberg, Celestia"
+        },
+        {
+            "id": 425,
+            "name": "Lum"
+        },
+        {
+            "id": 426,
+            "name": "Mabuchi, Kou"
+        },
+        {
+            "id": 427,
+            "name": "Madara"
+        },
+        {
+            "id": 428,
+            "name": "Makima"
+        },
+        {
+            "id": 429,
+            "name": "Makima"
+        },
+        {
+            "id": 430,
+            "name": "Makise, Kurisu"
+        },
+        {
+            "id": 431,
+            "name": "Makunouchi, Ippo"
+        },
+        {
+            "id": 432,
+            "name": "Mami Nanami"
+        },
+        {
+            "id": 433,
+            "name": "Manjirou Sano"
+        },
+        {
+            "id": 434,
+            "name": "Mankanshoku, Mako"
+        },
+        {
+            "id": 435,
+            "name": "Marin Kitagawa"
+        },
+        {
+            "id": 436,
+            "name": "Martinez, David"
+        },
+        {
+            "id": 437,
+            "name": "Marvell, Wendy"
+        },
+        {
+            "id": 438,
+            "name": "Mashiro Shiina"
+        },
+        {
+            "id": 439,
+            "name": "Matou, Sakura"
+        },
+        {
+            "id": 440,
+            "name": "Matsuoka, Rin"
+        },
+        {
+            "id": 441,
+            "name": "Matsuzaka, Satou"
+        },
+        {
+            "id": 442,
+            "name": "Matsuzaka, Satou"
+        },
+        {
+            "id": 443,
+            "name": "Megumi Katou"
+        },
+        {
+            "id": 444,
+            "name": "Megumi, Tadokoro"
+        },
+        {
+            "id": 445,
+            "name": "Megumin"
+        },
+        {
+            "id": 446,
+            "name": "Meliodas"
+        },
+        {
+            "id": 447,
+            "name": "Mercury, Rory"
+        },
+        {
+            "id": 448,
+            "name": "Meruem"
+        },
+        {
+            "id": 449,
+            "name": "Midorima, Shintarou"
+        },
+        {
+            "id": 450,
+            "name": "Might, Guy"
+        },
+        {
+            "id": 451,
+            "name": "Migi"
+        },
+        {
+            "id": 452,
+            "name": "Miia"
+        },
+        {
+            "id": 453,
+            "name": "Miketsukami, Soushi"
+        },
+        {
+            "id": 454,
+            "name": "Mikk, Tyki"
+        },
+        {
+            "id": 455,
+            "name": "Mikoshiba, Mikoto"
+        },
+        {
+            "id": 456,
+            "name": "Mikoto Misaka"
+        },
+        {
+            "id": 457,
+            "name": "Miku Nakano"
+        },
+        {
+            "id": 458,
+            "name": "Milim, Nava"
+        },
+        {
+            "id": 459,
+            "name": "Minami, Kotori"
+        },
+        {
+            "id": 460,
+            "name": "Minato Namikaze"
+        },
+        {
+            "id": 461,
+            "name": "Mine"
+        },
+        {
+            "id": 462,
+            "name": "Miniwa, Tsumiki"
+        },
+        {
+            "id": 463,
+            "name": "Miniwa, Tsumiki"
+        },
+        {
+            "id": 464,
+            "name": "Mio Akiyama"
+        },
+        {
+            "id": 465,
+            "name": "Misato Katsuragi"
+        },
+        {
+            "id": 466,
+            "name": "Mishima, Hitomi"
+        },
+        {
+            "id": 467,
+            "name": "Mitsuba, Sousuke"
+        },
+        {
+            "id": 468,
+            "name": "Miya, Atsumu"
+        },
+        {
+            "id": 469,
+            "name": "Miyauchi, Renge"
+        },
+        {
+            "id": 470,
+            "name": "Miyuki, Kazuya"
+        },
+        {
+            "id": 471,
+            "name": "Miyuki, Shiba"
+        },
+        {
+            "id": 472,
+            "name": "Mizunashi, Akari"
+        },
+        {
+            "id": 473,
+            "name": "Mogami, Kyouko"
+        },
+        {
+            "id": 474,
+            "name": "Momo Belia Deviluke"
+        },
+        {
+            "id": 475,
+            "name": "Momobami, Kirari"
+        },
+        {
+            "id": 476,
+            "name": "Momonga"
+        },
+        {
+            "id": 477,
+            "name": "Momozono, Nanami"
+        },
+        {
+            "id": 478,
+            "name": "Monkey D., Luffy"
+        },
+        {
+            "id": 479,
+            "name": "Monokuma"
+        },
+        {
+            "id": 480,
+            "name": "Montgomery, Lucy Maud"
+        },
+        {
+            "id": 481,
+            "name": "Morgiana"
+        },
+        {
+            "id": 482,
+            "name": "Mori, Buntarou"
+        },
+        {
+            "id": 483,
+            "name": "Mori, Buntarou"
+        },
+        {
+            "id": 484,
+            "name": "Morinome, Shinako"
+        },
+        {
+            "id": 485,
+            "name": "Morita, Shinobu"
+        },
+        {
+            "id": 486,
+            "name": "Morokuzu, Takehito"
+        },
+        {
+            "id": 487,
+            "name": "Morow, Hisoka"
+        },
+        {
+            "id": 488,
+            "name": "Motoko Kusanagi"
+        },
+        {
+            "id": 489,
+            "name": "Mugen"
+        },
+        {
+            "id": 490,
+            "name": "Mumen Rider"
+        },
+        {
+            "id": 491,
+            "name": "Musashi Miyamoto"
+        },
+        {
+            "id": 492,
+            "name": "Mustang, Roy"
+        },
+        {
+            "id": 493,
+            "name": "Nagatoro, Hayase"
+        },
+        {
+            "id": 494,
+            "name": "Nagi, Seishirou"
+        },
+        {
+            "id": 495,
+            "name": "Nagisa, Kaworu"
+        },
+        {
+            "id": 496,
+            "name": "Nagumo, Hajime"
+        },
+        {
+            "id": 497,
+            "name": "Nakahara, Misaki"
+        },
+        {
+            "id": 498,
+            "name": "Nakahara, Sunako"
+        },
+        {
+            "id": 499,
+            "name": "Nakamura, Sawa"
+        },
+        {
+            "id": 500,
+            "name": "Nakamura, Yuri"
+        },
+        {
+            "id": 501,
+            "name": "Nakano, Azusa"
+        },
+        {
+            "id": 502,
+            "name": "Nakiri, Alice"
+        },
+        {
+            "id": 503,
+            "name": "Nakiri, Erina"
+        },
+        {
+            "id": 504,
+            "name": "Nami"
+        },
+        {
+            "id": 505,
+            "name": "Nanachi"
+        },
+        {
+            "id": 506,
+            "name": "Nanakusa, Nazuna"
+        },
+        {
+            "id": 507,
+            "name": "Nanami, Chiaki"
+        },
+        {
+            "id": 508,
+            "name": "Nanami, Kento"
+        },
+        {
+            "id": 509,
+            "name": "Nanase, Haruka"
+        },
+        {
+            "id": 510,
+            "name": "Nanba, Mutta"
+        },
+        {
+            "id": 511,
+            "name": "Nandaba, Naota"
+        },
+        {
+            "id": 512,
+            "name": "Nanjou, Sachi"
+        },
+        {
+            "id": 513,
+            "name": "Nao Tomori"
+        },
+        {
+            "id": 514,
+            "name": "Naofumi Iwatani"
+        },
+        {
+            "id": 515,
+            "name": "Natsu Dragneel"
+        },
+        {
+            "id": 516,
+            "name": "Nausica\u00e4"
+        },
+        {
+            "id": 517,
+            "name": "Neferpitou"
+        },
+        {
+            "id": 518,
+            "name": "Nendou, Riki"
+        },
+        {
+            "id": 519,
+            "name": "Netero, Isaac"
+        },
+        {
+            "id": 520,
+            "name": "Nezuko Kamado"
+        },
+        {
+            "id": 521,
+            "name": "Nezumi"
+        },
+        {
+            "id": 522,
+            "name": "Nia, Teppelin"
+        },
+        {
+            "id": 523,
+            "name": "Nico Robin"
+        },
+        {
+            "id": 524,
+            "name": "Nifuji, Hirotaka"
+        },
+        {
+            "id": 525,
+            "name": "Niizuma, Eiji"
+        },
+        {
+            "id": 526,
+            "name": "Nijimura, Okuyasu"
+        },
+        {
+            "id": 527,
+            "name": "Nikaidou"
+        },
+        {
+            "id": 528,
+            "name": "Nine"
+        },
+        {
+            "id": 529,
+            "name": "Nino Nakano"
+        },
+        {
+            "id": 530,
+            "name": "Nishikigi, Chisato"
+        },
+        {
+            "id": 531,
+            "name": "Nishinoya, Yuu"
+        },
+        {
+            "id": 532,
+            "name": "Nobara Kugisaki"
+        },
+        {
+            "id": 533,
+            "name": "Noda, Megumi"
+        },
+        {
+            "id": 534,
+            "name": "Noi"
+        },
+        {
+            "id": 535,
+            "name": "Noriaki Kakyouin"
+        },
+        {
+            "id": 536,
+            "name": "Norman"
+        },
+        {
+            "id": 537,
+            "name": "Nota Seniorious, Chtholly"
+        },
+        {
+            "id": 538,
+            "name": "Nouzen, Shinei"
+        },
+        {
+            "id": 539,
+            "name": "Novachrono, Julius"
+        },
+        {
+            "id": 540,
+            "name": "Nozomi, Toujou"
+        },
+        {
+            "id": 541,
+            "name": "Nyaruko"
+        },
+        {
+            "id": 542,
+            "name": "Ochako Uraraka"
+        },
+        {
+            "id": 543,
+            "name": "Oda, Sakunosuke"
+        },
+        {
+            "id": 544,
+            "name": "Oga, Tatsumi"
+        },
+        {
+            "id": 545,
+            "name": "Ogino, Chihiro"
+        },
+        {
+            "id": 546,
+            "name": "Ogiwara, Sayu"
+        },
+        {
+            "id": 547,
+            "name": "Oikawa, Tooru"
+        },
+        {
+            "id": 548,
+            "name": "Okazaki, Shinichi"
+        },
+        {
+            "id": 549,
+            "name": "Okazaki, Ushio"
+        },
+        {
+            "id": 550,
+            "name": "Okkotsu, Yuuta"
+        },
+        {
+            "id": 551,
+            "name": "Okumura, Eiji"
+        },
+        {
+            "id": 552,
+            "name": "Okumura, Rin"
+        },
+        {
+            "id": 553,
+            "name": "Onizuka, Eikichi"
+        },
+        {
+            "id": 554,
+            "name": "Onodera, Kosaki"
+        },
+        {
+            "id": 555,
+            "name": "Ononoki, Yotsugi"
+        },
+        {
+            "id": 556,
+            "name": "Ooe, Kintarou"
+        },
+        {
+            "id": 557,
+            "name": "Ootani, Atsushi"
+        },
+        {
+            "id": 558,
+            "name": "Ooto, Ai"
+        },
+        {
+            "id": 559,
+            "name": "Ootori, Kyouya"
+        },
+        {
+            "id": 560,
+            "name": "Orochimaru"
+        },
+        {
+            "id": 561,
+            "name": "Osaki, Nana"
+        },
+        {
+            "id": 562,
+            "name": "Osana, Najimi"
+        },
+        {
+            "id": 563,
+            "name": "Oshino, Meme"
+        },
+        {
+            "id": 564,
+            "name": "Otonashi, Yuzuru"
+        },
+        {
+            "id": 565,
+            "name": "Otosaka, Yuu"
+        },
+        {
+            "id": 566,
+            "name": "Ouzen"
+        },
+        {
+            "id": 567,
+            "name": "Pain"
+        },
+        {
+            "id": 568,
+            "name": "Paladiknight, Leorio"
+        },
+        {
+            "id": 569,
+            "name": "Pen Pen"
+        },
+        {
+            "id": 570,
+            "name": "Phantomhive, Ciel"
+        },
+        {
+            "id": 571,
+            "name": "Pheles, Mephisto"
+        },
+        {
+            "id": 572,
+            "name": "Phil"
+        },
+        {
+            "id": 573,
+            "name": "Phosphophyllite"
+        },
+        {
+            "id": 574,
+            "name": "Piccolo"
+        },
+        {
+            "id": 575,
+            "name": "Pikachu"
+        },
+        {
+            "id": 576,
+            "name": "Pikachu"
+        },
+        {
+            "id": 577,
+            "name": "Pingu"
+        },
+        {
+            "id": 578,
+            "name": "Pochita"
+        },
+        {
+            "id": 579,
+            "name": "Polnareff, Jean-Pierre"
+        },
+        {
+            "id": 580,
+            "name": "Portgas D. Ace"
+        },
+        {
+            "id": 581,
+            "name": "Portor, Feitan"
+        },
+        {
+            "id": 582,
+            "name": "Power"
+        },
+        {
+            "id": 583,
+            "name": "Pucci, Enrico"
+        },
+        {
+            "id": 584,
+            "name": "Ram"
+        },
+        {
+            "id": 585,
+            "name": "Raphtalia"
+        },
+        {
+            "id": 586,
+            "name": "Ray"
+        },
+        {
+            "id": 587,
+            "name": "Rebecca"
+        },
+        {
+            "id": 588,
+            "name": "Reborn"
+        },
+        {
+            "id": 589,
+            "name": "Redfox, Gajeel"
+        },
+        {
+            "id": 590,
+            "name": "Reg"
+        },
+        {
+            "id": 591,
+            "name": "Rei Ayanami"
+        },
+        {
+            "id": 592,
+            "name": "Rei Kiriyama"
+        },
+        {
+            "id": 593,
+            "name": "Reigen, Arataka"
+        },
+        {
+            "id": 594,
+            "name": "Reiner Braun"
+        },
+        {
+            "id": 595,
+            "name": "Reinhard von Lohengramm"
+        },
+        {
+            "id": 596,
+            "name": "Rem"
+        },
+        {
+            "id": 597,
+            "name": "Rena Ryuuguu"
+        },
+        {
+            "id": 598,
+            "name": "Rengoku, Kyoujurou"
+        },
+        {
+            "id": 599,
+            "name": "Revy"
+        },
+        {
+            "id": 600,
+            "name": "Rias Gremory"
+        },
+        {
+            "id": 601,
+            "name": "Rider"
+        },
+        {
+            "id": 602,
+            "name": "Rikka Takanashi"
+        },
+        {
+            "id": 603,
+            "name": "Rimuru Tempest"
+        },
+        {
+            "id": 604,
+            "name": "Rin Toosaka"
+        },
+        {
+            "id": 605,
+            "name": "Ritsu Tainaka"
+        },
+        {
+            "id": 606,
+            "name": "Rock Lee"
+        },
+        {
+            "id": 607,
+            "name": "Rockbell, Winry"
+        },
+        {
+            "id": 608,
+            "name": "Rokudou, Mukuro"
+        },
+        {
+            "id": 609,
+            "name": "Roronoa, Zoro"
+        },
+        {
+            "id": 610,
+            "name": "Roxy Migurdia"
+        },
+        {
+            "id": 611,
+            "name": "Rukia Kuchiki"
+        },
+        {
+            "id": 612,
+            "name": "Ruler"
+        },
+        {
+            "id": 613,
+            "name": "Ryuk"
+        },
+        {
+            "id": 614,
+            "name": "Ryuu, Jusetsu"
+        },
+        {
+            "id": 615,
+            "name": "Ryuuguuji, Ken"
+        },
+        {
+            "id": 616,
+            "name": "Ryuuji Takasu"
+        },
+        {
+            "id": 617,
+            "name": "Ryuuko Matoi"
+        },
+        {
+            "id": 618,
+            "name": "Saber"
+        },
+        {
+            "id": 619,
+            "name": "Sagara, Sousuke"
+        },
+        {
+            "id": 620,
+            "name": "Sagiri, Yamada Asaemon"
+        },
+        {
+            "id": 621,
+            "name": "Saichi, Sugimoto"
+        },
+        {
+            "id": 622,
+            "name": "Sakamaki, Izayoi"
+        },
+        {
+            "id": 623,
+            "name": "Sakamoto"
+        },
+        {
+            "id": 624,
+            "name": "Sakata, Gintoki"
+        },
+        {
+            "id": 625,
+            "name": "Sakura Kinomoto"
+        },
+        {
+            "id": 626,
+            "name": "Sakuragi, Rokurouta"
+        },
+        {
+            "id": 627,
+            "name": "Sakurajima, Mai"
+        },
+        {
+            "id": 628,
+            "name": "Sakurasawa, Sumi"
+        },
+        {
+            "id": 629,
+            "name": "Sakuta Azusagawa"
+        },
+        {
+            "id": 630,
+            "name": "Saluja, Alibaba"
+        },
+        {
+            "id": 631,
+            "name": "Samejima, Mamimi"
+        },
+        {
+            "id": 632,
+            "name": "San"
+        },
+        {
+            "id": 633,
+            "name": "Sanji"
+        },
+        {
+            "id": 634,
+            "name": "Sanji"
+        },
+        {
+            "id": 635,
+            "name": "Sanka, Rea"
+        },
+        {
+            "id": 636,
+            "name": "Saotome, Mary"
+        },
+        {
+            "id": 637,
+            "name": "Saotome, Ranma"
+        },
+        {
+            "id": 638,
+            "name": "Sara"
+        },
+        {
+            "id": 639,
+            "name": "Sarashina, Ruka"
+        },
+        {
+            "id": 640,
+            "name": "Sasaki, Haise"
+        },
+        {
+            "id": 641,
+            "name": "Sasaki, Kojirou"
+        },
+        {
+            "id": 642,
+            "name": "Sasha Blouse"
+        },
+        {
+            "id": 643,
+            "name": "Satou"
+        },
+        {
+            "id": 644,
+            "name": "Sawabe, Tsubaki"
+        },
+        {
+            "id": 645,
+            "name": "Sawada, Tsunayoshi"
+        },
+        {
+            "id": 646,
+            "name": "Sawamura, Eijun"
+        },
+        {
+            "id": 647,
+            "name": "Scar"
+        },
+        {
+            "id": 648,
+            "name": "Sebastian Michaelis"
+        },
+        {
+            "id": 649,
+            "name": "Sengoku, Nadeko"
+        },
+        {
+            "id": 650,
+            "name": "Senji, Kiyomasa"
+        },
+        {
+            "id": 651,
+            "name": "Senji, Kiyomasa"
+        },
+        {
+            "id": 652,
+            "name": "Senjougahara, Hitagi"
+        },
+        {
+            "id": 653,
+            "name": "Senko"
+        },
+        {
+            "id": 654,
+            "name": "Senkuu Ishigami"
+        },
+        {
+            "id": 655,
+            "name": "Sephiroth"
+        },
+        {
+            "id": 656,
+            "name": "Sesshoumaru"
+        },
+        {
+            "id": 657,
+            "name": "Shana"
+        },
+        {
+            "id": 658,
+            "name": "Shanks"
+        },
+        {
+            "id": 659,
+            "name": "Shiba, Tatsuya"
+        },
+        {
+            "id": 660,
+            "name": "Shigaraki, Tomura"
+        },
+        {
+            "id": 661,
+            "name": "Shigeo Kageyama"
+        },
+        {
+            "id": 662,
+            "name": "Shihouin, Yoruichi"
+        },
+        {
+            "id": 663,
+            "name": "Shiina, Mahiru"
+        },
+        {
+            "id": 664,
+            "name": "Shiina, Mayuri"
+        },
+        {
+            "id": 665,
+            "name": "Shikamaru Nara"
+        },
+        {
+            "id": 666,
+            "name": "Shiki Ryougi"
+        },
+        {
+            "id": 667,
+            "name": "Shikimori, Miyako"
+        },
+        {
+            "id": 668,
+            "name": "Shimura, Shinpachi"
+        },
+        {
+            "id": 669,
+            "name": "Shimura, Shinpachi"
+        },
+        {
+            "id": 670,
+            "name": "Shin-ah"
+        },
+        {
+            "id": 671,
+            "name": "Shinji Ikari"
+        },
+        {
+            "id": 672,
+            "name": "Shino Asada"
+        },
+        {
+            "id": 673,
+            "name": "Shinobu"
+        },
+        {
+            "id": 674,
+            "name": "Shinonome, Hakase"
+        },
+        {
+            "id": 675,
+            "name": "Shinya Kougami"
+        },
+        {
+            "id": 676,
+            "name": "Shiraishi, Urara"
+        },
+        {
+            "id": 677,
+            "name": "Shirasaki, Kaori"
+        },
+        {
+            "id": 678,
+            "name": "Shirayuki"
+        },
+        {
+            "id": 679,
+            "name": "Shirayuki, Mizore"
+        },
+        {
+            "id": 680,
+            "name": "Shiro"
+        },
+        {
+            "id": 681,
+            "name": "Shiro"
+        },
+        {
+            "id": 682,
+            "name": "Shiroe"
+        },
+        {
+            "id": 683,
+            "name": "Shizuo Heiwajima"
+        },
+        {
+            "id": 684,
+            "name": "Shokuhou, Misaki"
+        },
+        {
+            "id": 685,
+            "name": "Shougo Makishima"
+        },
+        {
+            "id": 686,
+            "name": "Shouko Komi"
+        },
+        {
+            "id": 687,
+            "name": "Shouko Nishimiya"
+        },
+        {
+            "id": 688,
+            "name": "Shouto Todoroki"
+        },
+        {
+            "id": 689,
+            "name": "Shouya Ishida"
+        },
+        {
+            "id": 690,
+            "name": "Shouyou Hinata"
+        },
+        {
+            "id": 691,
+            "name": "Siesta"
+        },
+        {
+            "id": 692,
+            "name": "Simon"
+        },
+        {
+            "id": 693,
+            "name": "Sinbad"
+        },
+        {
+            "id": 694,
+            "name": "Son Gokuu"
+        },
+        {
+            "id": 695,
+            "name": "Son, Gohan"
+        },
+        {
+            "id": 696,
+            "name": "Son, Hak"
+        },
+        {
+            "id": 697,
+            "name": "Sonoda, Umi"
+        },
+        {
+            "id": 698,
+            "name": "Sonozaki, Mion"
+        },
+        {
+            "id": 699,
+            "name": "Sonozaki, Shion"
+        },
+        {
+            "id": 700,
+            "name": "Sora"
+        },
+        {
+            "id": 701,
+            "name": "Soul Eater Evans"
+        },
+        {
+            "id": 702,
+            "name": "Souma Yukihira"
+        },
+        {
+            "id": 703,
+            "name": "Souma, Hatsuharu"
+        },
+        {
+            "id": 704,
+            "name": "Souma, Momiji"
+        },
+        {
+            "id": 705,
+            "name": "Souma, Shigure"
+        },
+        {
+            "id": 706,
+            "name": "Souma, Shigure"
+        },
+        {
+            "id": 707,
+            "name": "Souma, Yuki"
+        },
+        {
+            "id": 708,
+            "name": "Speeddraw, Fremy"
+        },
+        {
+            "id": 709,
+            "name": "Speeddraw, Fremy"
+        },
+        {
+            "id": 710,
+            "name": "Stein, Franken"
+        },
+        {
+            "id": 711,
+            "name": "Strife, Cloud"
+        },
+        {
+            "id": 712,
+            "name": "Sturluson, Celty"
+        },
+        {
+            "id": 713,
+            "name": "Subaru Natsuki"
+        },
+        {
+            "id": 714,
+            "name": "Sugiura, Ayano"
+        },
+        {
+            "id": 715,
+            "name": "Sukuna Ryoumen"
+        },
+        {
+            "id": 716,
+            "name": "Sung, Jin-Woo"
+        },
+        {
+            "id": 717,
+            "name": "Sunohara, Youhei"
+        },
+        {
+            "id": 718,
+            "name": "Suou, Mikoto"
+        },
+        {
+            "id": 719,
+            "name": "Suwa, Hiroto"
+        },
+        {
+            "id": 720,
+            "name": "Suzuki, Iruma"
+        },
+        {
+            "id": 721,
+            "name": "Suzuki, Iruma"
+        },
+        {
+            "id": 722,
+            "name": "Suzuya, Juuzou"
+        },
+        {
+            "id": 723,
+            "name": "Tabata, Hidenori"
+        },
+        {
+            "id": 724,
+            "name": "Tachibana, Makoto"
+        },
+        {
+            "id": 725,
+            "name": "Tachibana, Rui"
+        },
+        {
+            "id": 726,
+            "name": "Tachibana, Taki"
+        },
+        {
+            "id": 727,
+            "name": "Takagi, Yasushi"
+        },
+        {
+            "id": 728,
+            "name": "Takami, Keigo"
+        },
+        {
+            "id": 729,
+            "name": "Takarada, Rikka"
+        },
+        {
+            "id": 730,
+            "name": "Takashi Natsume"
+        },
+        {
+            "id": 731,
+            "name": "Takumi Fujiwara"
+        },
+        {
+            "id": 732,
+            "name": "Takumi Usui"
+        },
+        {
+            "id": 733,
+            "name": "Tamaki Suou"
+        },
+        {
+            "id": 734,
+            "name": "Tanaka"
+        },
+        {
+            "id": 735,
+            "name": "Tanaka, Aiko"
+        },
+        {
+            "id": 736,
+            "name": "Tanaka, Ryuunosuke"
+        },
+        {
+            "id": 737,
+            "name": "Tanjirou Kamado"
+        },
+        {
+            "id": 738,
+            "name": "Tatsu"
+        },
+        {
+            "id": 739,
+            "name": "Tatsumaki"
+        },
+        {
+            "id": 740,
+            "name": "Tatsumi"
+        },
+        {
+            "id": 741,
+            "name": "Tatsuya Shiba"
+        },
+        {
+            "id": 742,
+            "name": "Tenjou, Utena"
+        },
+        {
+            "id": 743,
+            "name": "Tenma White, Gabriel"
+        },
+        {
+            "id": 744,
+            "name": "Tepes, Krul"
+        },
+        {
+            "id": 745,
+            "name": "Teresa"
+        },
+        {
+            "id": 746,
+            "name": "Testarossa, Fate"
+        },
+        {
+            "id": 747,
+            "name": "Tetsuya Kuroko"
+        },
+        {
+            "id": 748,
+            "name": "The Count of Monte Cristo"
+        },
+        {
+            "id": 749,
+            "name": "The Skull Knight"
+        },
+        {
+            "id": 750,
+            "name": "Thierry, Laurent"
+        },
+        {
+            "id": 751,
+            "name": "Thorfinn"
+        },
+        {
+            "id": 752,
+            "name": "Tobi"
+        },
+        {
+            "id": 753,
+            "name": "Tobiichi, Origami"
+        },
+        {
+            "id": 754,
+            "name": "Tobio Kageyama"
+        },
+        {
+            "id": 755,
+            "name": "Toga, Himiko"
+        },
+        {
+            "id": 756,
+            "name": "Togame"
+        },
+        {
+            "id": 757,
+            "name": "Togata"
+        },
+        {
+            "id": 758,
+            "name": "Tokitou, Muichirou"
+        },
+        {
+            "id": 759,
+            "name": "Tokoyami, Fumikage"
+        },
+        {
+            "id": 760,
+            "name": "Tomioka, Giyuu"
+        },
+        {
+            "id": 761,
+            "name": "Tomoe"
+        },
+        {
+            "id": 762,
+            "name": "Tomoe, Mami"
+        },
+        {
+            "id": 763,
+            "name": "Tomoko Kuroki"
+        },
+        {
+            "id": 764,
+            "name": "Tomoya Okazaki"
+        },
+        {
+            "id": 765,
+            "name": "Tony Tony Chopper"
+        },
+        {
+            "id": 766,
+            "name": "Toogata, Mirio"
+        },
+        {
+            "id": 767,
+            "name": "Tooru"
+        },
+        {
+            "id": 768,
+            "name": "Tooru Honda"
+        },
+        {
+            "id": 769,
+            "name": "Toshinou, Kyouko"
+        },
+        {
+            "id": 770,
+            "name": "Toujou, Koneko"
+        },
+        {
+            "id": 771,
+            "name": "Toushirou Hitsugaya"
+        },
+        {
+            "id": 772,
+            "name": "Trafalgar Law"
+        },
+        {
+            "id": 773,
+            "name": "Trancy, Alois"
+        },
+        {
+            "id": 774,
+            "name": "Tsubasa Hanekawa"
+        },
+        {
+            "id": 775,
+            "name": "Tsugumi, Seishirou"
+        },
+        {
+            "id": 776,
+            "name": "Tsukasa Yuzaki"
+        },
+        {
+            "id": 777,
+            "name": "Tsukino, Usagi"
+        },
+        {
+            "id": 778,
+            "name": "Tsukiyomi, Ikuto"
+        },
+        {
+            "id": 779,
+            "name": "Tsukuyo"
+        },
+        {
+            "id": 780,
+            "name": "Tsunade"
+        },
+        {
+            "id": 781,
+            "name": "Tsunemori, Akane"
+        },
+        {
+            "id": 782,
+            "name": "Tsuruga, Ren"
+        },
+        {
+            "id": 783,
+            "name": "Tsutsukakushi, Tsukiko"
+        },
+        {
+            "id": 784,
+            "name": "Twelve"
+        },
+        {
+            "id": 785,
+            "name": "Twenty-Fifth Bam"
+        },
+        {
+            "id": 786,
+            "name": "Uchiha, Itachi"
+        },
+        {
+            "id": 787,
+            "name": "Uchiha, Madara"
+        },
+        {
+            "id": 788,
+            "name": "Uchiha, Sasuke"
+        },
+        {
+            "id": 789,
+            "name": "Uchiha, Sasuke"
+        },
+        {
+            "id": 790,
+            "name": "Uenoyama, Ritsuka"
+        },
+        {
+            "id": 791,
+            "name": "Ulquiorra Cifer"
+        },
+        {
+            "id": 792,
+            "name": "Urabe, Mikoto"
+        },
+        {
+            "id": 793,
+            "name": "Urahara, Kisuke"
+        },
+        {
+            "id": 794,
+            "name": "Urushibara, Ruka"
+        },
+        {
+            "id": 795,
+            "name": "Ushiromiya, Battler"
+        },
+        {
+            "id": 796,
+            "name": "Usopp"
+        },
+        {
+            "id": 797,
+            "name": "Uzui, Tengen"
+        },
+        {
+            "id": 798,
+            "name": "Uzumaki, Boruto"
+        },
+        {
+            "id": 799,
+            "name": "Uzumaki, Naruto"
+        },
+        {
+            "id": 800,
+            "name": "Valentine, Funny"
+        },
+        {
+            "id": 801,
+            "name": "Vanitas"
+        },
+        {
+            "id": 802,
+            "name": "Vash the Stampede"
+        },
+        {
+            "id": 803,
+            "name": "Vegeta"
+        },
+        {
+            "id": 804,
+            "name": "Vermillion, Mereoleona"
+        },
+        {
+            "id": 805,
+            "name": "Vessalius, Oz"
+        },
+        {
+            "id": 806,
+            "name": "Victoria, Seras"
+        },
+        {
+            "id": 807,
+            "name": "Vladilena Miliz\u00e9"
+        },
+        {
+            "id": 808,
+            "name": "Voldigoad, Anos"
+        },
+        {
+            "id": 809,
+            "name": "von Einzbern, Illyasviel"
+        },
+        {
+            "id": 810,
+            "name": "Walker, Allen"
+        },
+        {
+            "id": 811,
+            "name": "Wang, Qi"
+        },
+        {
+            "id": 812,
+            "name": "Watanabe, You"
+        },
+        {
+            "id": 813,
+            "name": "Watanuki, Kimihiro"
+        },
+        {
+            "id": 814,
+            "name": "Watashi"
+        },
+        {
+            "id": 815,
+            "name": "Watashi"
+        },
+        {
+            "id": 816,
+            "name": "Wei, Wuxian"
+        },
+        {
+            "id": 817,
+            "name": "Wen-li Yang"
+        },
+        {
+            "id": 818,
+            "name": "Wolfwood, Nicholas D."
+        },
+        {
+            "id": 819,
+            "name": "Wong, Shorter"
+        },
+        {
+            "id": 820,
+            "name": "Xie, Lian"
+        },
+        {
+            "id": 821,
+            "name": "Yabuki, Joe"
+        },
+        {
+            "id": 822,
+            "name": "Yagami, Light"
+        },
+        {
+            "id": 823,
+            "name": "Yakumo, Yuurakutei"
+        },
+        {
+            "id": 824,
+            "name": "Yamada, Ryou"
+        },
+        {
+            "id": 825,
+            "name": "Yamaguchi, Tadashi"
+        },
+        {
+            "id": 826,
+            "name": "Yamamoto, Takeshi"
+        },
+        {
+            "id": 827,
+            "name": "Yamato"
+        },
+        {
+            "id": 828,
+            "name": "Yamato, Kira"
+        },
+        {
+            "id": 829,
+            "name": "Yami Sukehiro"
+        },
+        {
+            "id": 830,
+            "name": "Yami Yuugi"
+        },
+        {
+            "id": 831,
+            "name": "Yasuri, Shichika"
+        },
+        {
+            "id": 832,
+            "name": "Yato"
+        },
+        {
+            "id": 833,
+            "name": "Yato"
+        },
+        {
+            "id": 834,
+            "name": "Yatogami, Tooka"
+        },
+        {
+            "id": 835,
+            "name": "Yazawa, Niko"
+        },
+        {
+            "id": 836,
+            "name": "Ye, Xiu"
+        },
+        {
+            "id": 837,
+            "name": "Yeager, Eren"
+        },
+        {
+            "id": 838,
+            "name": "Ymir"
+        },
+        {
+            "id": 839,
+            "name": "Yonsa, Balsa"
+        },
+        {
+            "id": 840,
+            "name": "Yor Forger"
+        },
+        {
+            "id": 841,
+            "name": "Yoshida, Haru"
+        },
+        {
+            "id": 842,
+            "name": "Yoshino"
+        },
+        {
+            "id": 843,
+            "name": "Yotsuba Nakano"
+        },
+        {
+            "id": 844,
+            "name": "Yue"
+        },
+        {
+            "id": 845,
+            "name": "Yui"
+        },
+        {
+            "id": 846,
+            "name": "Yui Yuigahama"
+        },
+        {
+            "id": 847,
+            "name": "Yuki Nagato"
+        },
+        {
+            "id": 848,
+            "name": "Yuki, Rito"
+        },
+        {
+            "id": 849,
+            "name": "Yukine"
+        },
+        {
+            "id": 850,
+            "name": "Yukino Yukinoshita"
+        },
+        {
+            "id": 851,
+            "name": "Yukino, Yukinoshita"
+        },
+        {
+            "id": 852,
+            "name": "Yuu Ishigami"
+        },
+        {
+            "id": 853,
+            "name": "Yuuichirou, Hyakuya"
+        },
+        {
+            "id": 854,
+            "name": "Yuuji Itadori"
+        },
+        {
+            "id": 855,
+            "name": "Yuuki, Asuna"
+        },
+        {
+            "id": 856,
+            "name": "Yuuki, Asuna"
+        },
+        {
+            "id": 857,
+            "name": "Yuurakutei, Yakumo"
+        },
+        {
+            "id": 858,
+            "name": "Zaraki, Kenpachi"
+        },
+        {
+            "id": 859,
+            "name": "Zenitsu Agatsuma"
+        },
+        {
+            "id": 860,
+            "name": "Zeppeli, Caesar Anthonio"
+        },
+        {
+            "id": 861,
+            "name": "Zeref"
+        },
+        {
+            "id": 862,
+            "name": "Zoldyck, Killua"
+        },
+        {
+            "id": 863,
+            "name": "Zuberg, Alice"
+        }
+    ]
+}
