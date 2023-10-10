@@ -1,0 +1,76 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "You're in a Dungeon and a Mysterious Figure Suddenly Appears and Says Hello. How Do You React?",
+        "options": {
+          "A": ["Aggressive", "Impulsive"],
+          "B": ["Analytical", "Cautious"],
+          "C": ["Stealthy", "Observant"],
+          "D": ["Team-player", "Optimistic"],
+          "E": ["Negotiator", "Resourceful"],
+          "F": ["Cunning", "Elusive"]
+        }
+      },
+      {
+        "id": 2,
+        "question": "How Do You Usually Like to Spend Your Free Time?",
+        "options": {
+          "A": ["Athletic", "Energetic"],
+          "B": ["Intellectual", "Curious"],
+          "C": ["Mischievous", "Playful"],
+          "D": ["Altruistic", "Compassionate"],
+          "E": ["Creative", "Artistic"],
+          "F": ["Adventurous", "Explorer"]
+        }
+      },
+      {
+        "id": 3,
+        "question": "You Discover a Hidden Door in Your Grandfather's Study. What Do You Do Next?",
+        "options": {
+          "A": ["Bold", "Adventurous"],
+          "B": ["Responsible", "Law-abiding"],
+          "C": ["Daring", "Risk-taker"],
+          "D": ["Cautious", "Protective"],
+          "E": ["Inquisitive", "Researcher"],
+          "F": ["Family-oriented", "Consultative"]
+        }
+      },
+      {
+        "id": 4,
+        "question": "If You Were to Stumble Upon a Magical Artifact, What Kind of Companion Would You Wish for?",
+        "options": {
+          "A": ["Power-hungry", "Dominant"],
+          "B": ["Wise", "Responsible"],
+          "C": ["Unpredictable", "Spontaneous"],
+          "D": ["Guarded", "Cautious"],
+          "E": ["Treasure-seeker", "Curious"],
+          "F": ["Adaptable", "Resourceful"]
+        }
+      },
+      {
+        "id": 5,
+        "question": "Imagine You're Offered a One-Time Chance to Gain a Superpower, But It Comes With a Price. What Do You Choose?",
+        "options": {
+          "A": ["Strong", "Honest"],
+          "B": ["Empathetic", "Forgetful"],
+          "C": ["Invisible", "Tasteless"],
+          "D": ["Healer", "Aging"],
+          "E": ["Time-traveler", "Non-interfering"],
+          "F": ["Telekinetic", "Mute"]
+        }
+      },
+      {
+        "id": 6,
+        "question": "You're in a high-stakes poker game. It's your turn, and you've got a decent hand. What's your move?",
+        "options": {
+          "A": ["Risk-taker", "Bold"],
+          "B": ["Conservative", "Cautious"],
+          "C": ["Strategic", "Moderate"],
+          "D": ["Observer", "Patient"],
+          "E": ["Bluffer", "Deceptive"]
+        }
+      }
+    ]
+  }
+  
