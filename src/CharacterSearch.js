@@ -1,13 +1,10 @@
 import React, { useState,useEffect } from "react";
 import axios from "axios";
-import Fuse from "fuse.js";
 
 export const CharacterSearch=()=>{
 
   const [characterName,setCharacterName] = useState('');
   const [characterInfo,setCharacterInfo] = useState(null);
-  const [characterList,setCharacterList] = useState([]);
-  const [searchResults,setSearchResults] = useState([]);
   
     const fetchData = async()=>{
       const variables = { search:characterName.trim().toLowerCase() };
