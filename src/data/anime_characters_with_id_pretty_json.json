@@ -1,3456 +1,3715 @@
 {
     "anime_characters": [
-        {
-            "id": 1,
-            "name": "Abarai, Renji"
-        },
-        {
-            "id": 2,
-            "name": "Accelerator"
-        },
-        {
-            "id": 3,
-            "name": "Ackerman, Mikasa"
-        },
-        {
-            "id": 4,
-            "name": "Adam"
-        },
-        {
-            "id": 5,
-            "name": "Ainsworth, Elias"
-        },
-        {
-            "id": 6,
-            "name": "Aioi, Yuuko"
-        },
-        {
-            "id": 7,
-            "name": "Aisaka, Taiga"
-        },
-        {
-            "id": 8,
-            "name": "Aizen, Sousuke"
-        },
-        {
-            "id": 9,
-            "name": "Akaashi, Keiji"
-        },
-        {
-            "id": 10,
-            "name": "Akagi, Shigeru"
-        },
-        {
-            "id": 11,
-            "name": "Akai, Shuuichi"
-        },
-        {
-            "id": 12,
-            "name": "Akame"
-        },
-        {
-            "id": 13,
-            "name": "Akashi"
-        },
-        {
-            "id": 14,
-            "name": "Akashi, Seijuurou"
-        },
-        {
-            "id": 15,
-            "name": "Akashiya, Moka"
-        },
-        {
-            "id": 16,
-            "name": "Akatsuki"
-        },
-        {
-            "id": 17,
-            "name": "Akaza"
-        },
-        {
-            "id": 18,
-            "name": "Akaza, Akari"
-        },
-        {
-            "id": 19,
-            "name": "Akaza, Akari"
-        },
-        {
-            "id": 20,
-            "name": "Aki Hayakawa"
-        },
-        {
-            "id": 21,
-            "name": "Akise, Aru"
-        },
-        {
-            "id": 22,
-            "name": "Akutagawa, Ryuunosuke"
-        },
-        {
-            "id": 23,
-            "name": "Aladdin"
-        },
-        {
-            "id": 24,
-            "name": "Albarn, Maka"
-        },
-        {
-            "id": 25,
-            "name": "Albedo"
-        },
-        {
-            "id": 26,
-            "name": "All Might"
-        },
-        {
-            "id": 27,
-            "name": "Alphonse Elric"
-        },
-        {
-            "id": 28,
-            "name": "Alucard"
-        },
-        {
-            "id": 29,
-            "name": "Amamiya, Ren"
-        },
-        {
-            "id": 30,
-            "name": "Amane, Misa"
-        },
-        {
-            "id": 31,
-            "name": "Amane, Suzuha"
-        },
-        {
-            "id": 32,
-            "name": "Anarchy, Stocking"
-        },
-        {
-            "id": 33,
-            "name": "Annie Leonhart"
-        },
-        {
-            "id": 34,
-            "name": "Anya Forger"
-        },
-        {
-            "id": 35,
-            "name": "Aoyama, Nanami"
-        },
-        {
-            "id": 36,
-            "name": "Aqua"
-        },
-        {
-            "id": 37,
-            "name": "Aragaki, Ayase"
-        },
-        {
-            "id": 38,
-            "name": "Araragi, Karen"
-        },
-        {
-            "id": 39,
-            "name": "Araragi, Koyomi"
-        },
-        {
-            "id": 40,
-            "name": "Araragi, Koyomi"
-        },
-        {
-            "id": 41,
-            "name": "Archer"
-        },
-        {
-            "id": 42,
-            "name": "Archiviste, No\u00e9"
-        },
-        {
-            "id": 43,
-            "name": "Armin Arlert"
-        },
-        {
-            "id": 44,
-            "name": "Armstrong, Alex Louis"
-        },
-        {
-            "id": 45,
-            "name": "Armstrong, Olivier Mira"
-        },
-        {
-            "id": 46,
-            "name": "Askeladd"
-        },
-        {
-            "id": 47,
-            "name": "Asta"
-        },
-        {
-            "id": 48,
-            "name": "Asuka Langley Souryuu"
-        },
-        {
-            "id": 49,
-            "name": "Asuka, Ryou"
-        },
-        {
-            "id": 50,
-            "name": "Ayanokouji, Kiyotaka"
-        },
-        {
-            "id": 51,
-            "name": "Ayumu Kasuga"
-        },
-        {
-            "id": 52,
-            "name": "Ayuzawa, Misaki"
-        },
-        {
-            "id": 53,
-            "name": "Azusagawa, Kaede"
-        },
-        {
-            "id": 54,
-            "name": "Bachira, Meguru"
-        },
-        {
-            "id": 55,
-            "name": "Balalaika"
-        },
-        {
-            "id": 56,
-            "name": "Ban"
-        },
-        {
-            "id": 57,
-            "name": "Batou"
-        },
-        {
-            "id": 58,
-            "name": "Beatrice"
-        },
-        {
-            "id": 59,
-            "name": "Beatrice"
-        },
-        {
-            "id": 60,
-            "name": "Bishamon"
-        },
-        {
-            "id": 61,
-            "name": "Black, Jet"
-        },
-        {
-            "id": 62,
-            "name": "Black\u2605Rock Shooter"
-        },
-        {
-            "id": 63,
-            "name": "Black\u2606Star"
-        },
-        {
-            "id": 64,
-            "name": "Blood, Staz Charlie"
-        },
-        {
-            "id": 65,
-            "name": "Bloodfallen, Shalltear"
-        },
-        {
-            "id": 66,
-            "name": "Boa, Hancock"
-        },
-        {
-            "id": 67,
-            "name": "Bokuto, Koutarou"
-        },
-        {
-            "id": 68,
-            "name": "Bokuto, Koutarou"
-        },
-        {
-            "id": 69,
-            "name": "Boyle, Arthur"
-        },
-        {
-            "id": 70,
-            "name": "Bradley, King"
-        },
-        {
-            "id": 71,
-            "name": "Brando, Diego"
-        },
-        {
-            "id": 72,
-            "name": "Braun, Gabi"
-        },
-        {
-            "id": 73,
-            "name": "Break, Xerxes"
-        },
-        {
-            "id": 74,
-            "name": "Brook"
-        },
-        {
-            "id": 75,
-            "name": "Brown, Nicolas"
-        },
-        {
-            "id": 76,
-            "name": "Bucciarati, Bruno"
-        },
-        {
-            "id": 77,
-            "name": "Busujima, Saeko"
-        },
-        {
-            "id": 78,
-            "name": "C.C."
-        },
-        {
-            "id": 79,
-            "name": "Cadis Etrama Di Raizel"
-        },
-        {
-            "id": 80,
-            "name": "Caiman"
-        },
-        {
-            "id": 81,
-            "name": "Callenreese, Aslan Jade"
-        },
-        {
-            "id": 82,
-            "name": "Casca"
-        },
-        {
-            "id": 83,
-            "name": "Charlotte, Katakuri"
-        },
-        {
-            "id": 84,
-            "name": "Chelsea"
+    {
+        "id": 1,
+        "name": "Abarai, Renji",
+        "traits": ["Loyal", "Hot-headed", "Protective", "Skilled-Swordsman"]
         },
         {
-            "id": 85,
-            "name": "Cheng, Xiaoshi"
+        "id": 2,
+        "name": "Accelerator",
+        "traits": ["Intelligent", "Cynical"]
         },
         {
-            "id": 86,
-            "name": "Chidori, Kaname"
+        "id": 3,
+        "name": "Ackerman, Mikasa",
+        "traits": ["Strong-Willed", "Protective", "Quiet"]
         },
         {
-            "id": 87,
-            "name": "Chifuyu Matsuno"
+        "id": 4,
+        "name": "Adam",
+        "traits": ["Charismatic", "Manipulative", "Intelligent", "Ruthless"]
         },
         {
-            "id": 88,
-            "name": "Chii"
+        "id": 5,
+        "name": "Ainsworth, Elias",
+        "traits": ["Mysterious", "Emotionally-Reserved", "Skilled-Magician", "Curious"]
         },
         {
-            "id": 89,
-            "name": "Chika Fujiwara"
+        "id": 6,
+        "name": "Aioi, Yuuko",
+        "traits": ["Energetic", "Clumsy", "Comedic", "Optimistic"]
         },
         {
-            "id": 90,
-            "name": "Chrollo Lucilfer"
+        "id": 7,
+        "name": "Aisaka, Taiga",
+        "traits": ["Tsundere", "Short-tempered", "Vulnerable", "Loyal"]
         },
         {
-            "id": 91,
-            "name": "Chuuya Nakahara"
+        "id": 8,
+        "name": "Aizen, Sousuke",
+        "traits": ["Manipulative", "Intelligent", "Calm", "Charismatic"]
         },
         {
-            "id": 92,
-            "name": "Cid Kagenou"
+        "id": 9,
+        "name": "Akaashi, Keiji",
+        "traits": ["Calm", "Strategic", "Observant", "Supportive"]
         },
         {
-            "id": 93,
-            "name": "Claes, Catarina"
+        "id": 10,
+        "name": "Akagi, Shigeru",
+        "traits": ["Risk-taker", "Intense", "Strategic", "Unpredictable"]
         },
         {
-            "id": 94,
-            "name": "Clare"
+        "id": 11,
+        "name": "Akai, Shuuichi",
+        "traits": ["Calm", "Strategic", "Observant", "Loyal"]
         },
         {
-            "id": 95,
-            "name": "Cranel, Bell"
+        "id": 12,
+        "name": "Akame",
+        "traits": ["Stoic", "Loyal", "Compassionate", "Skilled-Assassin"]
         },
         {
-            "id": 96,
-            "name": "Daidouji, Tomoyo"
+        "id": 13,
+        "name": "Akashi",
+        "traits": ["Intelligent", "Manipulative", "Charismatic", "Cunning"]
         },
         {
-            "id": 97,
-            "name": "Daiki Aomine"
+        "id": 14,
+        "name": "Akashi, Seijuurou",
+        "traits": ["Competitive", "Authoritative", "Intelligent", "Confident"]
         },
         {
-            "id": 98,
-            "name": "Dante"
+        "id": 15,
+        "name": "Akashiya, Moka",
+        "traits": ["Kind-hearted", "Protective", "Dual-Personality", "Affectionate"]
         },
         {
-            "id": 99,
-            "name": "Dazai, Osamu"
+        "id": 16,
+        "name": "Akatsuki",
+        "traits": ["Loyal", "Secretive", "Vengeful", "Determined"]
         },
         {
-            "id": 100,
-            "name": "de Blois, Victorique"
+        "id": 17,
+        "name": "Akaza",
+        "traits": ["Relentless", "Sadistic", "Regretful", "Passionate"]
         },
         {
-            "id": 101,
-            "name": "de Jarjeyes, Oscar Fran\u00e7ois"
+        "id": 18,
+        "name": "Akaza, Akari",
+        "traits": ["Innocent", "Optimistic", "Easily-Overlooked", "Friendly"]
         },
         {
-            "id": 102,
-            "name": "Death the Kid"
+        "id": 19,
+        "name": "Akaza, Akari",
+        "traits": ["Innocent", "Optimistic", "Easily-Overlooked", "Friendly"]
         },
         {
-            "id": 103,
-            "name": "Decim"
+        "id": 20,
+        "name": "Aki Hayakawa",
+        "traits": ["Determined", "Protective", "Guilt-Ridden", "Resilient"]
         },
         {
-            "id": 104,
-            "name": "Degurechaff, Tanya"
+        "id": 21,
+        "name": "Akise, Aru",
+        "traits": ["Intelligent", "Obsessive", "Analytical", "Determined"]
         },
         {
-            "id": 105,
-            "name": "Deidara"
+        "id": 22,
+        "name": "Akutagawa, Ryuunosuke",
+        "traits": ["Aggressive", "Insecure", "Loyal", "Cynical"]
         },
         {
-            "id": 106,
-            "name": "Denji"
+        "id": 23,
+        "name": "Aladdin",
+        "traits": ["Innocent", "Curious", "Optimistic", "Adventurous"]
         },
         {
-            "id": 107,
-            "name": "Deviluke, Lala Satalin"
+        "id": 24,
+        "name": "Albarn, Maka",
+        "traits": ["Determined", "Studious", "Empathetic", "Brave"]
         },
         {
-            "id": 108,
-            "name": "Deviluke, Momo Belia"
+        "id": 25,
+        "name": "Albedo",
+        "traits": ["Obsessive", "Loyal", "Manipulative", "Jealous"]
         },
         {
-            "id": 109,
-            "name": "Diablo"
+        "id": 26,
+        "name": "All Might",
+        "traits": ["Inspirational", "Optimistic", "Responsible", "Selfless"]
         },
         {
-            "id": 110,
-            "name": "Dio Brando"
+        "id": 27,
+        "name": "Alphonse Elric",
+        "traits": ["Compassionate", "Intelligent", "Cautious", "Empathetic"]
         },
         {
-            "id": 111,
-            "name": "Dola, Schwi"
+        "id": 28,
+        "name": "Alucard",
+        "traits": ["Sadistic", "Loyal", "Charismatic", "Complex"]
         },
         {
-            "id": 112,
-            "name": "Donquixote, Doflamingo"
+        "id": 29,
+        "name": "Amamiya, Ren",
+        "traits": ["Charismatic", "Strategic", "Empathetic", "Rebellious"]
         },
         {
-            "id": 113,
-            "name": "Donquixote, Rosinante"
+        "id": 30,
+        "name": "Amane, Misa",
+        "traits": ["Manipulative", "Obsessive", "Loyal", "Naive"]
         },
         {
-            "id": 114,
-            "name": "Dostoyevsky, Fyodor"
+        "id": 31,
+        "name": "Amane, Suzuha",
+        "traits": ["Determined", "Courageous", "Nostalgic", "Adventurous"]
         },
         {
-            "id": 115,
-            "name": "Dracule, Mihawk"
+        "id": 32,
+        "name": "Anarchy, Stocking",
+        "traits": ["Sarcastic", "Materialistic", "Laid-back", "Gluttonous"]
         },
         {
-            "id": 116,
-            "name": "Dunois, Charlotte"
+        "id": 33,
+        "name": "Annie Leonhart",
+        "traits": ["Aloof", "Pragmatic", "Focused", "Secretive"]
         },
         {
-            "id": 117,
-            "name": "Dustiness Ford, Lalatina"
+        "id": 34,
+        "name": "Anya Forger",
+        "traits": ["Innocent", "Curious", "Eager-to-please", "Adaptable"]
         },
         {
-            "id": 118,
-            "name": "Echidna"
+        "id": 35,
+        "name": "Aoyama, Nanami",
+        "traits": ["Diligent", "Responsible", "Insecure", "Kind-hearted"]
         },
         {
-            "id": 119,
-            "name": "Echizen, Ryouma"
+        "id": 36,
+        "name": "Aqua",
+        "traits": ["Clumsy", "Narcissistic", "Optimistic", "Naive"]
         },
         {
-            "id": 120,
-            "name": "Edogawa, Conan"
+        "id": 37,
+        "name": "Aragaki, Ayase",
+        "traits": ["Possessive", "Judgmental", "Devoted", "Innocent"]
         },
         {
-            "id": 121,
-            "name": "Edogawa, Ranpo"
+        "id": 38,
+        "name": "Araragi, Karen",
+        "traits": ["Stubborn", "Energetic", "Justice-oriented", "Impulsive"]
         },
         {
-            "id": 122,
-            "name": "Edward Wong Hau Pepelu Tivrusky IV"
+        "id": 39,
+        "name": "Araragi, Koyomi",
+        "traits": ["Altruistic", "Perverted", "Sarcastic", "Protective"]
         },
         {
-            "id": 123,
-            "name": "Edward, Newgate"
+        "id": 40,
+        "name": "Araragi, Koyomi",
+        "traits": ["Altruistic", "Perverted", "Sarcastic", "Protective"]
         },
         {
-            "id": 124,
-            "name": "Eijirou Kirishima"
+        "id": 41,
+        "name": "Archer",
+        "traits": ["Cynical", "Altruistic", "Strategic", "Resigned"]
         },
         {
-            "id": 125,
-            "name": "Ein"
+        "id": 42,
+        "name": "Archiviste, Noé",
+        "traits": ["Curious", "Optimistic", "Adventurous", "Empathetic"]
         },
         {
-            "id": 126,
-            "name": "Elaina"
+        "id": 43,
+        "name": "Armin Arlert",
+        "traits": ["Intelligent", "Timid", "Loyal", "Resourceful"]
         },
         {
-            "id": 127,
-            "name": "Emiya, Shirou"
+        "id": 44,
+        "name": "Armstrong, Alex Louis",
+        "traits": ["Charismatic", "Boisterous", "Patriotic", "Compassionate"]
         },
         {
-            "id": 128,
-            "name": "Emma"
+        "id": 45,
+        "name": "Armstrong, Olivier Mira",
+        "traits": ["Authoritative", "Unyielding", "Pragmatic", "Protective"]
         },
         {
-            "id": 129,
-            "name": "Endo, Kenji"
+        "id": 46,
+        "name": "Askeladd",
+        "traits": ["Manipulative", "Cunning", "Charismatic", "Nihilistic"]
         },
         {
-            "id": 130,
-            "name": "Enma, Ai"
+        "id": 47,
+        "name": "Asta",
+        "traits": ["Optimistic", "Stubborn", "Energetic", "Loyal"]
         },
         {
-            "id": 131,
-            "name": "Enoshima, Junko"
+        "id": 48,
+        "name": "Asuka Langley Souryuu",
+        "traits": ["Confident", "Insecure", "Aggressive", "Vulnerable"]
         },
         {
-            "id": 132,
-            "name": "Envy"
+        "id": 49,
+        "name": "Asuka, Ryou",
+        "traits": ["Manipulative", "Intelligent", "Cynical", "Ambitious"]
         },
         {
-            "id": 133,
-            "name": "Eris Boreas Greyrat"
+        "id": 50,
+        "name": "Ayanokouji, Kiyotaka",
+        "traits": ["Manipulative", "Stoic", "Intelligent", "Calculative"]
         },
         {
-            "id": 134,
-            "name": "Eru Chitanda"
+        "id": 51,
+        "name": "Ayumu Kasuga",
+        "traits": ["Daydreamer", "Introverted", "Curious", "Adaptable"]
         },
         {
-            "id": 135,
-            "name": "Erwin Smith"
+        "id": 52,
+        "name": "Ayuzawa, Misaki",
+        "traits": ["Strong-willed", "Protective", "Stubborn", "Empathetic"]
         },
         {
-            "id": 136,
-            "name": "Erza Scarlet"
+        "id": 53,
+        "name": "Azusagawa, Kaede",
+        "traits": ["Shy", "Dependent", "Loving", "Vulnerable"]
         },
         {
-            "id": 137,
-            "name": "Esdeath"
+        "id": 54,
+        "name": "Bachira, Meguru",
+        "traits": ["Optimistic", "Energetic", "Impulsive", "Loyal"]
         },
         {
-            "id": 138,
-            "name": "Eugeo"
+        "id": 55,
+        "name": "Balalaika",
+        "traits": ["Ruthless", "Strategic", "Cynical", "Charismatic"]
         },
         {
-            "id": 139,
-            "name": "Evergarden, Violet"
+        "id": 56,
+        "name": "Ban",
+        "traits": ["Sarcastic", "Loyal", "Adventurous", "Reckless"]
         },
         {
-            "id": 140,
-            "name": "Fairbrook Wingates Hellsing, Integra"
+        "id": 57,
+        "name": "Batou",
+        "traits": ["Stoic", "Loyal", "Pragmatic", "Protective"]
         },
         {
-            "id": 141,
-            "name": "Faye Valentine"
+        "id": 58,
+        "name": "Beatrice",
+        "traits": ["Tsundere", "Inquisitive", "Lonely", "Protective"]
         },
         {
-            "id": 142,
-            "name": "Fernandes, Jellal"
+        "id": 59,
+        "name": "Beatrice",
+        "traits": ["Tsundere", "Inquisitive", "Lonely", "Protective"]
         },
         {
-            "id": 143,
-            "name": "Fibel, Sistine"
+        "id": 60,
+        "name": "Bishamon",
+        "traits": ["Righteous", "Vengeful", "Protective", "Authoritative"]
         },
         {
-            "id": 144,
-            "name": "Finger, Pieck"
+        "id": 61,
+        "name": "Black, Jet",
+        "traits": ["Loyal", "Pragmatic", "Nostalgic", "Fatherly"]
         },
         {
-            "id": 145,
-            "name": "Flourite, Fai D."
+        "id": 62,
+        "name": "Black★Rock Shooter",
+        "traits": ["Stoic", "Determined", "Empathetic", "Resilient"]
         },
         {
-            "id": 146,
-            "name": "Foster, Isaac"
+        "id": 63,
+        "name": "Black☆Star",
+        "traits": ["Egotistical", "Brave", "Loyal", "Impulsive"]
         },
         {
-            "id": 147,
-            "name": "Franky"
+        "id": 64,
+        "name": "Blood, Staz Charlie",
+        "traits": ["Laid-back", "Selfish", "Curious", "Protective"]
         },
         {
-            "id": 148,
-            "name": "Friend"
+        "id": 65,
+        "name": "Bloodfallen, Shalltear",
+        "traits": ["Sadistic", "Loyal", "Insecure", "Impulsive"]
         },
         {
-            "id": 149,
-            "name": "Frieren"
+        "id": 66,
+        "name": "Boa, Hancock",
+        "traits": ["Proud", "Vulnerable", "Charismatic", "Manipulative"]
         },
         {
-            "id": 150,
-            "name": "Fubuki"
+        "id": 67,
+        "name": "Bokuto, Koutarou",
+        "traits": ["Energetic", "Optimistic", "Inconsistent", "Supportive"]
         },
         {
-            "id": 151,
-            "name": "Fudou, Akira"
+        "id": 68,
+        "name": "Bokuto, Koutarou",
+        "traits": ["Energetic", "Optimistic", "Inconsistent", "Supportive"]
         },
         {
-            "id": 152,
-            "name": "Fujioka, Haruhi"
+        "id": 69,
+        "name": "Boyle, Arthur",
+        "traits": ["Delusional", "Brave", "Loyal", "Stubborn"]
         },
         {
-            "id": 153,
-            "name": "Fujiwara, Bunta"
-        },
-        {
-            "id": 154,
-            "name": "Furude, Rika"
-        },
-        {
-            "id": 155,
-            "name": "Furuhashi, Fumino"
-        },
-        {
-            "id": 156,
-            "name": "Furukawa, Nagisa"
-        },
-        {
-            "id": 157,
-            "name": "Fushi"
-        },
-        {
-            "id": 158,
-            "name": "Fushiguro, Megumi"
-        },
-        {
-            "id": 159,
-            "name": "Fushiguro, Touji"
-        },
-        {
-            "id": 160,
-            "name": "Futaba, Rio"
-        },
-        {
-            "id": 161,
-            "name": "Future Trunks"
-        },
-        {
-            "id": 162,
-            "name": "Fuu"
-        },
-        {
-            "id": 163,
-            "name": "Gaara"
-        },
-        {
-            "id": 164,
-            "name": "Gabimaru"
-        },
-        {
-            "id": 165,
-            "name": "Gasai, Yuno"
-        },
-        {
-            "id": 166,
-            "name": "Gasai, Yuno"
-        },
-        {
-            "id": 167,
-            "name": "Genos"
-        },
-        {
-            "id": 168,
-            "name": "Getou, Suguru"
-        },
-        {
-            "id": 169,
-            "name": "Ghirga, Narancia"
-        },
-        {
-            "id": 170,
-            "name": "Gilgamesh"
-        },
-        {
-            "id": 171,
-            "name": "Gin"
-        },
-        {
-            "id": 172,
-            "name": "Ginko"
-        },
-        {
-            "id": 173,
-            "name": "Gojou, Satoru"
-        },
-        {
-            "id": 174,
-            "name": "Gokou, Ruri"
-        },
-        {
-            "id": 175,
-            "name": "Gokudera, Hayato"
-        },
-        {
-            "id": 176,
-            "name": "Gon Freecss"
-        },
-        {
-            "id": 177,
-            "name": "Gotou, Hitori"
-        },
-        {
-            "id": 178,
-            "name": "Gouda, Takeo"
-        },
-        {
-            "id": 179,
-            "name": "Greed"
-        },
-        {
-            "id": 180,
-            "name": "Grell Sutcliff"
-        },
-        {
-            "id": 181,
-            "name": "Griffith"
-        },
-        {
-            "id": 182,
-            "name": "Gundou, Misuzu"
-        },
-        {
-            "id": 183,
-            "name": "Guts"
-        },
-        {
-            "id": 184,
-            "name": "Gyro Zeppeli"
-        },
-        {
-            "id": 185,
-            "name": "Haibara, Ai"
-        },
-        {
-            "id": 186,
-            "name": "Haji"
-        },
-        {
-            "id": 187,
-            "name": "Hak Son"
-        },
-        {
-            "id": 188,
-            "name": "Hanagaki, Takemichi"
-        },
-        {
-            "id": 189,
-            "name": "Hanako-kun"
-        },
-        {
-            "id": 190,
-            "name": "Handa, Sei"
-        },
-        {
-            "id": 191,
-            "name": "Hange Zo\u00eb"
-        },
-        {
-            "id": 192,
-            "name": "Haninozuka, Mitsukuni"
-        },
-        {
-            "id": 193,
-            "name": "Hanma, Baki"
-        },
-        {
-            "id": 194,
-            "name": "Happy"
-        },
-        {
-            "id": 195,
-            "name": "Haruhi Suzumiya"
-        },
-        {
-            "id": 196,
-            "name": "Haruno, Sakura"
-        },
-        {
-            "id": 197,
-            "name": "Hasegawa, Taizou"
-        },
-        {
-            "id": 198,
-            "name": "Hatake, Kakashi"
-        },
-        {
-            "id": 199,
-            "name": "Hatori, Chise"
-        },
-        {
-            "id": 200,
-            "name": "Hatsune, Miku"
-        },
-        {
-            "id": 201,
-            "name": "Hatsuseno, Alpha"
-        },
-        {
-            "id": 202,
-            "name": "Hawkeye, Riza"
-        },
+        "id": 70,
+        "name": "Bradley, King",
+        "traits": ["Manipulative", "Calm", "Ruthless", "Strategic"]
+        }
+        ,
         {
-            "id": 203,
-            "name": "Hayasaka, Ai"
+        "id": 71,
+        "name": "Brando, Diego",
+        "traits": ["Manipulative", "Ambitious", "Cunning", "Selfish"]
         },
         {
-            "id": 204,
-            "name": "Hazuki, Nagisa"
+        "id": 72,
+        "name": "Braun, Gabi",
+        "traits": ["Impulsive", "Loyal", "Determined", "Naive"]
         },
         {
-            "id": 205,
-            "name": "Hei"
+        "id": 73,
+        "name": "Break, Xerxes",
+        "traits": ["Mysterious", "Witty", "Loyal", "Manipulative"]
         },
         {
-            "id": 206,
-            "name": "Hekmatyar, Koko"
+        "id": 74,
+        "name": "Brook",
+        "traits": ["Optimistic", "Loyal", "Humorous", "Melancholic"]
         },
         {
-            "id": 207,
-            "name": "Hellscythe, Eucliwood"
+        "id": 75,
+        "name": "Brown, Nicolas",
+        "traits": ["Stoic", "Violent", "Loyal", "Cynical"]
         },
         {
-            "id": 208,
-            "name": "Hestia"
+        "id": 76,
+        "name": "Bucciarati, Bruno",
+        "traits": ["Empathetic", "Strategic", "Loyal", "Courageous"]
         },
         {
-            "id": 209,
-            "name": "Hibari, Kyouya"
+        "id": 77,
+        "name": "Busujima, Saeko",
+        "traits": ["Calm", "Seductive", "Protective", "Sadistic"]
         },
         {
-            "id": 210,
-            "name": "Hidenori, Tabata"
+        "id": 78,
+        "name": "C.C.",
+        "traits": ["Aloof", "Cynical", "Wise", "Emotionally Guarded"]
         },
         {
-            "id": 211,
-            "name": "Hiei"
+        "id": 79,
+        "name": "Cadis Etrama Di Raizel",
+        "traits": ["Reserved", "Noble", "Protective", "Curious"]
         },
         {
-            "id": 212,
-            "name": "Hifumi, Takimoto"
-        },
-        {
-            "id": 213,
-            "name": "Higashikata, Jousuke"
-        },
+        "id": 80,
+        "name": "Caiman",
+        "traits": ["Amnesiac", "Determined", "Violent", "Loyal"]
+        }
+        ,
         {
-            "id": 214,
-            "name": "Higashiyama, Kobeni"
+        "id": 81,
+        "name": "Callenreese, Aslan Jade",
+        "traits": ["Strategic-Thinker", "Emotionally-Guarded", "Loyal", "Resilient"]
         },
         {
-            "id": 215,
-            "name": "Higurashi, Kagome"
+        "id": 82,
+        "name": "Casca",
+        "traits": ["Resilient", "Loyal", "Emotionally-Scarred", "Determined"]
         },
         {
-            "id": 216,
-            "name": "Hiiragi, Kagami"
+        "id": 83,
+        "name": "Charlotte, Katakuri",
+        "traits": ["Disciplined", "Protective", "Proud", "Respectful"]
         },
         {
-            "id": 217,
-            "name": "Hikigaya, Hachiman"
+        "id": 84,
+        "name": "Chelsea",
+        "traits": ["Optimistic", "Resourceful", "Empathetic", "Cautious"]
         },
         {
-            "id": 218,
-            "name": "Himejima, Akeno"
+        "id": 85,
+        "name": "Cheng, Xiaoshi",
+        "traits": ["Curious", "Adventurous", "Optimistic", "Kind-hearted"]
         },
         {
-            "id": 219,
-            "name": "Himeko Inaba"
+        "id": 86,
+        "name": "Chidori, Kaname",
+        "traits": ["Stubborn", "Intelligent", "Caring", "Assertive"]
         },
         {
-            "id": 220,
-            "name": "Himeno"
+        "id": 87,
+        "name": "Chifuyu Matsuno",
+        "traits": ["Loyal", "Protective", "Emotionally-Reserved", "Strategic"]
         },
         {
-            "id": 221,
-            "name": "Himura, Kenshin"
+        "id": 88,
+        "name": "Chii",
+        "traits": ["Innocent", "Curious", "Adaptable", "Emotionally-Naive"]
         },
         {
-            "id": 222,
-            "name": "Hinazuki, Kayo"
+        "id": 89,
+        "name": "Chika Fujiwara",
+        "traits": ["Energetic", "Intelligent", "Manipulative", "Empathetic"]
         },
         {
-            "id": 223,
-            "name": "Hiraga, Saito"
-        },
-        {
-            "id": 224,
-            "name": "Hirako, Shinji"
-        },
+        "id": 90,
+        "name": "Chrollo Lucilfer",
+        "traits": ["Charismatic", "Manipulative", "Intellectual", "Unemotional"]
+        }
+        ,
         {
-            "id": 225,
-            "name": "Hirasawa, Yui"
+        "id": 91,
+        "name": "Chuuya Nakahara",
+        "traits": ["Hot-headed", "Loyal", "Strategic-thinker", "Sarcastic"]
         },
         {
-            "id": 226,
-            "name": "Hiratsuka, Shizuka"
+        "id": 92,
+        "name": "Cid Kagenou",
+        "traits": ["Overconfident", "Manipulative", "Resourceful", "Egocentric"]
         },
         {
-            "id": 227,
-            "name": "Hiro"
+        "id": 93,
+        "name": "Claes, Catarina",
+        "traits": ["Oblivious", "Kind-hearted", "Optimistic", "Socially-awkward"]
         },
         {
-            "id": 228,
-            "name": "Hiruma, Youichi"
+        "id": 94,
+        "name": "Clare",
+        "traits": ["Determined", "Stoic", "Protective", "Emotionally-guarded"]
         },
         {
-            "id": 229,
-            "name": "Hishiro, Chizuru"
+        "id": 95,
+        "name": "Cranel, Bell",
+        "traits": ["Innocent", "Courageous", "Naive", "Determined"]
         },
         {
-            "id": 230,
-            "name": "Hitachiin, Kaoru"
+        "id": 96,
+        "name": "Daidouji, Tomoyo",
+        "traits": ["Supportive", "Observant", "Artistic", "Unconditionally-loving"]
         },
         {
-            "id": 231,
-            "name": "Hohenheim, Van"
+        "id": 97,
+        "name": "Daiki Aomine",
+        "traits": ["Arrogant", "Competitive", "Laid-back", "Cynical"]
         },
         {
-            "id": 232,
-            "name": "Holo"
+        "id": 98,
+        "name": "Dante",
+        "traits": ["Sardonic", "Fearless", "Reckless", "Moralistic"]
         },
         {
-            "id": 233,
-            "name": "Homura Akemi"
+        "id": 99,
+        "name": "Dazai, Osamu",
+        "traits": ["Manipulative", "Intelligent", "Melancholic", "Complex"]
         },
         {
-            "id": 234,
-            "name": "Honda, Gorou"
-        },
+        "id": 100,
+        "name": "de Blois, Victorique",
+        "traits": ["Intellectual", "Mysterious", "Emotionally-detached", "Curious"]
+        }
+        ,
         {
-            "id": 235,
-            "name": "Honda, Hanako"
+        "id": 101,
+        "name": "de Jarjeyes, Oscar François",
+        "traits": ["Strong-willed", "Loyal", "Compassionate", "Gender-conflicted"]
         },
         {
-            "id": 236,
-            "name": "Honma, Meiko"
+        "id": 102,
+        "name": "Death the Kid",
+        "traits": ["Obsessive-compulsive", "Diligent", "Insecure", "Justice-oriented"]
         },
         {
-            "id": 237,
-            "name": "Hori, Kyouko"
+        "id": 103,
+        "name": "Decim",
+        "traits": ["Stoic", "Curious", "Empathetic", "Judgmental"]
         },
         {
-            "id": 238,
-            "name": "Hoshino, Ai"
+        "id": 104,
+        "name": "Degurechaff, Tanya",
+        "traits": ["Ruthless", "Strategic-thinker", "Atheistic", "Self-preserving"]
         },
         {
-            "id": 239,
-            "name": "Hoshino, Aquamarine"
+        "id": 105,
+        "name": "Deidara",
+        "traits": ["Explosive", "Artistic", "Narcissistic", "Impulsive"]
         },
         {
-            "id": 240,
-            "name": "Hoshino, Ruby"
+        "id": 106,
+        "name": "Denji",
+        "traits": ["Naive", "Eager-to-please", "Resilient", "Simple-minded"]
         },
         {
-            "id": 241,
-            "name": "Houtarou Oreki"
+        "id": 107,
+        "name": "Deviluke, Lala Satalin",
+        "traits": ["Optimistic", "Inventive", "Naive", "Attention-seeking"]
         },
         {
-            "id": 242,
-            "name": "Howl"
+        "id": 108,
+        "name": "Deviluke, Momo Belia",
+        "traits": ["Manipulative", "Affectionate", "Intelligent", "Insecure"]
         },
         {
-            "id": 243,
-            "name": "Hughes, Maes"
+        "id": 109,
+        "name": "Diablo",
+        "traits": ["Introverted", "Strategic-thinker", "Cautious", "Empathetic"]
         },
         {
-            "id": 244,
-            "name": "Hyakkimaru"
-        },
+        "id": 110,
+        "name": "Dio Brando",
+        "traits": ["Charismatic", "Manipulative", "Narcissistic", "Sadistic"]
+        }
+        ,
         {
-            "id": 245,
-            "name": "Hyakuya, Yuuichirou"
+        "id": 111,
+        "name": "Dola, Schwi",
+        "traits": ["Curious", "Logical", "Emotionally-evolving", "Self-sacrificing"]
         },
         {
-            "id": 246,
-            "name": "Hyuuga, Hinata"
+        "id": 112,
+        "name": "Donquixote, Doflamingo",
+        "traits": ["Manipulative", "Sadistic", "Charismatic", "Nihilistic"]
         },
         {
-            "id": 247,
-            "name": "Ibuki, Fuuko"
+        "id": 113,
+        "name": "Donquixote, Rosinante",
+        "traits": ["Altruistic", "Compassionate", "Self-sacrificing", "Secretive"]
         },
         {
-            "id": 248,
-            "name": "Ichigo"
+        "id": 114,
+        "name": "Dostoyevsky, Fyodor",
+        "traits": ["Manipulative", "Intellectual", "Cynical", "Morally-ambiguous"]
         },
         {
-            "id": 249,
-            "name": "Ichihara, Yuuko"
+        "id": 115,
+        "name": "Dracule, Mihawk",
+        "traits": ["Stoic", "Competitive", "Self-assured", "Honorable"]
         },
         {
-            "id": 250,
-            "name": "Ichimaru, Gin"
+        "id": 116,
+        "name": "Dunois, Charlotte",
+        "traits": ["Insecure", "Intelligent", "Adaptable", "Loyal"]
         },
         {
-            "id": 251,
-            "name": "Ichinose, Chizuru"
+        "id": 117,
+        "name": "Dustiness Ford, Lalatina",
+        "traits": ["Masochistic", "Loyal", "Insecure", "Dramatic"]
         },
         {
-            "id": 252,
-            "name": "Ichinose, Guren"
+        "id": 118,
+        "name": "Echidna",
+        "traits": ["Manipulative", "Curious", "Intellectual", "Self-serving"]
         },
         {
-            "id": 253,
-            "name": "Ichinose, Kotomi"
+        "id": 119,
+        "name": "Echizen, Ryouma",
+        "traits": ["Competitive", "Confident", "Nonchalant", "Talented"]
         },
         {
-            "id": 254,
-            "name": "Iino, Miko"
-        },
+        "id": 120,
+        "name": "Edogawa, Conan",
+        "traits": ["Analytical", "Resourceful", "Empathetic", "Secretive"]
+        }
+        ,
         {
-            "id": 255,
-            "name": "Ijichi, Nijika"
+        "id": 121,
+        "name": "Edogawa, Ranpo",
+        "traits": ["Eccentric", "Intuitive", "Self-confident", "Child-like"]
         },
         {
-            "id": 256,
-            "name": "Ikaros"
+        "id": 122,
+        "name": "Edward Wong Hau Pepelu Tivrusky IV",
+        "traits": ["Eccentric", "Adventurous", "Tech-savvy", "Free-spirited"]
         },
         {
-            "id": 257,
-            "name": "Ikishima, Midari"
+        "id": 123,
+        "name": "Edward, Newgate",
+        "traits": ["Charismatic", "Fatherly", "Honorable", "Strategic"]
         },
         {
-            "id": 258,
-            "name": "Inori Yuzuriha"
+        "id": 124,
+        "name": "Eijirou Kirishima",
+        "traits": ["Courageous", "Loyal", "Self-conscious", "Energetic"]
         },
         {
-            "id": 259,
-            "name": "Inosuke Hashibira"
+        "id": 125,
+        "name": "Ein",
+        "traits": ["Intelligent", "Loyal", "Perceptive", "Non-verbal"]
         },
         {
-            "id": 260,
-            "name": "Inoue, Orihime"
+        "id": 126,
+        "name": "Elaina",
+        "traits": ["Curious", "Independent", "Emotionally-detached", "Observant"]
         },
         {
-            "id": 261,
-            "name": "Inumaki, Toge"
+        "id": 127,
+        "name": "Emiya, Shirou",
+        "traits": ["Altruistic", "Stubborn", "Idealistic", "Self-sacrificing"]
         },
         {
-            "id": 262,
-            "name": "Inuyasha"
+        "id": 128,
+        "name": "Emma",
+        "traits": ["Optimistic", "Strategic", "Empathetic", "Resilient"]
         },
         {
-            "id": 263,
-            "name": "Iris"
+        "id": 129,
+        "name": "Endo, Kenji",
+        "traits": ["Optimistic", "Naive", "Musically-inclined", "Friendly"]
         },
         {
-            "id": 264,
-            "name": "Isagi, Yoichi"
-        },
+        "id": 130,
+        "name": "Enma, Ai",
+        "traits": ["Stoic", "Vengeful", "Emotionally-detached", "Mysterious"]
+        }
+        ,
         {
-            "id": 265,
-            "name": "Isla"
+        "id": 131,
+        "name": "Enoshima, Junko",
+        "traits": ["Manipulative", "Sadistic", "Charismatic", "Unpredictable"]
         },
         {
-            "id": 266,
-            "name": "Itachi Uchiha"
+        "id": 132,
+        "name": "Envy",
+        "traits": ["Jealous", "Malicious", "Deceptive", "Insecure"]
         },
         {
-            "id": 267,
-            "name": "Itoshiki, Nozomu"
+        "id": 133,
+        "name": "Eris Boreas Greyrat",
+        "traits": ["Hot-headed", "Loyal", "Impulsive", "Protective"]
         },
         {
-            "id": 268,
-            "name": "Itsuka, Kotori"
+        "id": 134,
+        "name": "Eru Chitanda",
+        "traits": ["Curious", "Optimistic", "Innocent", "Determined"]
         },
         {
-            "id": 269,
-            "name": "Itsuki Nakano"
+        "id": 135,
+        "name": "Erwin Smith",
+        "traits": ["Strategic", "Charismatic", "Self-sacrificing", "Stoic"]
         },
         {
-            "id": 270,
-            "name": "Iwakura, Lain"
+        "id": 136,
+        "name": "Erza Scarlet",
+        "traits": ["Disciplined", "Courageous", "Empathetic", "Strong-willed"]
         },
         {
-            "id": 271,
-            "name": "Iwasawa, Masami"
+        "id": 137,
+        "name": "Esdeath",
+        "traits": ["Sadistic", "Strategic", "Loyal", "Romantic"]
         },
         {
-            "id": 272,
-            "name": "Izaya Orihara"
+        "id": 138,
+        "name": "Eugeo",
+        "traits": ["Loyal", "Innocent", "Courageous", "Self-doubting"]
         },
         {
-            "id": 273,
-            "name": "Izuku Midoriya"
+        "id": 139,
+        "name": "Evergarden, Violet",
+        "traits": ["Stoic", "Loyal", "Curious", "Emotionally-detached"]
         },
         {
-            "id": 274,
-            "name": "Izumi Miyamura"
-        },
+        "id": 140,
+        "name": "Fairbrook Wingates Hellsing, Integra",
+        "traits": ["Authoritative", "Unyielding", "Strategic", "Stoic"]
+        }
+        ,
         {
-            "id": 275,
-            "name": "Izumi, Sagiri"
+        "id": 141,
+        "name": "Faye Valentine",
+        "traits": ["manipulative", "independent", "cynical", "vulnerable"]
         },
         {
-            "id": 276,
-            "name": "Izumi, Shinichi"
+        "id": 142,
+        "name": "Fernandes, Jellal",
+        "traits": ["guilt-ridden", "determined", "complex", "protective"]
         },
         {
-            "id": 277,
-            "name": "Jabami, Yumeko"
+        "id": 143,
+        "name": "Fibel, Sistine",
+        "traits": ["passionate", "stubborn", "curious", "emotional"]
         },
         {
-            "id": 278,
-            "name": "Jaegerjaquez, Grimmjow"
+        "id": 144,
+        "name": "Finger, Pieck",
+        "traits": ["intelligent", "loyal", "observant", "pragmatic"]
         },
         {
-            "id": 279,
-            "name": "James Moriarty, William"
+        "id": 145,
+        "name": "Flourite, Fai D.",
+        "traits": ["mysterious", "charismatic", "self-sacrificing", "guilt-ridden"]
         },
         {
-            "id": 280,
-            "name": "Jibril"
+        "id": 146,
+        "name": "Foster, Isaac",
+        "traits": ["impulsive", "violent", "unpredictable", "loyal"]
         },
         {
-            "id": 281,
-            "name": "Jin"
+        "id": 147,
+        "name": "Franky",
+        "traits": ["eccentric", "loyal", "emotional", "creative"]
         },
         {
-            "id": 282,
-            "name": "Jinbe"
+        "id": 148,
+        "name": "Friend",
+        "traits": ["manipulative", "charismatic", "mysterious", "ruthless"]
         },
         {
-            "id": 283,
-            "name": "Jiraiya"
+        "id": 149,
+        "name": "Frieren",
+        "traits": ["stoic", "curious", "reflective", "lonely"]
         },
         {
-            "id": 284,
-            "name": "Joestar, Joseph"
-        },
+        "id": 150,
+        "name": "Fubuki",
+        "traits": ["ambitious", "insecure", "manipulative", "loyal"]
+        }
+        ,
         {
-            "id": 285,
-            "name": "Johan Liebert"
+        "id": 151,
+        "name": "Fudou, Akira",
+        "traits": ["courageous", "self-sacrificing", "determined", "conflicted"]
         },
         {
-            "id": 286,
-            "name": "Johnny Joestar"
+        "id": 152,
+        "name": "Fujioka, Haruhi",
+        "traits": ["independent", "pragmatic", "unfazed", "curious"]
         },
         {
-            "id": 287,
-            "name": "Jousuke Higashikata"
+        "id": 153,
+        "name": "Fujiwara, Bunta",
+        "traits": ["stoic", "observant", "wise", "nonchalant"]
         },
         {
-            "id": 288,
-            "name": "Joutarou Kuujou"
+        "id": 154,
+        "name": "Furude, Rika",
+        "traits": ["pessimistic", "intelligent", "resilient", "cynical"]
         },
         {
-            "id": 289,
-            "name": "Kaburagi, Kotetsu T."
+        "id": 155,
+        "name": "Furuhashi, Fumino",
+        "traits": ["empathetic", "intelligent", "insecure", "kind-hearted"]
         },
         {
-            "id": 290,
-            "name": "Kaga, Kouko"
+        "id": 156,
+        "name": "Furukawa, Nagisa",
+        "traits": ["innocent", "vulnerable", "optimistic", "kind-hearted"]
         },
         {
-            "id": 291,
-            "name": "Kagari, Atsuko"
+        "id": 157,
+        "name": "Fushi",
+        "traits": ["curious", "innocent", "adaptive", "loyal"]
         },
         {
-            "id": 292,
-            "name": "Kagura"
+        "id": 158,
+        "name": "Fushiguro, Megumi",
+        "traits": ["stoic", "protective", "strategic", "self-doubting"]
         },
         {
-            "id": 293,
-            "name": "Kaguya Shinomiya"
+        "id": 159,
+        "name": "Fushiguro, Touji",
+        "traits": ["ruthless", "pragmatic", "cunning", "selfish"]
         },
         {
-            "id": 294,
-            "name": "Kaiba, Seto"
-        },
+        "id": 160,
+        "name": "Futaba, Rio",
+        "traits": ["intelligent", "introverted", "insecure", "curious"]
+        }
+        ,
         {
-            "id": 295,
-            "name": "Kaidou, Shun"
+        "id": 161,
+        "name": "Future Trunks",
+        "traits": ["determined", "trauma-driven", "courageous", "loyal"]
         },
         {
-            "id": 296,
-            "name": "Kaiki, Deishuu"
+        "id": 162,
+        "name": "Fuu",
+        "traits": ["adventurous", "optimistic", "independent", "curious"]
         },
         {
-            "id": 297,
-            "name": "Kajou, Ayame"
+        "id": 163,
+        "name": "Gaara",
+        "traits": ["lonely", "protective", "introspective", "resilient"]
         },
         {
-            "id": 298,
-            "name": "Kajou, Ayame"
+        "id": 164,
+        "name": "Gabimaru",
+        "traits": ["stoic", "determined", "strategic", "emotionally-guarded"]
         },
         {
-            "id": 299,
-            "name": "Kakyouin, Noriaki"
+        "id": 165,
+        "name": "Gasai, Yuno",
+        "traits": ["obsessive", "manipulative", "intelligent", "unstable"]
         },
         {
-            "id": 300,
-            "name": "Kallen Stadtfeld"
+        "id": 166,
+        "name": "Gasai, Yuno",
+        "traits": ["obsessive", "manipulative", "intelligent", "unstable"]
         },
         {
-            "id": 301,
-            "name": "Kamijou, Touma"
+        "id": 167,
+        "name": "Genos",
+        "traits": ["determined", "loyal", "vengeful", "focused"]
         },
         {
-            "id": 302,
-            "name": "Kamina"
+        "id": 168,
+        "name": "Getou, Suguru",
+        "traits": ["manipulative", "intelligent", "cynical", "charismatic"]
         },
         {
-            "id": 303,
-            "name": "Kamui"
+        "id": 169,
+        "name": "Ghirga, Narancia",
+        "traits": ["impulsive", "loyal", "naive", "determined"]
         },
         {
-            "id": 304,
-            "name": "Kana Arima"
-        },
+        "id": 170,
+        "name": "Gilgamesh",
+        "traits": ["arrogant", "intelligent", "charismatic", "contemptuous"]
+        }
+        ,
         {
-            "id": 305,
-            "name": "Kanade Tachibana"
+        "id": 171,
+        "name": "Gin",
+        "traits": ["stoic", "mysterious", "loyal", "calculative"]
         },
         {
-            "id": 306,
-            "name": "Kanamori, Sayaka"
+        "id": 172,
+        "name": "Ginko",
+        "traits": ["curious", "observant", "empathetic", "solitary"]
         },
         {
-            "id": 307,
-            "name": "Kanao Tsuyuri"
+        "id": 173,
+        "name": "Gojou, Satoru",
+        "traits": ["confident", "charismatic", "sarcastic", "protective"]
         },
         {
-            "id": 308,
-            "name": "Kanbaru, Suruga"
+        "id": 174,
+        "name": "Gokou, Ruri",
+        "traits": ["introverted", "intelligent", "sensitive", "reserved"]
         },
         {
-            "id": 309,
-            "name": "Kanbe, Daisuke"
+        "id": 175,
+        "name": "Gokudera, Hayato",
+        "traits": ["loyal", "hot-headed", "determined", "protective"]
         },
         {
-            "id": 310,
-            "name": "Kanda, Yuu"
+        "id": 176,
+        "name": "Gon Freecss",
+        "traits": ["optimistic", "determined", "naive", "empathetic"]
         },
         {
-            "id": 311,
-            "name": "Kaneda, Shoutarou"
+        "id": 177,
+        "name": "Gotou, Hitori",
+        "traits": ["stoic", "protective", "determined", "emotionally-guarded"]
         },
         {
-            "id": 312,
-            "name": "Kaneki, Ken"
+        "id": 178,
+        "name": "Gouda, Takeo",
+        "traits": ["kind-hearted", "selfless", "naive", "optimistic"]
         },
         {
-            "id": 313,
-            "name": "Kani, Nayuta"
+        "id": 179,
+        "name": "Greed",
+        "traits": ["selfish", "charismatic", "adaptive", "cunning"]
         },
         {
-            "id": 314,
-            "name": "Kanna Kamui"
-        },
+        "id": 180,
+        "name": "Grell Sutcliff",
+        "traits": ["flamboyant", "sadistic", "passionate", "impulsive"]
+        }
+        ,
         {
-            "id": 315,
-            "name": "Kanoe, Yuuko"
+        "id": 181,
+        "name": "Griffith",
+        "traits": ["charismatic", "manipulative", "ambitious", "ruthless"]
         },
         {
-            "id": 316,
-            "name": "Kanroji, Mitsuri"
+        "id": 182,
+        "name": "Gundou, Misuzu",
+        "traits": ["sarcastic", "intelligent", "observant", "cynical"]
         },
         {
-            "id": 317,
-            "name": "Kanzaki, Urumi"
+        "id": 183,
+        "name": "Guts",
+        "traits": ["resilient", "stoic", "vengeful", "protective"]
         },
         {
-            "id": 318,
-            "name": "Kaonashi"
+        "id": 184,
+        "name": "Gyro Zeppeli",
+        "traits": ["humorous", "compassionate", "pragmatic", "adventurous"]
         },
         {
-            "id": 319,
-            "name": "Kaori Miyazono"
+        "id": 185,
+        "name": "Haibara, Ai",
+        "traits": ["intelligent", "cautious", "introverted", "empathetic"]
         },
         {
-            "id": 320,
-            "name": "Karma Akabane"
+        "id": 186,
+        "name": "Haji",
+        "traits": ["loyal", "stoic", "protective", "self-sacrificing"]
         },
         {
-            "id": 321,
-            "name": "Kasuga, Arata"
+        "id": 187,
+        "name": "Hak Son",
+        "traits": ["loyal", "brave", "hot-headed", "protective"]
         },
         {
-            "id": 322,
-            "name": "Kasumigaoka, Utaha"
+        "id": 188,
+        "name": "Hanagaki, Takemichi",
+        "traits": ["determined", "empathetic", "insecure", "courageous"]
         },
         {
-            "id": 323,
-            "name": "Katagiri, Yuuichi"
+        "id": 189,
+        "name": "Hanako-kun",
+        "traits": ["mischievous", "mysterious", "compassionate", "guilt-ridden"]
         },
         {
-            "id": 324,
-            "name": "Katsuki Bakugou"
-        },
+        "id": 190,
+        "name": "Handa, Sei",
+        "traits": ["insecure", "talented", "introverted", "perfectionist"]
+        }
+        ,
         {
-            "id": 325,
-            "name": "Katsura, Hinagiku"
+        "id": 191,
+        "name": "Hange Zoë",
+        "traits": ["curious", "enthusiastic", "compassionate", "strategic"]
         },
         {
-            "id": 326,
-            "name": "Katsura, Kotarou"
+        "id": 192,
+        "name": "Haninozuka, Mitsukuni",
+        "traits": ["affectionate", "child-like", "loyal", "strong-willed"]
         },
         {
-            "id": 327,
-            "name": "Kawai, Rika"
+        "id": 193,
+        "name": "Hanma, Baki",
+        "traits": ["determined", "competitive", "respectful", "introspective"]
         },
         {
-            "id": 328,
-            "name": "Kawamoto, Hinata"
+        "id": 194,
+        "name": "Happy",
+        "traits": ["optimistic", "loyal", "naive", "cheerful"]
         },
         {
-            "id": 329,
-            "name": "Kawashima, Ami"
+        "id": 195,
+        "name": "Haruhi Suzumiya",
+        "traits": ["energetic", "bossy", "curious", "unpredictable"]
         },
         {
-            "id": 330,
-            "name": "Kazami, Yuuji"
+        "id": 196,
+        "name": "Haruno, Sakura",
+        "traits": ["determined", "empathetic", "insecure", "maternal"]
         },
         {
-            "id": 331,
-            "name": "Kazehaya, Shouta"
+        "id": 197,
+        "name": "Hasegawa, Taizou",
+        "traits": ["lazy", "cynical", "humorous", "self-deprecating"]
         },
         {
-            "id": 332,
-            "name": "Kazuma Satou"
+        "id": 198,
+        "name": "Hatake, Kakashi",
+        "traits": ["stoic", "intelligent", "sarcastic", "protective"]
         },
         {
-            "id": 333,
-            "name": "Keehl, Mihael"
+        "id": 199,
+        "name": "Hatori, Chise",
+        "traits": ["vulnerable", "curious", "resilient", "empathetic"]
         },
         {
-            "id": 334,
-            "name": "Kei Tsukishima"
-        },
+        "id": 200,
+        "name": "Hatsune, Miku",
+        "traits": ["cheerful", "creative", "optimistic", "versatile"]
+        }
+        ,
         {
-            "id": 335,
-            "name": "Kenji Harima"
+        "id": 201,
+        "name": "Hatsuseno, Alpha",
+        "traits": ["contemplative", "serene", "curious", "empathetic"]
         },
         {
-            "id": 336,
-            "name": "Kenma Kozume"
+        "id": 202,
+        "name": "Hawkeye, Riza",
+        "traits": ["disciplined", "loyal", "stoic", "protective"]
         },
         {
-            "id": 337,
-            "name": "Kenshirou"
+        "id": 203,
+        "name": "Hayasaka, Ai",
+        "traits": ["intelligent", "sarcastic", "loyal", "adaptable"]
         },
         {
-            "id": 338,
-            "name": "Kento Nanami"
+        "id": 204,
+        "name": "Hazuki, Nagisa",
+        "traits": ["enthusiastic", "sensitive", "optimistic", "team-oriented"]
         },
         {
-            "id": 339,
-            "name": "Kenzou Tenma"
+        "id": 205,
+        "name": "Hei",
+        "traits": ["stoic", "calculative", "mysterious", "empathetic"]
         },
         {
-            "id": 340,
-            "name": "Keyaru"
+        "id": 206,
+        "name": "Hekmatyar, Koko",
+        "traits": ["charismatic", "manipulative", "intelligent", "unpredictable"]
         },
         {
-            "id": 341,
-            "name": "Khun, Aguero Agnes"
+        "id": 207,
+        "name": "Hellscythe, Eucliwood",
+        "traits": ["stoic", "compassionate", "mysterious", "self-sacrificing"]
         },
         {
-            "id": 342,
-            "name": "Kim, Dokja"
+        "id": 208,
+        "name": "Hestia",
+        "traits": ["energetic", "jealous", "supportive", "devoted"]
         },
         {
-            "id": 343,
-            "name": "King"
+        "id": 209,
+        "name": "Hibari, Kyouya",
+        "traits": ["stoic", "independent", "authoritative", "prideful"]
         },
         {
-            "id": 344,
-            "name": "Kino"
-        },
+        "id": 210,
+        "name": "Hidenori, Tabata",
+        "traits": ["observant", "humorous", "introspective", "relatable"]
+        }
+        ,
         {
-            "id": 345,
-            "name": "Kira, Yoshikage"
+        "id": 211,
+        "name": "Hiei",
+        "traits": ["stoic", "competitive", "loyal", "quick-tempered"]
         },
         {
-            "id": 346,
-            "name": "Kirigaya, Kazuto"
+        "id": 212,
+        "name": "Hifumi, Takimoto",
+        "traits": ["shy", "kind-hearted", "gaming-enthusiast", "professional"]
         },
         {
-            "id": 347,
-            "name": "Kirigiri, Kyouko"
+        "id": 213,
+        "name": "Higashikata, Jousuke",
+        "traits": ["compassionate", "quick-witted", "protective", "easy-going"]
         },
         {
-            "id": 348,
-            "name": "Kirisaki, Chitoge"
+        "id": 214,
+        "name": "Higashiyama, Kobeni",
+        "traits": ["responsible", "practical", "family-oriented", "self-sacrificing"]
         },
         {
-            "id": 349,
-            "name": "Kirishima, Touka"
+        "id": 215,
+        "name": "Higurashi, Kagome",
+        "traits": ["empathetic", "courageous", "stubborn", "kind-hearted"]
         },
         {
-            "id": 350,
-            "name": "Kirisu, Mafuyu"
+        "id": 216,
+        "name": "Hiiragi, Kagami",
+        "traits": ["sarcastic", "pragmatic", "competitive", "loyal"]
         },
         {
-            "id": 351,
-            "name": "Kiritsugu Emiya"
+        "id": 217,
+        "name": "Hikigaya, Hachiman",
+        "traits": ["cynical", "observant", "realistic", "introverted"]
         },
         {
-            "id": 352,
-            "name": "Kirstein, Jean"
+        "id": 218,
+        "name": "Himejima, Akeno",
+        "traits": ["seductive", "complex", "loyal", "empathetic"]
         },
         {
-            "id": 353,
-            "name": "Kiryuu, Zero"
+        "id": 219,
+        "name": "Himeko Inaba",
+        "traits": ["assertive", "pragmatic", "insecure", "loyal"]
         },
         {
-            "id": 354,
-            "name": "Kise, Ryouta"
-        },
+        "id": 220,
+        "name": "Himeno",
+        "traits": ["optimistic", "resilient", "compassionate", "self-doubting"]
+        }
+        ,
         {
-            "id": 355,
-            "name": "Kishibe, Rohan"
+        "id": 221,
+        "name": "Himura, Kenshin",
+        "traits": ["compassionate", "introspective", "honorable", "self-restrained"]
         },
         {
-            "id": 356,
-            "name": "Kita, Ikuyo"
+        "id": 222,
+        "name": "Hinazuki, Kayo",
+        "traits": ["reserved", "vulnerable", "observant", "kind-hearted"]
         },
         {
-            "id": 357,
-            "name": "Kita, Ikuyo"
+        "id": 223,
+        "name": "Hiraga, Saito",
+        "traits": ["loyal", "courageous", "hot-headed", "devoted"]
         },
         {
-            "id": 358,
-            "name": "Kitahara, Iori"
+        "id": 224,
+        "name": "Hirako, Shinji",
+        "traits": ["sarcastic", "strategic", "laid-back", "protective"]
         },
         {
-            "id": 359,
-            "name": "Kiyose, Haiji"
+        "id": 225,
+        "name": "Hirasawa, Yui",
+        "traits": ["optimistic", "carefree", "enthusiastic", "naive"]
         },
         {
-            "id": 360,
-            "name": "Kochou, Shinobu"
+        "id": 226,
+        "name": "Hiratsuka, Shizuka",
+        "traits": ["dedicated", "blunt", "caring", "authoritative"]
         },
         {
-            "id": 361,
-            "name": "Koga, Tomoe"
+        "id": 227,
+        "name": "Hiro",
+        "traits": ["empathetic", "determined", "protective", "insecure"]
         },
         {
-            "id": 362,
-            "name": "Koibuchi, Kuranosuke"
+        "id": 228,
+        "name": "Hiruma, Youichi",
+        "traits": ["manipulative", "intelligent", "competitive", "fearless"]
         },
         {
-            "id": 363,
-            "name": "Koito, Yuu"
+        "id": 229,
+        "name": "Hishiro, Chizuru",
+        "traits": ["socially-awkward", "intelligent", "determined", "curious"]
         },
         {
-            "id": 364,
-            "name": "Komaeda, Nagito"
-        },
+        "id": 230,
+        "name": "Hitachiin, Kaoru",
+        "traits": ["easy-going", "observant", "sensitive", "independent"]
+        }
+        ,
         {
-            "id": 365,
-            "name": "Konata Izumi"
+        "id": 231,
+        "name": "Hohenheim, Van",
+        "traits": ["wise", "melancholic", "stoic", "introspective"]
         },
         {
-            "id": 366,
-            "name": "Konjiki no Yami"
+        "id": 232,
+        "name": "Holo",
+        "traits": ["witty", "independent", "seductive", "pragmatic"]
         },
         {
-            "id": 367,
-            "name": "Koro-sensei"
+        "id": 233,
+        "name": "Homura Akemi",
+        "traits": ["determined", "introverted", "protective", "traumatized"]
         },
         {
-            "id": 368,
-            "name": "Kotegawa, Chisa"
+        "id": 234,
+        "name": "Honda, Gorou",
+        "traits": ["passionate", "optimistic", "perseverant", "team-player"]
         },
         {
-            "id": 369,
-            "name": "Kousaka, Honoka"
+        "id": 235,
+        "name": "Honda, Hanako",
+        "traits": ["innocent", "curious", "imaginative", "naive"]
         },
         {
-            "id": 370,
-            "name": "Kousaka, Honoka"
+        "id": 236,
+        "name": "Honma, Meiko",
+        "traits": ["kind-hearted", "gentle", "selfless", "inspiring"]
         },
         {
-            "id": 371,
-            "name": "Koushi Sugawara"
+        "id": 237,
+        "name": "Hori, Kyouko",
+        "traits": ["responsible", "outgoing", "protective", "pragmatic"]
         },
         {
-            "id": 372,
-            "name": "Kuchiki, Byakuya"
+        "id": 238,
+        "name": "Hoshino, Ai",
+        "traits": ["energetic", "optimistic", "compassionate", "adventurous"]
         },
         {
-            "id": 373,
-            "name": "Kuchiki, Rukia"
+        "id": 239,
+        "name": "Hoshino, Aquamarine",
+        "traits": ["confident", "assertive", "ambitious", "outspoken"]
         },
         {
-            "id": 374,
-            "name": "Kukumila, Kurena"
-        },
+        "id": 240,
+        "name": "Hoshino, Ruby",
+        "traits": ["cheerful", "friendly", "determined", "loyal"]
+        }
+        ,
         {
-            "id": 375,
-            "name": "Kumagawa, Misogi"
+        "id": 241,
+        "name": "Houtarou Oreki",
+        "traits": ["apathetic", "observant", "logical", "introverted"]
         },
         {
-            "id": 376,
-            "name": "Kumiko Oumae"
+        "id": 242,
+        "name": "Howl",
+        "traits": ["charismatic", "self-indulgent", "courageous", "empathetic"]
         },
         {
-            "id": 377,
-            "name": "Kumoko"
+        "id": 243,
+        "name": "Hughes, Maes",
+        "traits": ["loyal", "family-oriented", "enthusiastic", "compassionate"]
         },
         {
-            "id": 378,
-            "name": "Kurama"
+        "id": 244,
+        "name": "Hyakkimaru",
+        "traits": ["stoic", "determined", "introspective", "resilient"]
         },
         {
-            "id": 379,
-            "name": "Kuran, Kaname"
+        "id": 245,
+        "name": "Hyakuya, Yuuichirou",
+        "traits": ["hot-headed", "loyal", "determined", "protective"]
         },
         {
-            "id": 380,
-            "name": "Kurapika"
+        "id": 246,
+        "name": "Hyuuga, Hinata",
+        "traits": ["shy", "kind-hearted", "perseverant", "devoted"]
         },
         {
-            "id": 381,
-            "name": "Kurauchi, Kuranosuke"
+        "id": 247,
+        "name": "Ibuki, Fuuko",
+        "traits": ["innocent", "optimistic", "imaginative", "naive"]
         },
         {
-            "id": 382,
-            "name": "Kurisu Makise"
+        "id": 248,
+        "name": "Ichigo",
+        "traits": ["impulsive", "protective", "courageous", "stubborn"]
         },
         {
-            "id": 383,
-            "name": "Kuriyama, Mirai"
+        "id": 249,
+        "name": "Ichihara, Yuuko",
+        "traits": ["mysterious", "wise", "manipulative", "enigmatic"]
         },
         {
-            "id": 384,
-            "name": "Kuro no Rider"
-        },
+        "id": 250,
+        "name": "Ichimaru, Gin",
+        "traits": ["sly", "unpredictable", "calculative", "enigmatic"]
+        }
+        ,
         {
-            "id": 385,
-            "name": "Kuroba, Kaito"
+        "id": 251,
+        "name": "Ichinose, Chizuru",
+        "traits": ["reserved", "empathetic", "pragmatic", "independent"]
         },
         {
-            "id": 386,
-            "name": "Kurogane, Ikki"
+        "id": 252,
+        "name": "Ichinose, Guren",
+        "traits": ["strategic", "stoic", "loyal", "cynical"]
         },
         {
-            "id": 387,
-            "name": "Kurokawa, Akane"
+        "id": 253,
+        "name": "Ichinose, Kotomi",
+        "traits": ["introverted", "intelligent", "sensitive", "curious"]
         },
         {
-            "id": 388,
-            "name": "Kurono, Kei"
+        "id": 254,
+        "name": "Iino, Miko",
+        "traits": ["disciplined", "idealistic", "insecure", "diligent"]
         },
         {
-            "id": 389,
-            "name": "Kuroo, Tetsurou"
+        "id": 255,
+        "name": "Ijichi, Nijika",
+        "traits": ["loyal", "observant", "cautious", "supportive"]
         },
         {
-            "id": 390,
-            "name": "Kurosaki, Ichigo"
+        "id": 256,
+        "name": "Ikaros",
+        "traits": ["stoic", "obedient", "curious", "loyal"]
         },
         {
-            "id": 391,
-            "name": "Kurosaki, Tasuku"
+        "id": 257,
+        "name": "Ikishima, Midari",
+        "traits": ["masochistic", "reckless", "competitive", "impulsive"]
         },
         {
-            "id": 392,
-            "name": "Kurumi Tokisaki"
+        "id": 258,
+        "name": "Inori Yuzuriha",
+        "traits": ["stoic", "devoted", "vulnerable", "courageous"]
         },
         {
-            "id": 393,
-            "name": "Kururugi, Suzaku"
+        "id": 259,
+        "name": "Inosuke Hashibira",
+        "traits": ["hot-headed", "competitive", "loyal", "impulsive"]
         },
         {
-            "id": 394,
-            "name": "Kusakabe, Shinra"
-        },
+        "id": 260,
+        "name": "Inoue, Orihime",
+        "traits": ["optimistic", "kind-hearted", "naive", "determined"]
+        }
+        ,
         {
-            "id": 395,
-            "name": "Kushieda, Minori"
+        "id": 261,
+        "name": "Inumaki, Toge",
+        "traits": ["stoic", "loyal", "observant", "reserved"]
         },
         {
-            "id": 396,
-            "name": "Kusuo Saiki"
+        "id": 262,
+        "name": "Inuyasha",
+        "traits": ["hot-headed", "loyal", "protective", "insecure"]
         },
         {
-            "id": 397,
-            "name": "Kusuriuri"
+        "id": 263,
+        "name": "Iris",
+        "traits": ["optimistic", "compassionate", "determined", "naive"]
         },
         {
-            "id": 398,
-            "name": "Kuwabara, Kazuma"
+        "id": 264,
+        "name": "Isagi, Yoichi",
+        "traits": ["ambitious", "team-player", "insecure", "adaptable"]
         },
         {
-            "id": 399,
-            "name": "Kyan, Reki"
+        "id": 265,
+        "name": "Isla",
+        "traits": ["stoic", "curious", "empathetic", "reserved"]
         },
         {
-            "id": 400,
-            "name": "Kyan, Reki"
+        "id": 266,
+        "name": "Itachi Uchiha",
+        "traits": ["strategic", "stoic", "self-sacrificing", "complex"]
         },
         {
-            "id": 401,
-            "name": "Kyon"
+        "id": 267,
+        "name": "Itoshiki, Nozomu",
+        "traits": ["pessimistic", "sarcastic", "intelligent", "melancholic"]
         },
         {
-            "id": 402,
-            "name": "Kyou Souma"
+        "id": 268,
+        "name": "Itsuka, Kotori",
+        "traits": ["tsundere", "protective", "insecure", "determined"]
         },
         {
-            "id": 403,
-            "name": "Kyouraku, Jirou Souzousuke Shunsui"
+        "id": 269,
+        "name": "Itsuki Nakano",
+        "traits": ["pragmatic", "ambitious", "sensitive", "independent"]
         },
         {
-            "id": 404,
-            "name": "Lagusa, Angelo"
-        },
+        "id": 270,
+        "name": "Iwakura, Lain",
+        "traits": ["introverted", "complex", "curious", "vulnerable"]
+        }
+        ,
         {
-            "id": 405,
-            "name": "Lamperouge, Lelouch"
+        "id": 271,
+        "name": "Iwasawa, Masami",
+        "traits": ["passionate", "determined", "introverted", "melancholic"]
         },
         {
-            "id": 406,
-            "name": "Lan, Wangji"
+        "id": 272,
+        "name": "Izaya Orihara",
+        "traits": ["manipulative", "intelligent", "sadistic", "charismatic"]
         },
         {
-            "id": 407,
-            "name": "Lancer"
+        "id": 273,
+        "name": "Izuku Midoriya",
+        "traits": ["determined", "empathetic", "anxious", "heroic"]
         },
         {
-            "id": 408,
-            "name": "Lavi"
+        "id": 274,
+        "name": "Izumi Miyamura",
+        "traits": ["introverted", "kind-hearted", "insecure", "observant"]
         },
         {
-            "id": 409,
-            "name": "Lawliet, L"
+        "id": 275,
+        "name": "Izumi, Sagiri",
+        "traits": ["shy", "creative", "introverted", "stubborn"]
         },
         {
-            "id": 410,
-            "name": "Lawrence, Kraft"
+        "id": 276,
+        "name": "Izumi, Shinichi",
+        "traits": ["rational", "empathetic", "conflicted", "courageous"]
         },
         {
-            "id": 411,
-            "name": "Le Blanc de La Valli\u00e8re, Louise Fran\u00e7oise"
+        "id": 277,
+        "name": "Jabami, Yumeko",
+        "traits": ["impulsive", "intelligent", "risk-taking", "seductive"]
         },
         {
-            "id": 412,
-            "name": "Lee, Rock"
+        "id": 278,
+        "name": "Jaegerjaquez, Grimmjow",
+        "traits": ["aggressive", "arrogant", "reckless", "competitive"]
         },
         {
-            "id": 413,
-            "name": "Lenz, Krista"
+        "id": 279,
+        "name": "James Moriarty, William",
+        "traits": ["manipulative", "intelligent", "charismatic", "ruthless"]
         },
         {
-            "id": 414,
-            "name": "Leonardo, Watch"
-        },
+        "id": 280,
+        "name": "Jibril",
+        "traits": ["intelligent", "curious", "competitive", "arrogant"]
+        }
+        ,
         {
-            "id": 415,
-            "name": "Leone"
+        "id": 281,
+        "name": "Jin",
+        "traits": ["stoic", "observant", "strategic", "introverted"]
         },
         {
-            "id": 416,
-            "name": "Leonhart, Annie"
+        "id": 282,
+        "name": "Jinbe",
+        "traits": ["loyal", "courageous", "wise", "selfless"]
         },
         {
-            "id": 417,
-            "name": "Levi"
+        "id": 283,
+        "name": "Jiraiya",
+        "traits": ["perceptive", "charismatic", "adventurous", "mentor-like"]
         },
         {
-            "id": 418,
-            "name": "Li, Shaoran"
+        "id": 284,
+        "name": "Joestar, Joseph",
+        "traits": ["charismatic", "quick-witted", "impulsive", "courageous"]
         },
         {
-            "id": 419,
-            "name": "Littner, Yoko"
+        "id": 285,
+        "name": "Johan Liebert",
+        "traits": ["manipulative", "intelligent", "charismatic", "psychopathic"]
         },
         {
-            "id": 420,
-            "name": "Lockser, Juvia"
+        "id": 286,
+        "name": "Johnny Joestar",
+        "traits": ["determined", "introspective", "cynical", "resilient"]
         },
         {
-            "id": 421,
-            "name": "Lubbock"
+        "id": 287,
+        "name": "Jousuke Higashikata",
+        "traits": ["empathetic", "quick-tempered", "resourceful", "protective"]
         },
         {
-            "id": 422,
-            "name": "Lucy"
+        "id": 288,
+        "name": "Joutarou Kuujou",
+        "traits": ["stoic", "strategic", "protective", "introverted"]
         },
         {
-            "id": 423,
-            "name": "Lucy"
+        "id": 289,
+        "name": "Kaburagi, Kotetsu T.",
+        "traits": ["optimistic", "reckless", "loyal", "fatherly"]
         },
         {
-            "id": 424,
-            "name": "Ludenberg, Celestia"
-        },
+        "id": 290,
+        "name": "Kaga, Kouko",
+        "traits": ["possessive", "emotional", "determined", "vulnerable"]
+        }
+        ,
         {
-            "id": 425,
-            "name": "Lum"
+        "id": 291,
+        "name": "Kagari, Atsuko",
+        "traits": ["optimistic", "determined", "naive", "enthusiastic"]
         },
         {
-            "id": 426,
-            "name": "Mabuchi, Kou"
+        "id": 292,
+        "name": "Kagura",
+        "traits": ["impulsive", "strong-willed", "loyal", "emotional"]
         },
         {
-            "id": 427,
-            "name": "Madara"
+        "id": 293,
+        "name": "Kaguya Shinomiya",
+        "traits": ["intelligent", "manipulative", "vulnerable", "prideful"]
         },
         {
-            "id": 428,
-            "name": "Makima"
+        "id": 294,
+        "name": "Kaiba, Seto",
+        "traits": ["competitive", "arrogant", "strategic", "driven"]
         },
         {
-            "id": 429,
-            "name": "Makima"
+        "id": 295,
+        "name": "Kaidou, Shun",
+        "traits": ["delusional", "introverted", "loyal", "sensitive"]
         },
         {
-            "id": 430,
-            "name": "Makise, Kurisu"
+        "id": 296,
+        "name": "Kaiki, Deishuu",
+        "traits": ["manipulative", "cynical", "intelligent", "pragmatic"]
         },
         {
-            "id": 431,
-            "name": "Makunouchi, Ippo"
+        "id": 297,
+        "name": "Kajou, Ayame",
+        "traits": ["outspoken", "eccentric", "passionate", "fearless"]
         },
         {
-            "id": 432,
-            "name": "Mami Nanami"
+        "id": 298,
+        "name": "Kajou, Ayame",
+        "traits": ["outspoken", "eccentric", "passionate", "fearless"]
         },
         {
-            "id": 433,
-            "name": "Manjirou Sano"
+        "id": 299,
+        "name": "Kakyouin, Noriaki",
+        "traits": ["loyal", "observant", "compassionate", "mature"]
         },
         {
-            "id": 434,
-            "name": "Mankanshoku, Mako"
-        },
+        "id": 300,
+        "name": "Kallen Stadtfeld",
+        "traits": ["rebellious", "determined", "loyal", "emotional"]
+        }
+        ,
         {
-            "id": 435,
-            "name": "Marin Kitagawa"
+        "id": 301,
+        "name": "Kamijou, Touma",
+        "traits": ["selfless", "determined", "courageous", "optimistic"]
         },
         {
-            "id": 436,
-            "name": "Martinez, David"
+        "id": 302,
+        "name": "Kamina",
+        "traits": ["charismatic", "inspirational", "reckless", "confident"]
         },
         {
-            "id": 437,
-            "name": "Marvell, Wendy"
+        "id": 303,
+        "name": "Kamui",
+        "traits": ["stoic", "ruthless", "focused", "loyal"]
         },
         {
-            "id": 438,
-            "name": "Mashiro Shiina"
+        "id": 304,
+        "name": "Kana Arima",
+        "traits": ["sensitive", "observant", "loyal", "introverted"]
         },
         {
-            "id": 439,
-            "name": "Matou, Sakura"
+        "id": 305,
+        "name": "Kanade Tachibana",
+        "traits": ["stoic", "compassionate", "mysterious", "rational"]
         },
         {
-            "id": 440,
-            "name": "Matsuoka, Rin"
+        "id": 306,
+        "name": "Kanamori, Sayaka",
+        "traits": ["pragmatic", "resourceful", "cynical", "driven"]
         },
         {
-            "id": 441,
-            "name": "Matsuzaka, Satou"
+        "id": 307,
+        "name": "Kanao Tsuyuri",
+        "traits": ["submissive", "determined", "loyal", "empathetic"]
         },
         {
-            "id": 442,
-            "name": "Matsuzaka, Satou"
+        "id": 308,
+        "name": "Kanbaru, Suruga",
+        "traits": ["energetic", "competitive", "insecure", "loyal"]
         },
         {
-            "id": 443,
-            "name": "Megumi Katou"
+        "id": 309,
+        "name": "Kanbe, Daisuke",
+        "traits": ["arrogant", "intelligent", "detached", "strategic"]
         },
         {
-            "id": 444,
-            "name": "Megumi, Tadokoro"
-        },
+        "id": 310,
+        "name": "Kanda, Yuu",
+        "traits": ["stoic", "focused", "short-tempered", "loyal"]
+        }
+        ,
         {
-            "id": 445,
-            "name": "Megumin"
+        "id": 311,
+        "name": "Kaneda, Shoutarou",
+        "traits": ["rebellious", "courageous", "hot-headed", "loyal"]
         },
         {
-            "id": 446,
-            "name": "Meliodas"
+        "id": 312,
+        "name": "Kaneki, Ken",
+        "traits": ["introspective", "conflicted", "resilient", "empathetic"]
         },
         {
-            "id": 447,
-            "name": "Mercury, Rory"
+        "id": 313,
+        "name": "Kani, Nayuta",
+        "traits": ["passionate", "outgoing", "self-confident", "energetic"]
         },
         {
-            "id": 448,
-            "name": "Meruem"
+        "id": 314,
+        "name": "Kanna Kamui",
+        "traits": ["curious", "innocent", "observant", "quiet"]
         },
         {
-            "id": 449,
-            "name": "Midorima, Shintarou"
+        "id": 315,
+        "name": "Kanoe, Yuuko",
+        "traits": ["mysterious", "seductive", "melancholic", "intelligent"]
         },
         {
-            "id": 450,
-            "name": "Might, Guy"
+        "id": 316,
+        "name": "Kanroji, Mitsuri",
+        "traits": ["compassionate", "optimistic", "emotional", "courageous"]
         },
         {
-            "id": 451,
-            "name": "Migi"
+        "id": 317,
+        "name": "Kanzaki, Urumi",
+        "traits": ["intelligent", "manipulative", "independent", "sarcastic"]
         },
         {
-            "id": 452,
-            "name": "Miia"
+        "id": 318,
+        "name": "Kaonashi",
+        "traits": ["enigmatic", "lonely", "mysterious", "adaptive"]
         },
         {
-            "id": 453,
-            "name": "Miketsukami, Soushi"
+        "id": 319,
+        "name": "Kaori Miyazono",
+        "traits": ["vivacious", "inspirational", "free-spirited", "emotional"]
         },
         {
-            "id": 454,
-            "name": "Mikk, Tyki"
-        },
+        "id": 320,
+        "name": "Karma Akabane",
+        "traits": ["intelligent", "sadistic", "strategic", "charismatic"]
+        }
+        ,
         {
-            "id": 455,
-            "name": "Mikoshiba, Mikoto"
+        "id": 321,
+        "name": "Kasuga, Arata",
+        "traits": ["introspective", "responsible", "anxious", "kind-hearted"]
         },
         {
-            "id": 456,
-            "name": "Mikoto Misaka"
+        "id": 322,
+        "name": "Kasumigaoka, Utaha",
+        "traits": ["intelligent", "sarcastic", "manipulative", "passionate"]
         },
         {
-            "id": 457,
-            "name": "Miku Nakano"
+        "id": 323,
+        "name": "Katagiri, Yuuichi",
+        "traits": ["stoic", "loyal", "protective", "reserved"]
         },
         {
-            "id": 458,
-            "name": "Milim, Nava"
+        "id": 324,
+        "name": "Katsuki Bakugou",
+        "traits": ["hot-headed", "competitive", "determined", "prideful"]
         },
         {
-            "id": 459,
-            "name": "Minami, Kotori"
+        "id": 325,
+        "name": "Katsura, Hinagiku",
+        "traits": ["disciplined", "strong-willed", "compassionate", "insecure"]
         },
         {
-            "id": 460,
-            "name": "Minato Namikaze"
+        "id": 326,
+        "name": "Katsura, Kotarou",
+        "traits": ["strategic", "humorous", "idealistic", "loyal"]
         },
         {
-            "id": 461,
-            "name": "Mine"
+        "id": 327,
+        "name": "Kawai, Rika",
+        "traits": ["manipulative", "vulnerable", "selfish", "complex"]
         },
         {
-            "id": 462,
-            "name": "Miniwa, Tsumiki"
+        "id": 328,
+        "name": "Kawamoto, Hinata",
+        "traits": ["empathetic", "nurturing", "optimistic", "resilient"]
         },
         {
-            "id": 463,
-            "name": "Miniwa, Tsumiki"
+        "id": 329,
+        "name": "Kawashima, Ami",
+        "traits": ["two-faced", "intelligent", "insecure", "observant"]
         },
         {
-            "id": 464,
-            "name": "Mio Akiyama"
-        },
+        "id": 330,
+        "name": "Kazami, Yuuji",
+        "traits": ["stoic", "calculative", "mysterious", "resourceful"]
+        }
+        ,
         {
-            "id": 465,
-            "name": "Misato Katsuragi"
+        "id": 331,
+        "name": "Kazehaya, Shouta",
+        "traits": ["charismatic", "kind-hearted", "shy", "optimistic"]
         },
         {
-            "id": 466,
-            "name": "Mishima, Hitomi"
+        "id": 332,
+        "name": "Kazuma Satou",
+        "traits": ["cynical", "pragmatic", "lazy", "resourceful"]
         },
         {
-            "id": 467,
-            "name": "Mitsuba, Sousuke"
+        "id": 333,
+        "name": "Keehl, Mihael",
+        "traits": ["intelligent", "calculative", "empathetic", "introverted"]
         },
         {
-            "id": 468,
-            "name": "Miya, Atsumu"
+        "id": 334,
+        "name": "Kei Tsukishima",
+        "traits": ["sarcastic", "apathetic", "observant", "insecure"]
         },
         {
-            "id": 469,
-            "name": "Miyauchi, Renge"
+        "id": 335,
+        "name": "Kenji Harima",
+        "traits": ["stubborn", "passionate", "hot-headed", "loyal"]
         },
         {
-            "id": 470,
-            "name": "Miyuki, Kazuya"
+        "id": 336,
+        "name": "Kenma Kozume",
+        "traits": ["introverted", "strategic", "calm", "nonchalant"]
         },
         {
-            "id": 471,
-            "name": "Miyuki, Shiba"
+        "id": 337,
+        "name": "Kenshirou",
+        "traits": ["stoic", "righteous", "compassionate", "determined"]
         },
         {
-            "id": 472,
-            "name": "Mizunashi, Akari"
+        "id": 338,
+        "name": "Kento Nanami",
+        "traits": ["pragmatic", "dutiful", "stoic", "empathetic"]
         },
         {
-            "id": 473,
-            "name": "Mogami, Kyouko"
+        "id": 339,
+        "name": "Kenzou Tenma",
+        "traits": ["ethical", "compassionate", "determined", "guilt-ridden"]
         },
         {
-            "id": 474,
-            "name": "Momo Belia Deviluke"
-        },
+        "id": 340,
+        "name": "Keyaru",
+        "traits": ["vengeful", "manipulative", "resourceful", "traumatized"]
+        }
+        ,
         {
-            "id": 475,
-            "name": "Momobami, Kirari"
+        "id": 341,
+        "name": "Khun, Aguero Agnes",
+        "traits": ["strategic", "loyal", "manipulative", "cunning"]
         },
         {
-            "id": 476,
-            "name": "Momonga"
+        "id": 342,
+        "name": "Kim, Dokja",
+        "traits": ["observant", "self-sacrificing", "cynical", "empathetic"]
         },
         {
-            "id": 477,
-            "name": "Momozono, Nanami"
+        "id": 343,
+        "name": "King",
+        "traits": ["cowardly", "kind-hearted", "insecure", "empathetic"]
         },
         {
-            "id": 478,
-            "name": "Monkey D., Luffy"
+        "id": 344,
+        "name": "Kino",
+        "traits": ["curious", "stoic", "observant", "independent"]
         },
         {
-            "id": 479,
-            "name": "Monokuma"
+        "id": 345,
+        "name": "Kira, Yoshikage",
+        "traits": ["sociopathic", "meticulous", "self-centered", "obsessive"]
         },
         {
-            "id": 480,
-            "name": "Montgomery, Lucy Maud"
+        "id": 346,
+        "name": "Kirigaya, Kazuto",
+        "traits": ["introverted", "determined", "protective", "resourceful"]
         },
         {
-            "id": 481,
-            "name": "Morgiana"
+        "id": 347,
+        "name": "Kirigiri, Kyouko",
+        "traits": ["logical", "stoic", "independent", "observant"]
         },
         {
-            "id": 482,
-            "name": "Mori, Buntarou"
+        "id": 348,
+        "name": "Kirisaki, Chitoge",
+        "traits": ["tsundere", "outgoing", "insecure", "loyal"]
         },
         {
-            "id": 483,
-            "name": "Mori, Buntarou"
+        "id": 349,
+        "name": "Kirishima, Touka",
+        "traits": ["protective", "hot-headed", "compassionate", "independent"]
         },
         {
-            "id": 484,
-            "name": "Morinome, Shinako"
-        },
+        "id": 350,
+        "name": "Kirisu, Mafuyu",
+        "traits": ["responsible", "introverted", "stubborn", "caring"]
+        }
+        ,
         {
-            "id": 485,
-            "name": "Morita, Shinobu"
+        "id": 351,
+        "name": "Kiritsugu Emiya",
+        "traits": ["pragmatic", "stoic", "cynical", "utilitarian"]
         },
         {
-            "id": 486,
-            "name": "Morokuzu, Takehito"
+        "id": 352,
+        "name": "Kirstein, Jean",
+        "traits": ["realistic", "loyal", "insecure", "empathetic"]
         },
         {
-            "id": 487,
-            "name": "Morow, Hisoka"
+        "id": 353,
+        "name": "Kiryuu, Zero",
+        "traits": ["brooding", "loyal", "self-loathing", "protective"]
         },
         {
-            "id": 488,
-            "name": "Motoko Kusanagi"
+        "id": 354,
+        "name": "Kise, Ryouta",
+        "traits": ["charismatic", "competitive", "insecure", "adaptable"]
         },
         {
-            "id": 489,
-            "name": "Mugen"
+        "id": 355,
+        "name": "Kishibe, Rohan",
+        "traits": ["narcissistic", "curious", "perfectionist", "observant"]
         },
         {
-            "id": 490,
-            "name": "Mumen Rider"
+        "id": 356,
+        "name": "Kita, Ikuyo",
+        "traits": ["nurturing", "responsible", "patient", "supportive"]
         },
         {
-            "id": 491,
-            "name": "Musashi Miyamoto"
+        "id": 357,
+        "name": "Kita, Ikuyo",
+        "traits": ["nurturing", "responsible", "patient", "supportive"]
         },
         {
-            "id": 492,
-            "name": "Mustang, Roy"
+        "id": 358,
+        "name": "Kitahara, Iori",
+        "traits": ["extroverted", "irresponsible", "fun-loving", "adaptable"]
         },
         {
-            "id": 493,
-            "name": "Nagatoro, Hayase"
+        "id": 359,
+        "name": "Kiyose, Haiji",
+        "traits": ["inspirational", "determined", "manipulative", "visionary"]
         },
         {
-            "id": 494,
-            "name": "Nagi, Seishirou"
-        },
+        "id": 360,
+        "name": "Kochou, Shinobu",
+        "traits": ["stoic", "compassionate", "intelligent", "calculating"]
+        }
+        ,
         {
-            "id": 495,
-            "name": "Nagisa, Kaworu"
+        "id": 361,
+        "name": "Koga, Tomoe",
+        "traits": ["jealous", "insecure", "passionate", "determined"]
         },
         {
-            "id": 496,
-            "name": "Nagumo, Hajime"
+        "id": 362,
+        "name": "Koibuchi, Kuranosuke",
+        "traits": ["charismatic", "creative", "compassionate", "rebellious"]
         },
         {
-            "id": 497,
-            "name": "Nakahara, Misaki"
+        "id": 363,
+        "name": "Koito, Yuu",
+        "traits": ["introspective", "reserved", "curious", "empathetic"]
         },
         {
-            "id": 498,
-            "name": "Nakahara, Sunako"
+        "id": 364,
+        "name": "Komaeda, Nagito",
+        "traits": ["manipulative", "unpredictable", "optimistic", "complex"]
         },
         {
-            "id": 499,
-            "name": "Nakamura, Sawa"
+        "id": 365,
+        "name": "Konata Izumi",
+        "traits": ["laid-back", "sarcastic", "intelligent", "playful"]
         },
         {
-            "id": 500,
-            "name": "Nakamura, Yuri"
+        "id": 366,
+        "name": "Konjiki no Yami",
+        "traits": ["stoic", "guarded", "loyal", "conflicted"]
         },
         {
-            "id": 501,
-            "name": "Nakano, Azusa"
+        "id": 367,
+        "name": "Koro-sensei",
+        "traits": ["wise", "compassionate", "humorous", "mysterious"]
         },
         {
-            "id": 502,
-            "name": "Nakiri, Alice"
+        "id": 368,
+        "name": "Kotegawa, Chisa",
+        "traits": ["serious", "responsible", "judgmental", "caring"]
         },
         {
-            "id": 503,
-            "name": "Nakiri, Erina"
+        "id": 369,
+        "name": "Kousaka, Honoka",
+        "traits": ["energetic", "optimistic", "impulsive", "determined"]
         },
         {
-            "id": 504,
-            "name": "Nami"
-        },
+        "id": 370,
+        "name": "Kousaka, Honoka",
+        "traits": ["energetic", "optimistic", "impulsive", "determined"]
+        }
+        ,
         {
-            "id": 505,
-            "name": "Nanachi"
+        "id": 371,
+        "name": "Koushi Sugawara",
+        "traits": ["supportive", "empathetic", "strategic", "calm"]
         },
         {
-            "id": 506,
-            "name": "Nanakusa, Nazuna"
+        "id": 372,
+        "name": "Kuchiki, Byakuya",
+        "traits": ["stoic", "honorable", "disciplined", "protective"]
         },
         {
-            "id": 507,
-            "name": "Nanami, Chiaki"
+        "id": 373,
+        "name": "Kuchiki, Rukia",
+        "traits": ["resilient", "compassionate", "determined", "loyal"]
         },
         {
-            "id": 508,
-            "name": "Nanami, Kento"
+        "id": 374,
+        "name": "Kukumila, Kurena",
+        "traits": ["devoted", "shy", "sensitive", "caring"]
         },
         {
-            "id": 509,
-            "name": "Nanase, Haruka"
+        "id": 375,
+        "name": "Kumagawa, Misogi",
+        "traits": ["manipulative", "cynical", "charismatic", "unpredictable"]
         },
         {
-            "id": 510,
-            "name": "Nanba, Mutta"
+        "id": 376,
+        "name": "Kumiko Oumae",
+        "traits": ["introspective", "passionate", "indecisive", "observant"]
         },
         {
-            "id": 511,
-            "name": "Nandaba, Naota"
+        "id": 377,
+        "name": "Kumoko",
+        "traits": ["adaptable", "curious", "independent", "witty"]
         },
         {
-            "id": 512,
-            "name": "Nanjou, Sachi"
+        "id": 378,
+        "name": "Kurama",
+        "traits": ["wise", "calculative", "compassionate", "guarded"]
         },
         {
-            "id": 513,
-            "name": "Nao Tomori"
+        "id": 379,
+        "name": "Kuran, Kaname",
+        "traits": ["manipulative", "mysterious", "charismatic", "complex"]
         },
         {
-            "id": 514,
-            "name": "Naofumi Iwatani"
-        },
+        "id": 380,
+        "name": "Kurapika",
+        "traits": ["determined", "intelligent", "vengeful", "loyal"]
+        }
+        ,
         {
-            "id": 515,
-            "name": "Natsu Dragneel"
+        "id": 381,
+        "name": "Kurauchi, Kuranosuke",
+        "traits": ["ambitious", "manipulative", "charismatic", "calculative"]
         },
         {
-            "id": 516,
-            "name": "Nausica\u00e4"
+        "id": 382,
+        "name": "Kurisu Makise",
+        "traits": ["intelligent", "skeptical", "vulnerable", "curious"]
         },
         {
-            "id": 517,
-            "name": "Neferpitou"
+        "id": 383,
+        "name": "Kuriyama, Mirai",
+        "traits": ["timid", "courageous", "self-conscious", "kind-hearted"]
         },
         {
-            "id": 518,
-            "name": "Nendou, Riki"
+        "id": 384,
+        "name": "Kuro no Rider",
+        "traits": ["chivalrous", "boisterous", "loyal", "honorable"]
         },
         {
-            "id": 519,
-            "name": "Netero, Isaac"
+        "id": 385,
+        "name": "Kuroba, Kaito",
+        "traits": ["charismatic", "adventurous", "cunning", "optimistic"]
         },
         {
-            "id": 520,
-            "name": "Nezuko Kamado"
+        "id": 386,
+        "name": "Kurogane, Ikki",
+        "traits": ["determined", "honorable", "strategic", "empathetic"]
         },
         {
-            "id": 521,
-            "name": "Nezumi"
+        "id": 387,
+        "name": "Kurokawa, Akane",
+        "traits": ["introverted", "kind", "anxious", "diligent"]
         },
         {
-            "id": 522,
-            "name": "Nia, Teppelin"
+        "id": 388,
+        "name": "Kurono, Kei",
+        "traits": ["selfish", "courageous", "adaptive", "complex"]
         },
         {
-            "id": 523,
-            "name": "Nico Robin"
+        "id": 389,
+        "name": "Kuroo, Tetsurou",
+        "traits": ["sarcastic", "intelligent", "competitive", "charismatic"]
         },
         {
-            "id": 524,
-            "name": "Nifuji, Hirotaka"
-        },
+        "id": 390,
+        "name": "Kurosaki, Ichigo",
+        "traits": ["protective", "stubborn", "courageous", "introspective"]
+        }
+        ,
         {
-            "id": 525,
-            "name": "Niizuma, Eiji"
+        "id": 391,
+        "name": "Kurosaki, Tasuku",
+        "traits": ["mysterious", "protective", "calculative", "empathetic"]
         },
         {
-            "id": 526,
-            "name": "Nijimura, Okuyasu"
+        "id": 392,
+        "name": "Kurumi Tokisaki",
+        "traits": ["manipulative", "seductive", "vengeful", "intelligent"]
         },
         {
-            "id": 527,
-            "name": "Nikaidou"
+        "id": 393,
+        "name": "Kururugi, Suzaku",
+        "traits": ["idealistic", "conflicted", "loyal", "self-sacrificing"]
         },
         {
-            "id": 528,
-            "name": "Nine"
+        "id": 394,
+        "name": "Kusakabe, Shinra",
+        "traits": ["heroic", "determined", "optimistic", "courageous"]
         },
         {
-            "id": 529,
-            "name": "Nino Nakano"
+        "id": 395,
+        "name": "Kushieda, Minori",
+        "traits": ["energetic", "optimistic", "secretive", "empathetic"]
         },
         {
-            "id": 530,
-            "name": "Nishikigi, Chisato"
+        "id": 396,
+        "name": "Kusuo Saiki",
+        "traits": ["apathetic", "sarcastic", "observant", "pragmatic"]
         },
         {
-            "id": 531,
-            "name": "Nishinoya, Yuu"
+        "id": 397,
+        "name": "Kusuriuri",
+        "traits": ["mysterious", "wise", "manipulative", "enigmatic"]
         },
         {
-            "id": 532,
-            "name": "Nobara Kugisaki"
+        "id": 398,
+        "name": "Kuwabara, Kazuma",
+        "traits": ["stubborn", "loyal", "hot-headed", "honorable"]
         },
         {
-            "id": 533,
-            "name": "Noda, Megumi"
+        "id": 399,
+        "name": "Kyan, Reki",
+        "traits": ["passionate", "creative", "supportive", "determined"]
         },
         {
-            "id": 534,
-            "name": "Noi"
-        },
+        "id": 400,
+        "name": "Kyan, Reki",
+        "traits": ["passionate", "creative", "supportive", "determined"]
+        }
+        ,
         {
-            "id": 535,
-            "name": "Noriaki Kakyouin"
+        "id": 401,
+        "name": "Kyon",
+        "traits": ["sarcastic", "realistic", "reluctant-leader", "observant"]
         },
         {
-            "id": 536,
-            "name": "Norman"
+        "id": 402,
+        "name": "Kyou Souma",
+        "traits": ["hot-headed", "sensitive", "protective", "insecure"]
         },
         {
-            "id": 537,
-            "name": "Nota Seniorious, Chtholly"
+        "id": 403,
+        "name": "Kyouraku, Jirou Souzousuke Shunsui",
+        "traits": ["laid-back", "strategic", "empathetic", "charismatic"]
         },
         {
-            "id": 538,
-            "name": "Nouzen, Shinei"
+        "id": 404,
+        "name": "Lagusa, Angelo",
+        "traits": ["vengeful", "stoic", "calculative", "guarded"]
         },
         {
-            "id": 539,
-            "name": "Novachrono, Julius"
+        "id": 405,
+        "name": "Lamperouge, Lelouch",
+        "traits": ["manipulative", "intelligent", "charismatic", "vengeful"]
         },
         {
-            "id": 540,
-            "name": "Nozomi, Toujou"
+        "id": 406,
+        "name": "Lan, Wangji",
+        "traits": ["stoic", "loyal", "disciplined", "compassionate"]
         },
         {
-            "id": 541,
-            "name": "Nyaruko"
+        "id": 407,
+        "name": "Lancer",
+        "traits": ["honorable", "loyal", "courageous", "self-sacrificing"]
         },
         {
-            "id": 542,
-            "name": "Ochako Uraraka"
+        "id": 408,
+        "name": "Lavi",
+        "traits": ["cheerful", "adaptable", "curious", "conflicted"]
         },
         {
-            "id": 543,
-            "name": "Oda, Sakunosuke"
+        "id": 409,
+        "name": "Lawliet, L",
+        "traits": ["eccentric", "intelligent", "obsessive", "introverted"]
         },
         {
-            "id": 544,
-            "name": "Oga, Tatsumi"
-        },
+        "id": 410,
+        "name": "Lawrence, Kraft",
+        "traits": ["pragmatic", "shrewd", "kind-hearted", "patient"]
+        }
+        ,
         {
-            "id": 545,
-            "name": "Ogino, Chihiro"
+        "id": 411,
+        "name": "Le Blanc de La Vallière, Louise Françoise",
+        "traits": ["insecure", "fiery-temper", "determined", "loyal"]
         },
         {
-            "id": 546,
-            "name": "Ogiwara, Sayu"
+        "id": 412,
+        "name": "Lee, Rock",
+        "traits": ["perseverant", "optimistic", "hardworking", "loyal"]
         },
         {
-            "id": 547,
-            "name": "Oikawa, Tooru"
+        "id": 413,
+        "name": "Lenz, Krista",
+        "traits": ["compassionate", "self-sacrificing", "kind-hearted", "insecure"]
         },
         {
-            "id": 548,
-            "name": "Okazaki, Shinichi"
+        "id": 414,
+        "name": "Leonardo, Watch",
+        "traits": ["nervous", "kind-hearted", "observant", "courageous"]
         },
         {
-            "id": 549,
-            "name": "Okazaki, Ushio"
+        "id": 415,
+        "name": "Leone",
+        "traits": ["confident", "seductive", "loyal", "courageous"]
         },
         {
-            "id": 550,
-            "name": "Okkotsu, Yuuta"
+        "id": 416,
+        "name": "Leonhart, Annie",
+        "traits": ["stoic", "calculative", "guarded", "loyal"]
         },
         {
-            "id": 551,
-            "name": "Okumura, Eiji"
+        "id": 417,
+        "name": "Levi",
+        "traits": ["stoic", "disciplined", "protective", "pragmatic"]
         },
         {
-            "id": 552,
-            "name": "Okumura, Rin"
+        "id": 418,
+        "name": "Li, Shaoran",
+        "traits": ["stubborn", "competitive", "loyal", "shy"]
         },
         {
-            "id": 553,
-            "name": "Onizuka, Eikichi"
+        "id": 419,
+        "name": "Littner, Yoko",
+        "traits": ["confident", "courageous", "empathetic", "independent"]
         },
         {
-            "id": 554,
-            "name": "Onodera, Kosaki"
-        },
+        "id": 420,
+        "name": "Lockser, Juvia",
+        "traits": ["obsessive", "loyal", "emotional", "kind-hearted"]
+        }
+        ,
         {
-            "id": 555,
-            "name": "Ononoki, Yotsugi"
+        "id": 421,
+        "name": "Lubbock",
+        "traits": ["loyal", "strategic", "flirtatious", "courageous"]
         },
         {
-            "id": 556,
-            "name": "Ooe, Kintarou"
+        "id": 422,
+        "name": "Lucy",
+        "traits": ["traumatized", "vengeful", "lonely", "protective"]
         },
         {
-            "id": 557,
-            "name": "Ootani, Atsushi"
+        "id": 423,
+        "name": "Lucy",
+        "traits": ["traumatized", "vengeful", "lonely", "protective"]
         },
         {
-            "id": 558,
-            "name": "Ooto, Ai"
+        "id": 424,
+        "name": "Ludenberg, Celestia",
+        "traits": ["manipulative", "calm", "ambitious", "deceptive"]
         },
         {
-            "id": 559,
-            "name": "Ootori, Kyouya"
+        "id": 425,
+        "name": "Lum",
+        "traits": ["energetic", "jealous", "affectionate", "stubborn"]
         },
         {
-            "id": 560,
-            "name": "Orochimaru"
+        "id": 426,
+        "name": "Mabuchi, Kou",
+        "traits": ["reserved", "empathetic", "conflicted", "sensitive"]
         },
         {
-            "id": 561,
-            "name": "Osaki, Nana"
+        "id": 427,
+        "name": "Madara",
+        "traits": ["manipulative", "ambitious", "cunning", "ruthless"]
         },
         {
-            "id": 562,
-            "name": "Osana, Najimi"
+        "id": 428,
+        "name": "Makima",
+        "traits": ["manipulative", "cunning", "ruthless", "charismatic"]
         },
         {
-            "id": 563,
-            "name": "Oshino, Meme"
+        "id": 429,
+        "name": "Makima",
+        "traits": ["manipulative", "cunning", "ruthless", "charismatic"]
         },
         {
-            "id": 564,
-            "name": "Otonashi, Yuzuru"
-        },
+        "id": 430,
+        "name": "Makise, Kurisu",
+        "traits": ["intelligent", "tsundere", "curious", "vulnerable"]
+        }
+        ,
         {
-            "id": 565,
-            "name": "Otosaka, Yuu"
+        "id": 431,
+        "name": "Makunouchi, Ippo",
+        "traits": ["determined", "humble", "kind-hearted", "persevering"]
         },
         {
-            "id": 566,
-            "name": "Ouzen"
+        "id": 432,
+        "name": "Mami Nanami",
+        "traits": ["confident", "empathetic", "pragmatic", "insecure"]
         },
         {
-            "id": 567,
-            "name": "Pain"
+        "id": 433,
+        "name": "Manjirou Sano",
+        "traits": ["charismatic", "reckless", "loyal", "vengeful"]
         },
         {
-            "id": 568,
-            "name": "Paladiknight, Leorio"
+        "id": 434,
+        "name": "Mankanshoku, Mako",
+        "traits": ["energetic", "loyal", "optimistic", "naive"]
         },
         {
-            "id": 569,
-            "name": "Pen Pen"
+        "id": 435,
+        "name": "Marin Kitagawa",
+        "traits": ["outgoing", "flirtatious", "confident", "empathetic"]
         },
         {
-            "id": 570,
-            "name": "Phantomhive, Ciel"
+        "id": 436,
+        "name": "Martinez, David",
+        "traits": ["ambitious", "calculative", "charismatic", "manipulative"]
         },
         {
-            "id": 571,
-            "name": "Pheles, Mephisto"
+        "id": 437,
+        "name": "Marvell, Wendy",
+        "traits": ["kind-hearted", "determined", "shy", "empathetic"]
         },
         {
-            "id": 572,
-            "name": "Phil"
+        "id": 438,
+        "name": "Mashiro Shiina",
+        "traits": ["focused", "socially-awkward", "innocent", "talented"]
         },
         {
-            "id": 573,
-            "name": "Phosphophyllite"
+        "id": 439,
+        "name": "Matou, Sakura",
+        "traits": ["submissive", "traumatized", "kind-hearted", "resilient"]
         },
         {
-            "id": 574,
-            "name": "Piccolo"
-        },
+        "id": 440,
+        "name": "Matsuoka, Rin",
+        "traits": ["competitive", "prideful", "sensitive", "ambitious"]
+        }
+        ,
         {
-            "id": 575,
-            "name": "Pikachu"
+        "id": 441,
+        "name": "Matsuzaka, Satou",
+        "traits": ["Manipulative", "Possessive", "Caring", "Deceptive"]
         },
         {
-            "id": 576,
-            "name": "Pikachu"
+        "id": 442,
+        "name": "Matsuzaka, Satou",
+        "traits": ["Manipulative", "Possessive", "Caring", "Deceptive"]
         },
         {
-            "id": 577,
-            "name": "Pingu"
+        "id": 443,
+        "name": "Megumi Katou",
+        "traits": ["Reserved", "Kind-hearted", "Supportive", "Insecure"]
         },
         {
-            "id": 578,
-            "name": "Pochita"
+        "id": 444,
+        "name": "Megumi, Tadokoro",
+        "traits": ["Timid", "Determined", "Loyal", "Empathetic"]
         },
         {
-            "id": 579,
-            "name": "Polnareff, Jean-Pierre"
+        "id": 445,
+        "name": "Megumin",
+        "traits": ["Eccentric", "Confident", "Stubborn", "Passionate"]
         },
         {
-            "id": 580,
-            "name": "Portgas D. Ace"
+        "id": 446,
+        "name": "Meliodas",
+        "traits": ["Charismatic", "Protective", "Strategic", "Impulsive"]
         },
         {
-            "id": 581,
-            "name": "Portor, Feitan"
+        "id": 447,
+        "name": "Mercury, Rory",
+        "traits": ["Seductive", "Fearless", "Loyal", "Sadistic"]
         },
         {
-            "id": 582,
-            "name": "Power"
+        "id": 448,
+        "name": "Meruem",
+        "traits": ["Intelligent", "Curious", "Arrogant", "Adaptive"]
         },
         {
-            "id": 583,
-            "name": "Pucci, Enrico"
+        "id": 449,
+        "name": "Midorima, Shintarou",
+        "traits": ["Superstitious", "Proud", "Analytical", "Reserved"]
         },
         {
-            "id": 584,
-            "name": "Ram"
-        },
+        "id": 450,
+        "name": "Might, Guy",
+        "traits": ["Energetic", "Optimistic", "Disciplined", "Competitive"]
+        }
+        ,
         {
-            "id": 585,
-            "name": "Raphtalia"
+        "id": 451,
+        "name": "Migi",
+        "traits": ["Pragmatic", "Curious", "Emotionally-Detached", "Analytical"]
         },
         {
-            "id": 586,
-            "name": "Ray"
+        "id": 452,
+        "name": "Miia",
+        "traits": ["Affectionate", "Jealous", "Optimistic", "Naive"]
         },
         {
-            "id": 587,
-            "name": "Rebecca"
+        "id": 453,
+        "name": "Miketsukami, Soushi",
+        "traits": ["Loyal", "Submissive", "Protective", "Emotionally-Reserved"]
         },
         {
-            "id": 588,
-            "name": "Reborn"
+        "id": 454,
+        "name": "Mikk, Tyki",
+        "traits": ["Sadistic", "Charismatic", "Complex", "Contradictory"]
         },
         {
-            "id": 589,
-            "name": "Redfox, Gajeel"
+        "id": 455,
+        "name": "Mikoshiba, Mikoto",
+        "traits": ["Shy", "Flirtatious", "Insecure", "Kind-hearted"]
         },
         {
-            "id": 590,
-            "name": "Reg"
+        "id": 456,
+        "name": "Mikoto Misaka",
+        "traits": ["Stubborn", "Protective", "Independent", "Hot-Tempered"]
         },
         {
-            "id": 591,
-            "name": "Rei Ayanami"
+        "id": 457,
+        "name": "Miku Nakano",
+        "traits": ["Introverted", "Studious", "Sensitive", "Romantic"]
         },
         {
-            "id": 592,
-            "name": "Rei Kiriyama"
+        "id": 458,
+        "name": "Milim, Nava",
+        "traits": ["Impulsive", "Playful", "Loyal", "Emotionally-Volatile"]
         },
         {
-            "id": 593,
-            "name": "Reigen, Arataka"
+        "id": 459,
+        "name": "Minami, Kotori",
+        "traits": ["Cheerful", "Supportive", "Creative", "Indecisive"]
         },
         {
-            "id": 594,
-            "name": "Reiner Braun"
-        },
+        "id": 460,
+        "name": "Minato Namikaze",
+        "traits": ["Strategic", "Calm", "Loving", "Self-Sacrificing"]
+        }
+        ,
         {
-            "id": 595,
-            "name": "Reinhard von Lohengramm"
+        "id": 461,
+        "name": "Mine",
+        "traits": ["Strong-Willed", "Protective", "Sarcastic", "Loyal"]
         },
         {
-            "id": 596,
-            "name": "Rem"
+        "id": 462,
+        "name": "Miniwa, Tsumiki",
+        "traits": ["Shy", "Affectionate", "Innocent", "Jealous"]
         },
         {
-            "id": 597,
-            "name": "Rena Ryuuguu"
+        "id": 463,
+        "name": "Miniwa, Tsumiki",
+        "traits": ["Shy", "Affectionate", "Innocent", "Jealous"]
         },
         {
-            "id": 598,
-            "name": "Rengoku, Kyoujurou"
+        "id": 464,
+        "name": "Mio Akiyama",
+        "traits": ["Introverted", "Responsible", "Talented", "Anxious"]
         },
         {
-            "id": 599,
-            "name": "Revy"
+        "id": 465,
+        "name": "Misato Katsuragi",
+        "traits": ["Complex", "Maternal", "Irresponsible", "Courageous"]
         },
         {
-            "id": 600,
-            "name": "Rias Gremory"
+        "id": 466,
+        "name": "Mishima, Hitomi",
+        "traits": ["Ambitious", "Manipulative", "Resourceful", "Cunning"]
         },
         {
-            "id": 601,
-            "name": "Rider"
+        "id": 467,
+        "name": "Mitsuba, Sousuke",
+        "traits": ["Insecure", "Kind-Hearted", "Lonely", "Brave"]
         },
         {
-            "id": 602,
-            "name": "Rikka Takanashi"
+        "id": 468,
+        "name": "Miya, Atsumu",
+        "traits": ["Competitive", "Confident", "Energetic", "Impulsive"]
         },
         {
-            "id": 603,
-            "name": "Rimuru Tempest"
+        "id": 469,
+        "name": "Miyauchi, Renge",
+        "traits": ["Curious", "Innocent", "Observant", "Creative"]
         },
         {
-            "id": 604,
-            "name": "Rin Toosaka"
-        },
+        "id": 470,
+        "name": "Miyuki, Kazuya",
+        "traits": ["Strategic", "Serious", "Competitive", "Leader"]
+        }
+        ,
         {
-            "id": 605,
-            "name": "Ritsu Tainaka"
+        "id": 471,
+        "name": "Miyuki, Shiba",
+        "traits": ["Strategic-Thinker", "Protective", "Emotionally-Reserved", "Intellectual"]
         },
         {
-            "id": 606,
-            "name": "Rock Lee"
+        "id": 472,
+        "name": "Mizunashi, Akari",
+        "traits": ["Optimistic", "Empathetic", "Curious", "Adaptable"]
         },
         {
-            "id": 607,
-            "name": "Rockbell, Winry"
+        "id": 473,
+        "name": "Mogami, Kyouko",
+        "traits": ["Vengeful", "Determined", "Resourceful", "Insecure"]
         },
         {
-            "id": 608,
-            "name": "Rokudou, Mukuro"
+        "id": 474,
+        "name": "Momo Belia Deviluke",
+        "traits": ["Manipulative", "Affectionate", "Intelligent", "Adventurous"]
         },
         {
-            "id": 609,
-            "name": "Roronoa, Zoro"
+        "id": 475,
+        "name": "Momobami, Kirari",
+        "traits": ["Manipulative", "Cunning", "Charismatic", "Ruthless"]
         },
         {
-            "id": 610,
-            "name": "Roxy Migurdia"
+        "id": 476,
+        "name": "Momonga",
+        "traits": ["Strategic", "Ruthless", "Loyal", "Cautious"]
         },
         {
-            "id": 611,
-            "name": "Rukia Kuchiki"
+        "id": 477,
+        "name": "Momozono, Nanami",
+        "traits": ["Optimistic", "Resilient", "Kind-hearted", "Determined"]
         },
         {
-            "id": 612,
-            "name": "Ruler"
+        "id": 478,
+        "name": "Monkey D., Luffy",
+        "traits": ["Optimistic", "Stubborn", "Loyal", "Fearless"]
         },
         {
-            "id": 613,
-            "name": "Ryuk"
+        "id": 479,
+        "name": "Monokuma",
+        "traits": ["Sadistic", "Manipulative", "Unpredictable", "Cunning"]
         },
         {
-            "id": 614,
-            "name": "Ryuu, Jusetsu"
-        },
+        "id": 480,
+        "name": "Montgomery, Lucy Maud",
+        "traits": ["Creative", "Observant", "Nostalgic", "Empathetic"]
+        }
+        ,
         {
-            "id": 615,
-            "name": "Ryuuguuji, Ken"
+        "id": 481,
+        "name": "Morgiana",
+        "traits": ["Loyal", "Courageous", "Emotionally-Reserved", "Determined"]
         },
         {
-            "id": 616,
-            "name": "Ryuuji Takasu"
+        "id": 482,
+        "name": "Mori, Buntarou",
+        "traits": ["Confident", "Hot-Headed", "Protective", "Strategic"]
         },
         {
-            "id": 617,
-            "name": "Ryuuko Matoi"
+        "id": 483,
+        "name": "Mori, Buntarou",
+        "traits": ["Confident", "Hot-Headed", "Protective", "Strategic"]
         },
         {
-            "id": 618,
-            "name": "Saber"
+        "id": 484,
+        "name": "Morinome, Shinako",
+        "traits": ["Reserved", "Emotionally-Complex", "Kind-Hearted", "Indecisive"]
         },
         {
-            "id": 619,
-            "name": "Sagara, Sousuke"
+        "id": 485,
+        "name": "Morita, Shinobu",
+        "traits": ["Eccentric", "Creative", "Nonchalant", "Unpredictable"]
         },
         {
-            "id": 620,
-            "name": "Sagiri, Yamada Asaemon"
+        "id": 486,
+        "name": "Morokuzu, Takehito",
+        "traits": ["Intelligent", "Manipulative", "Calm", "Strategic"]
         },
         {
-            "id": 621,
-            "name": "Saichi, Sugimoto"
+        "id": 487,
+        "name": "Morow, Hisoka",
+        "traits": ["Manipulative", "Sadistic", "Charismatic", "Unpredictable"]
         },
         {
-            "id": 622,
-            "name": "Sakamaki, Izayoi"
+        "id": 488,
+        "name": "Motoko Kusanagi",
+        "traits": ["Stoic", "Intelligent", "Leadership-Qualities", "Analytical"]
         },
         {
-            "id": 623,
-            "name": "Sakamoto"
+        "id": 489,
+        "name": "Mugen",
+        "traits": ["Rebellious", "Hot-Headed", "Independent", "Impulsive"]
         },
         {
-            "id": 624,
-            "name": "Sakata, Gintoki"
-        },
+        "id": 490,
+        "name": "Mumen Rider",
+        "traits": ["Altruistic", "Courageous", "Persistent", "Humble"]
+        }
+        ,
         {
-            "id": 625,
-            "name": "Sakura Kinomoto"
+        "id": 491,
+        "name": "Musashi Miyamoto",
+        "traits": ["Strategic-Mind", "Calm-Under-Pressure", "Honorable", "Philosophical"]
         },
         {
-            "id": 626,
-            "name": "Sakuragi, Rokurouta"
+        "id": 492,
+        "name": "Mustang, Roy",
+        "traits": ["Strategic", "Charismatic", "Vengeful", "Compassionate"]
         },
         {
-            "id": 627,
-            "name": "Sakurajima, Mai"
+        "id": 493,
+        "name": "Nagatoro, Hayase",
+        "traits": ["Teasing", "Observant", "Protective", "Insecure"]
         },
         {
-            "id": 628,
-            "name": "Sakurasawa, Sumi"
+        "id": 494,
+        "name": "Nagi, Seishirou",
+        "traits": ["Manipulative", "Intelligent", "Cunning", "Emotionally-Detached"]
         },
         {
-            "id": 629,
-            "name": "Sakuta Azusagawa"
+        "id": 495,
+        "name": "Nagisa, Kaworu",
+        "traits": ["Mysterious", "Empathetic", "Manipulative", "Calm"]
         },
         {
-            "id": 630,
-            "name": "Saluja, Alibaba"
+        "id": 496,
+        "name": "Nagumo, Hajime",
+        "traits": ["Resourceful", "Determined", "Cynical", "Protective"]
         },
         {
-            "id": 631,
-            "name": "Samejima, Mamimi"
+        "id": 497,
+        "name": "Nakahara, Misaki",
+        "traits": ["Empathetic", "Manipulative", "Insecure", "Optimistic"]
         },
         {
-            "id": 632,
-            "name": "San"
+        "id": 498,
+        "name": "Nakahara, Sunako",
+        "traits": ["Introverted", "Creative", "Insecure", "Strong-Willed"]
         },
         {
-            "id": 633,
-            "name": "Sanji"
+        "id": 499,
+        "name": "Nakamura, Sawa",
+        "traits": ["Melancholic", "Choleric", "Manipulative", "Intelligent"]
         },
         {
-            "id": 634,
-            "name": "Sanji"
-        },
+        "id": 500,
+        "name": "Nakamura, Yuri",
+        "traits": ["Determined", "Sensitive", "Protective", "Decisive"]
+        }
+        ,
         {
-            "id": 635,
-            "name": "Sanka, Rea"
+        "id": 501,
+        "name": "Nakano, Azusa",
+        "traits": ["Responsible", "Insecure", "Musically-Gifted", "Socially-Awkward"]
         },
         {
-            "id": 636,
-            "name": "Saotome, Mary"
+        "id": 502,
+        "name": "Nakiri, Alice",
+        "traits": ["Innovative", "Competitive", "Self-Confident", "Playful"]
         },
         {
-            "id": 637,
-            "name": "Saotome, Ranma"
+        "id": 503,
+        "name": "Nakiri, Erina",
+        "traits": ["Proud", "Vulnerable", "Discerning", "Competitive"]
         },
         {
-            "id": 638,
-            "name": "Sara"
+        "id": 504,
+        "name": "Nami",
+        "traits": ["Materialistic", "Intelligent", "Manipulative", "Loyal"]
         },
         {
-            "id": 639,
-            "name": "Sarashina, Ruka"
+        "id": 505,
+        "name": "Nanachi",
+        "traits": ["Cynical", "Compassionate", "Knowledgeable", "Resilient"]
         },
         {
-            "id": 640,
-            "name": "Sasaki, Haise"
+        "id": 506,
+        "name": "Nanakusa, Nazuna",
+        "traits": ["Manipulative", "Insecure", "Ambitious", "Resourceful"]
         },
         {
-            "id": 641,
-            "name": "Sasaki, Kojirou"
+        "id": 507,
+        "name": "Nanami, Chiaki",
+        "traits": ["Logical", "Introverted", "Empathetic", "Gamer"]
         },
         {
-            "id": 642,
-            "name": "Sasha Blouse"
+        "id": 508,
+        "name": "Nanami, Kento",
+        "traits": ["Pragmatic", "Stoic", "Dedicated", "Skeptical"]
         },
         {
-            "id": 643,
-            "name": "Satou"
+        "id": 509,
+        "name": "Nanase, Haruka",
+        "traits": ["Serious", "Passionate-about-Swimming", "Introverted", "Competitive"]
         },
         {
-            "id": 644,
-            "name": "Sawabe, Tsubaki"
-        },
+        "id": 510,
+        "name": "Nanba, Mutta",
+        "traits": ["Competitive", "Quick-Learner", "Calm", "Multitasker"]
+        }
+        ,
         {
-            "id": 645,
-            "name": "Sawada, Tsunayoshi"
+        "id": 511,
+        "name": "Nandaba, Naota",
+        "traits": ["Insecure", "Adventurous", "Mature-for-Age", "Conflicted"]
         },
         {
-            "id": 646,
-            "name": "Sawamura, Eijun"
+        "id": 512,
+        "name": "Nanjou, Sachi",
+        "traits": ["Obedient", "Timid", "Loyal", "Dependent"]
         },
         {
-            "id": 647,
-            "name": "Scar"
+        "id": 513,
+        "name": "Nao Tomori",
+        "traits": ["Pragmatic", "Stubborn", "Caring", "Intelligent"]
         },
         {
-            "id": 648,
-            "name": "Sebastian Michaelis"
+        "id": 514,
+        "name": "Naofumi Iwatani",
+        "traits": ["Cynical", "Resourceful", "Protective", "Distrustful"]
         },
         {
-            "id": 649,
-            "name": "Sengoku, Nadeko"
+        "id": 515,
+        "name": "Natsu Dragneel",
+        "traits": ["Hot-Headed", "Loyal", "Optimistic", "Fearless"]
         },
         {
-            "id": 650,
-            "name": "Senji, Kiyomasa"
+        "id": 516,
+        "name": "Nausicaä",
+        "traits": ["Compassionate", "Courageous", "Idealistic", "Leader"]
         },
         {
-            "id": 651,
-            "name": "Senji, Kiyomasa"
+        "id": 517,
+        "name": "Neferpitou",
+        "traits": ["Manipulative", "Loyal", "Curious", "Sadistic"]
         },
         {
-            "id": 652,
-            "name": "Senjougahara, Hitagi"
+        "id": 518,
+        "name": "Nendou, Riki",
+        "traits": ["Unpredictable", "Loud", "Friendly", "Simple-Minded"]
         },
         {
-            "id": 653,
-            "name": "Senko"
+        "id": 519,
+        "name": "Netero, Isaac",
+        "traits": ["Strategic", "Playful", "Resolute", "Wise"]
         },
         {
-            "id": 654,
-            "name": "Senkuu Ishigami"
-        },
+        "id": 520,
+        "name": "Nezuko Kamado",
+        "traits": ["Protective", "Innocent", "Adaptable", "Strong-Willed"]
+        }
+        ,
         {
-            "id": 655,
-            "name": "Sephiroth"
+        "id": 521,
+        "name": "Nezumi",
+        "traits": ["Cynical", "Resourceful", "Protective", "Mysterious"]
         },
         {
-            "id": 656,
-            "name": "Sesshoumaru"
+        "id": 522,
+        "name": "Nia, Teppelin",
+        "traits": ["Optimistic", "Innocent", "Curious", "Empathetic"]
         },
         {
-            "id": 657,
-            "name": "Shana"
+        "id": 523,
+        "name": "Nico Robin",
+        "traits": ["Intelligent", "Cautious", "Loyal", "Melancholic"]
         },
         {
-            "id": 658,
-            "name": "Shanks"
+        "id": 524,
+        "name": "Nifuji, Hirotaka",
+        "traits": ["Introverted", "Passionate", "Straightforward", "Reliable"]
         },
         {
-            "id": 659,
-            "name": "Shiba, Tatsuya"
+        "id": 525,
+        "name": "Niizuma, Eiji",
+        "traits": ["Eccentric", "Competitive", "Creative", "Impulsive"]
         },
         {
-            "id": 660,
-            "name": "Shigaraki, Tomura"
+        "id": 526,
+        "name": "Nijimura, Okuyasu",
+        "traits": ["Impulsive", "Loyal", "Naive", "Hot-headed"]
         },
         {
-            "id": 661,
-            "name": "Shigeo Kageyama"
+        "id": 527,
+        "name": "Nikaidou",
+        "traits": ["Persistent", "Optimistic", "Competitive", "Emotional"]
         },
         {
-            "id": 662,
-            "name": "Shihouin, Yoruichi"
+        "id": 528,
+        "name": "Nine",
+        "traits": ["Manipulative", "Intelligent", "Calm", "Ruthless"]
         },
         {
-            "id": 663,
-            "name": "Shiina, Mahiru"
+        "id": 529,
+        "name": "Nino Nakano",
+        "traits": ["Stubborn", "Protective", "Romantic", "Defensive"]
         },
         {
-            "id": 664,
-            "name": "Shiina, Mayuri"
-        },
+        "id": 530,
+        "name": "Nishikigi, Chisato",
+        "traits": ["Unknown"]
+        }
+        ,
         {
-            "id": 665,
-            "name": "Shikamaru Nara"
+        "id": 531,
+        "name": "Nishinoya, Yuu",
+        "traits": ["Energetic", "Confident", "Supportive", "Fearless"]
         },
         {
-            "id": 666,
-            "name": "Shiki Ryougi"
+        "id": 532,
+        "name": "Nobara Kugisaki",
+        "traits": ["Self-Confident", "Strong-Willed", "Independent", "Blunt"]
         },
         {
-            "id": 667,
-            "name": "Shikimori, Miyako"
+        "id": 533,
+        "name": "Noda, Megumi",
+        "traits": ["Timid", "Kind-hearted", "Determined", "Insecure"]
         },
         {
-            "id": 668,
-            "name": "Shimura, Shinpachi"
+        "id": 534,
+        "name": "Noi",
+        "traits": ["Loyal", "Optimistic", "Violent", "Affectionate"]
         },
         {
-            "id": 669,
-            "name": "Shimura, Shinpachi"
+        "id": 535,
+        "name": "Noriaki Kakyouin",
+        "traits": ["Loyal", "Intelligent", "Cautious", "Empathetic"]
         },
         {
-            "id": 670,
-            "name": "Shin-ah"
+        "id": 536,
+        "name": "Norman",
+        "traits": ["Strategic", "Calm", "Manipulative", "Protective"]
         },
         {
-            "id": 671,
-            "name": "Shinji Ikari"
+        "id": 537,
+        "name": "Nota Seniorious, Chtholly",
+        "traits": ["Self-Sacrificing", "Innocent", "Courageous", "Emotional"]
         },
         {
-            "id": 672,
-            "name": "Shino Asada"
+        "id": 538,
+        "name": "Nouzen, Shinei",
+        "traits": ["Stoic", "Strategic", "Loyal", "Reserved"]
         },
         {
-            "id": 673,
-            "name": "Shinobu"
+        "id": 539,
+        "name": "Novachrono, Julius",
+        "traits": ["Optimistic", "Curious", "Charismatic", "Inspirational"]
         },
         {
-            "id": 674,
-            "name": "Shinonome, Hakase"
-        },
+        "id": 540,
+        "name": "Nozomi, Toujou",
+        "traits": ["Mature", "Mysterious", "Caring", "Manipulative"]
+        }
+        ,
         {
-            "id": 675,
-            "name": "Shinya Kougami"
+        "id": 541,
+        "name": "Nyaruko",
+        "traits": ["Over-Enthusiastic", "Protective", "Mischievous", "Love-Struck"]
         },
         {
-            "id": 676,
-            "name": "Shiraishi, Urara"
+        "id": 542,
+        "name": "Ochako Uraraka",
+        "traits": ["Optimistic", "Determined", "Empathetic", "Resourceful"]
         },
         {
-            "id": 677,
-            "name": "Shirasaki, Kaori"
+        "id": 543,
+        "name": "Oda, Sakunosuke",
+        "traits": ["Stoic", "Philosophical", "Loyal", "Self-Sacrificing"]
         },
         {
-            "id": 678,
-            "name": "Shirayuki"
+        "id": 544,
+        "name": "Oga, Tatsumi",
+        "traits": ["Hot-Headed", "Protective", "Stubborn", "Maternal"]
         },
         {
-            "id": 679,
-            "name": "Shirayuki, Mizore"
+        "id": 545,
+        "name": "Ogino, Chihiro",
+        "traits": ["Courageous", "Adaptable", "Inquisitive", "Persistent"]
         },
         {
-            "id": 680,
-            "name": "Shiro"
+        "id": 546,
+        "name": "Ogiwara, Sayu",
+        "traits": ["Vulnerable", "Resilient", "Independent", "Cautious"]
         },
         {
-            "id": 681,
-            "name": "Shiro"
+        "id": 547,
+        "name": "Oikawa, Tooru",
+        "traits": ["Charismatic", "Competitive", "Insecure", "Manipulative"]
         },
         {
-            "id": 682,
-            "name": "Shiroe"
+        "id": 548,
+        "name": "Okazaki, Shinichi",
+        "traits": ["Rebellious", "Mature", "Cynical", "Romantic"]
         },
         {
-            "id": 683,
-            "name": "Shizuo Heiwajima"
+        "id": 549,
+        "name": "Okazaki, Ushio",
+        "traits": ["Innocent", "Curious", "Affectionate", "Resilient"]
         },
         {
-            "id": 684,
-            "name": "Shokuhou, Misaki"
-        },
+        "id": 550,
+        "name": "Okkotsu, Yuuta",
+        "traits": ["Haunted", "Loyal", "Courageous", "Reserved"]
+        }
+        ,
         {
-            "id": 685,
-            "name": "Shougo Makishima"
+        "id": 551,
+        "name": "Okumura, Eiji",
+        "traits": ["Loyal", "Compassionate", "Reserved", "Innocent"]
         },
         {
-            "id": 686,
-            "name": "Shouko Komi"
+        "id": 552,
+        "name": "Okumura, Rin",
+        "traits": ["Hot-Headed", "Determined", "Protective", "Rebellious"]
         },
         {
-            "id": 687,
-            "name": "Shouko Nishimiya"
+        "id": 553,
+        "name": "Onizuka, Eikichi",
+        "traits": ["Charismatic", "Unconventional", "Risk-Taking", "Empathetic"]
         },
         {
-            "id": 688,
-            "name": "Shouto Todoroki"
+        "id": 554,
+        "name": "Onodera, Kosaki",
+        "traits": ["Innocent", "Timid", "Kind", "Thoughtful"]
         },
         {
-            "id": 689,
-            "name": "Shouya Ishida"
+        "id": 555,
+        "name": "Ononoki, Yotsugi",
+        "traits": ["Stoic", "Unemotional", "Blunt", "Curious"]
         },
         {
-            "id": 690,
-            "name": "Shouyou Hinata"
+        "id": 556,
+        "name": "Ooe, Kintarou",
+        "traits": ["Adventurous", "Eccentric", "Optimistic", "Perceptive"]
         },
         {
-            "id": 691,
-            "name": "Siesta"
+        "id": 557,
+        "name": "Ootani, Atsushi",
+        "traits": ["Insecure", "Stubborn", "Comedic", "Loyal"]
         },
         {
-            "id": 692,
-            "name": "Simon"
+        "id": 558,
+        "name": "Ooto, Ai",
+        "traits": ["Introverted", "Sensitive", "Courageous", "Empathetic"]
         },
         {
-            "id": 693,
-            "name": "Sinbad"
+        "id": 559,
+        "name": "Ootori, Kyouya",
+        "traits": ["Manipulative", "Intelligent", "Cunning", "Pragmatic"]
         },
         {
-            "id": 694,
-            "name": "Son Gokuu"
-        },
+        "id": 560,
+        "name": "Orochimaru",
+        "traits": ["Manipulative", "Ambitious", "Cunning", "Morally-Ambiguous"]
+        }
+        ,
         {
-            "id": 695,
-            "name": "Son, Gohan"
+        "id": 561,
+        "name": "Osaki, Nana",
+        "traits": ["Independent", "Emotionally-Complex", "Passionate", "Loyal"]
         },
         {
-            "id": 696,
-            "name": "Son, Hak"
+        "id": 562,
+        "name": "Osana, Najimi",
+        "traits": ["Tsundere", "Jealous", "Affectionate", "Insecure"]
         },
         {
-            "id": 697,
-            "name": "Sonoda, Umi"
+        "id": 563,
+        "name": "Oshino, Meme",
+        "traits": ["Eccentric", "Wise", "Nonchalant", "Mysterious"]
         },
         {
-            "id": 698,
-            "name": "Sonozaki, Mion"
+        "id": 564,
+        "name": "Otonashi, Yuzuru",
+        "traits": ["Altruistic", "Empathetic", "Resilient", "Skeptical"]
         },
         {
-            "id": 699,
-            "name": "Sonozaki, Shion"
+        "id": 565,
+        "name": "Otosaka, Yuu",
+        "traits": ["Manipulative", "Selfish", "Resourceful", "Redeemable"]
         },
         {
-            "id": 700,
-            "name": "Sora"
+        "id": 566,
+        "name": "Ouzen",
+        "traits": ["Stoic", "Intimidating", "Experienced", "Calculative"]
         },
         {
-            "id": 701,
-            "name": "Soul Eater Evans"
+        "id": 567,
+        "name": "Pain",
+        "traits": ["Charismatic", "Idealistic", "Ruthless", "Strategic"]
         },
         {
-            "id": 702,
-            "name": "Souma Yukihira"
+        "id": 568,
+        "name": "Paladiknight, Leorio",
+        "traits": ["Ambitious", "Hot-Tempered", "Compassionate", "Loyal"]
         },
         {
-            "id": 703,
-            "name": "Souma, Hatsuharu"
+        "id": 569,
+        "name": "Pen Pen",
+        "traits": ["Curious", "Adaptable", "Social", "Intelligent"]
         },
         {
-            "id": 704,
-            "name": "Souma, Momiji"
-        },
+        "id": 570,
+        "name": "Phantomhive, Ciel",
+        "traits": ["Resourceful", "Cynical", "Determined", "Aristocratic"]
+        }
+        ,
         {
-            "id": 705,
-            "name": "Souma, Shigure"
+        "id": 571,
+        "name": "Pheles, Mephisto",
+        "traits": ["Manipulative", "Cunning", "Charismatic", "Mysterious"]
         },
         {
-            "id": 706,
-            "name": "Souma, Shigure"
+        "id": 572,
+        "name": "Phil",
+        "traits": ["Intelligent", "Curious", "Observant", "Innocent"]
         },
         {
-            "id": 707,
-            "name": "Souma, Yuki"
+        "id": 573,
+        "name": "Phosphophyllite",
+        "traits": ["Insecure", "Naive", "Eager-to-please", "Adaptive"]
         },
         {
-            "id": 708,
-            "name": "Speeddraw, Fremy"
+        "id": 574,
+        "name": "Piccolo",
+        "traits": ["Stoic", "Protective", "Disciplined", "Wise"]
         },
         {
-            "id": 709,
-            "name": "Speeddraw, Fremy"
+        "id": 575,
+        "name": "Pikachu",
+        "traits": ["Loyal", "Courageous", "Friendly", "Energetic"]
         },
         {
-            "id": 710,
-            "name": "Stein, Franken"
+        "id": 576,
+        "name": "Pikachu",
+        "traits": ["Loyal", "Courageous", "Friendly", "Energetic"]
         },
         {
-            "id": 711,
-            "name": "Strife, Cloud"
+        "id": 577,
+        "name": "Pingu",
+        "traits": ["Adventurous", "Mischievous", "Curious", "Expressive"]
         },
         {
-            "id": 712,
-            "name": "Sturluson, Celty"
+        "id": 578,
+        "name": "Pochita",
+        "traits": ["Supportive", "Empathetic", "Dreamy", "Mysterious"]
         },
         {
-            "id": 713,
-            "name": "Subaru Natsuki"
+        "id": 579,
+        "name": "Polnareff, Jean-Pierre",
+        "traits": ["Chivalrous", "Hot-headed", "Loyal", "Humorous"]
         },
         {
-            "id": 714,
-            "name": "Sugiura, Ayano"
-        },
+        "id": 580,
+        "name": "Portgas D. Ace",
+        "traits": ["Reckless", "Loyal", "Charismatic", "Free-spirited"]
+        }
+        ,
         {
-            "id": 715,
-            "name": "Sukuna Ryoumen"
+        "id": 581,
+        "name": "Portor, Feitan",
+        "traits": ["Sadistic", "Taciturn", "Loyal", "Vindictive"]
         },
         {
-            "id": 716,
-            "name": "Sung, Jin-Woo"
+        "id": 582,
+        "name": "Power",
+        "traits": ["Brash", "Sarcastic", "Fearless", "Loyal"]
         },
         {
-            "id": 717,
-            "name": "Sunohara, Youhei"
+        "id": 583,
+        "name": "Pucci, Enrico",
+        "traits": ["Manipulative", "Fanatical", "Intelligent", "Calm"]
         },
         {
-            "id": 718,
-            "name": "Suou, Mikoto"
+        "id": 584,
+        "name": "Ram",
+        "traits": ["Sarcastic", "Loyal", "Proud", "Protective"]
         },
         {
-            "id": 719,
-            "name": "Suwa, Hiroto"
+        "id": 585,
+        "name": "Raphtalia",
+        "traits": ["Loyal", "Compassionate", "Courageous", "Mature"]
         },
         {
-            "id": 720,
-            "name": "Suzuki, Iruma"
+        "id": 586,
+        "name": "Ray",
+        "traits": ["Intelligent", "Cautious", "Resourceful", "Skeptical"]
         },
         {
-            "id": 721,
-            "name": "Suzuki, Iruma"
+        "id": 587,
+        "name": "Rebecca",
+        "traits": ["Optimistic", "Determined", "Resourceful", "Kind-hearted"]
         },
         {
-            "id": 722,
-            "name": "Suzuya, Juuzou"
+        "id": 588,
+        "name": "Reborn",
+        "traits": ["Confident", "Manipulative", "Strategic", "Unemotional"]
         },
         {
-            "id": 723,
-            "name": "Tabata, Hidenori"
+        "id": 589,
+        "name": "Redfox, Gajeel",
+        "traits": ["Tough", "Loyal", "Protective", "Stubborn"]
         },
         {
-            "id": 724,
-            "name": "Tachibana, Makoto"
-        },
+        "id": 590,
+        "name": "Reg",
+        "traits": ["Curious", "Brave", "Innocent", "Resourceful"]
+        }
+        ,
         {
-            "id": 725,
-            "name": "Tachibana, Rui"
+        "id": 591,
+        "name": "Rei Ayanami",
+        "traits": ["Emotionally-Reserved", "Mysterious", "Loyal", "Submissive"]
         },
         {
-            "id": 726,
-            "name": "Tachibana, Taki"
+        "id": 592,
+        "name": "Rei Kiriyama",
+        "traits": ["Introverted", "Emotionally-Stunted", "Determined", "Empathetic"]
         },
         {
-            "id": 727,
-            "name": "Takagi, Yasushi"
+        "id": 593,
+        "name": "Reigen, Arataka",
+        "traits": ["Charismatic", "Manipulative", "Caring", "Self-Aware"]
         },
         {
-            "id": 728,
-            "name": "Takami, Keigo"
+        "id": 594,
+        "name": "Reiner Braun",
+        "traits": ["Conflicted", "Loyal", "Protective", "Guilty-Conscious"]
         },
         {
-            "id": 729,
-            "name": "Takarada, Rikka"
+        "id": 595,
+        "name": "Reinhard von Lohengramm",
+        "traits": ["Strategic", "Charismatic", "Ambitious", "Ruthless"]
         },
         {
-            "id": 730,
-            "name": "Takashi Natsume"
+        "id": 596,
+        "name": "Rem",
+        "traits": ["Devoted", "Jealous", "Protective", "Inferiority-Complex"]
         },
         {
-            "id": 731,
-            "name": "Takumi Fujiwara"
+        "id": 597,
+        "name": "Rena Ryuuguu",
+        "traits": ["Yandere", "Manipulative", "Protective", "Unstable"]
         },
         {
-            "id": 732,
-            "name": "Takumi Usui"
+        "id": 598,
+        "name": "Rengoku, Kyoujurou",
+        "traits": ["Honorable", "Optimistic", "Courageous", "Selfless"]
         },
         {
-            "id": 733,
-            "name": "Tamaki Suou"
+        "id": 599,
+        "name": "Revy",
+        "traits": ["Hot-Headed", "Cynical", "Loyal", "Violent"]
         },
         {
-            "id": 734,
-            "name": "Tanaka"
-        },
+        "id": 600,
+        "name": "Rias Gremory",
+        "traits": ["Confident", "Seductive", "Maternal", "Strategic"]
+        }
+        ,
         {
-            "id": 735,
-            "name": "Tanaka, Aiko"
+        "id": 601,
+        "name": "Rider",
+        "traits": ["Loyal", "Strategic", "Honorable", "Protective"]
         },
         {
-            "id": 736,
-            "name": "Tanaka, Ryuunosuke"
+        "id": 602,
+        "name": "Rikka Takanashi",
+        "traits": ["Imaginative", "Insecure", "Stubborn", "Emotionally-Vulnerable"]
         },
         {
-            "id": 737,
-            "name": "Tanjirou Kamado"
+        "id": 603,
+        "name": "Rimuru Tempest",
+        "traits": ["Adaptive", "Compassionate", "Strategic", "Charismatic"]
         },
         {
-            "id": 738,
-            "name": "Tatsu"
+        "id": 604,
+        "name": "Rin Toosaka",
+        "traits": ["Competitive", "Pragmatic", "Proud", "Resourceful"]
         },
         {
-            "id": 739,
-            "name": "Tatsumaki"
+        "id": 605,
+        "name": "Ritsu Tainaka",
+        "traits": ["Energetic", "Optimistic", "Impulsive", "Laid-Back"]
         },
         {
-            "id": 740,
-            "name": "Tatsumi"
+        "id": 606,
+        "name": "Rock Lee",
+        "traits": ["Determined", "Hardworking", "Optimistic", "Loyal"]
         },
         {
-            "id": 741,
-            "name": "Tatsuya Shiba"
+        "id": 607,
+        "name": "Rockbell, Winry",
+        "traits": ["Empathetic", "Mechanically-Inclined", "Passionate", "Resilient"]
         },
         {
-            "id": 742,
-            "name": "Tenjou, Utena"
+        "id": 608,
+        "name": "Rokudou, Mukuro",
+        "traits": ["Manipulative", "Mysterious", "Cunning", "Sadistic"]
         },
         {
-            "id": 743,
-            "name": "Tenma White, Gabriel"
+        "id": 609,
+        "name": "Roronoa, Zoro",
+        "traits": ["Loyal", "Determined", "Fearless", "Straightforward"]
         },
         {
-            "id": 744,
-            "name": "Tepes, Krul"
-        },
+        "id": 610,
+        "name": "Roxy Migurdia",
+        "traits": ["Intelligent", "Patient", "Empathetic", "Adventurous"]
+        }
+        ,
         {
-            "id": 745,
-            "name": "Teresa"
+        "id": 611,
+        "name": "Rukia Kuchiki",
+        "traits": ["Determined", "Loyal", "Empathetic", "Courageous"]
         },
         {
-            "id": 746,
-            "name": "Testarossa, Fate"
+        "id": 612,
+        "name": "Ruler",
+        "traits": ["Righteous", "Strategic", "Compassionate", "Authoritative"]
         },
         {
-            "id": 747,
-            "name": "Tetsuya Kuroko"
+        "id": 613,
+        "name": "Ryuk",
+        "traits": ["Mischievous", "Indifferent", "Observant", "Amused"]
         },
         {
-            "id": 748,
-            "name": "The Count of Monte Cristo"
+        "id": 614,
+        "name": "Ryuu, Jusetsu",
+        "traits": ["Unknown"]
         },
         {
-            "id": 749,
-            "name": "The Skull Knight"
+        "id": 615,
+        "name": "Ryuuguuji, Ken",
+        "traits": ["Unknown"]
         },
         {
-            "id": 750,
-            "name": "Thierry, Laurent"
+        "id": 616,
+        "name": "Ryuuji Takasu",
+        "traits": ["Kind-hearted", "Responsible", "Misunderstood", "Patient"]
         },
         {
-            "id": 751,
-            "name": "Thorfinn"
+        "id": 617,
+        "name": "Ryuuko Matoi",
+        "traits": ["Hot-headed", "Determined", "Independent", "Rebellious"]
         },
         {
-            "id": 752,
-            "name": "Tobi"
+        "id": 618,
+        "name": "Saber",
+        "traits": ["Honorable", "Stoic", "Loyal", "Strategic"]
         },
         {
-            "id": 753,
-            "name": "Tobiichi, Origami"
+        "id": 619,
+        "name": "Sagara, Sousuke",
+        "traits": ["Serious", "Protective", "Loyal", "Tactically-Adept"]
         },
         {
-            "id": 754,
-            "name": "Tobio Kageyama"
-        },
+        "id": 620,
+        "name": "Sagiri, Yamada Asaemon",
+        "traits": ["Dutiful", "Skilled", "Focused", "Compassionate"]
+        }
+        ,
         {
-            "id": 755,
-            "name": "Toga, Himiko"
+        "id": 621,
+        "name": "Saichi, Sugimoto",
+        "traits": ["Determined", "Resourceful", "Loyal", "Aggressive"]
         },
         {
-            "id": 756,
-            "name": "Togame"
+        "id": 622,
+        "name": "Sakamaki, Izayoi",
+        "traits": ["Confident", "Intelligent", "Rebellious", "Cunning"]
         },
         {
-            "id": 757,
-            "name": "Togata"
+        "id": 623,
+        "name": "Sakamoto",
+        "traits": ["Charismatic", "Mysterious", "Composed", "Adaptable"]
         },
         {
-            "id": 758,
-            "name": "Tokitou, Muichirou"
+        "id": 624,
+        "name": "Sakata, Gintoki",
+        "traits": ["Lazy", "Cynical", "Compassionate", "Courageous"]
         },
         {
-            "id": 759,
-            "name": "Tokoyami, Fumikage"
+        "id": 625,
+        "name": "Sakura Kinomoto",
+        "traits": ["Innocent", "Optimistic", "Courageous", "Kind-hearted"]
         },
         {
-            "id": 760,
-            "name": "Tomioka, Giyuu"
+        "id": 626,
+        "name": "Sakuragi, Rokurouta",
+        "traits": ["Protective", "Strong-willed", "Caring", "Authoritative"]
         },
         {
-            "id": 761,
-            "name": "Tomoe"
+        "id": 627,
+        "name": "Sakurajima, Mai",
+        "traits": ["Mature", "Independent", "Sarcastic", "Empathetic"]
         },
         {
-            "id": 762,
-            "name": "Tomoe, Mami"
+        "id": 628,
+        "name": "Sakurasawa, Sumi",
+        "traits": ["Shy", "Kind", "Reserved", "Empathetic"]
         },
         {
-            "id": 763,
-            "name": "Tomoko Kuroki"
+        "id": 629,
+        "name": "Sakuta Azusagawa",
+        "traits": ["Deadpan", "Phlegmatic-Melancholic", "ISTP", "9w8"]
         },
         {
-            "id": 764,
-            "name": "Tomoya Okazaki"
-        },
+        "id": 630,
+        "name": "Saluja, Alibaba",
+        "traits": ["Adventurous", "Insecure", "Courageous", "Ambitious"]
+        }
+        ,
         {
-            "id": 765,
-            "name": "Tony Tony Chopper"
+        "id": 631,
+        "name": "Samejima, Mamimi",
+        "traits": ["Dependent", "Melancholic", "Rebellious", "Manipulative"]
         },
         {
-            "id": 766,
-            "name": "Toogata, Mirio"
+        "id": 632,
+        "name": "San",
+        "traits": ["Fierce", "Independent", "Loyal", "Stubborn"]
         },
         {
-            "id": 767,
-            "name": "Tooru"
+        "id": 633,
+        "name": "Sanji",
+        "traits": ["Chivalrous", "Strategic-Thinker", "Loyal", "Hot-Tempered"]
         },
         {
-            "id": 768,
-            "name": "Tooru Honda"
+        "id": 634,
+        "name": "Sanji",
+        "traits": ["Chivalrous", "Strategic-Thinker", "Loyal", "Hot-Tempered"]
         },
         {
-            "id": 769,
-            "name": "Toshinou, Kyouko"
+        "id": 635,
+        "name": "Sanka, Rea",
+        "traits": ["Innocent", "Submissive", "Curious", "Kind-hearted"]
         },
         {
-            "id": 770,
-            "name": "Toujou, Koneko"
+        "id": 636,
+        "name": "Saotome, Mary",
+        "traits": ["Manipulative", "Intelligent", "Competitive", "Insecure"]
         },
         {
-            "id": 771,
-            "name": "Toushirou Hitsugaya"
+        "id": 637,
+        "name": "Saotome, Ranma",
+        "traits": ["Adaptable", "Confident", "Hot-Headed", "Resourceful"]
         },
         {
-            "id": 772,
-            "name": "Trafalgar Law"
+        "id": 638,
+        "name": "Sara",
+        "traits": ["Mysterious", "Calm", "Observant", "Manipulative"]
         },
         {
-            "id": 773,
-            "name": "Trancy, Alois"
+        "id": 639,
+        "name": "Sarashina, Ruka",
+        "traits": ["Impulsive", "Emotionally-Intense", "Loyal", "Insecure"]
         },
         {
-            "id": 774,
-            "name": "Tsubasa Hanekawa"
-        },
+        "id": 640,
+        "name": "Sasaki, Haise",
+        "traits": ["Amnesiac", "Compassionate", "Determined", "Conflict-Averse"]
+        }
+        ,
         {
-            "id": 775,
-            "name": "Tsugumi, Seishirou"
+        "id": 641,
+        "name": "Sasaki, Kojirou",
+        "traits": ["Honorable", "Skilled-Swordsman", "Loyal", "Calm"]
         },
         {
-            "id": 776,
-            "name": "Tsukasa Yuzaki"
+        "id": 642,
+        "name": "Sasha Blouse",
+        "traits": ["Food-Lover", "Courageous", "Loyal", "Compassionate"]
         },
         {
-            "id": 777,
-            "name": "Tsukino, Usagi"
+        "id": 643,
+        "name": "Satou",
+        "traits": ["Manipulative", "Intelligent", "Cunning", "Selfish"]
         },
         {
-            "id": 778,
-            "name": "Tsukiyomi, Ikuto"
+        "id": 644,
+        "name": "Sawabe, Tsubaki",
+        "traits": ["Supportive", "Emotionally-Strong", "Caring", "Responsible"]
         },
         {
-            "id": 779,
-            "name": "Tsukuyo"
+        "id": 645,
+        "name": "Sawada, Tsunayoshi",
+        "traits": ["Insecure", "Kind-hearted", "Reluctant-Leader", "Courageous"]
         },
         {
-            "id": 780,
-            "name": "Tsunade"
+        "id": 646,
+        "name": "Sawamura, Eijun",
+        "traits": ["Passionate", "Competitive", "Loud", "Optimistic"]
         },
         {
-            "id": 781,
-            "name": "Tsunemori, Akane"
+        "id": 647,
+        "name": "Scar",
+        "traits": ["Vengeful", "Complex", "Mysterious", "Religious"]
         },
         {
-            "id": 782,
-            "name": "Tsuruga, Ren"
+        "id": 648,
+        "name": "Sebastian Michaelis",
+        "traits": ["Loyal", "Manipulative", "Intelligent", "Sarcastic"]
         },
         {
-            "id": 783,
-            "name": "Tsutsukakushi, Tsukiko"
+        "id": 649,
+        "name": "Sengoku, Nadeko",
+        "traits": ["Shy", "Innocent", "Manipulative", "Obsessive"]
         },
         {
-            "id": 784,
-            "name": "Twelve"
-        },
+        "id": 650,
+        "name": "Senji, Kiyomasa",
+        "traits": ["Brave", "Hot-headed", "Honorable", "Protective"]
+        }
+        ,
         {
-            "id": 785,
-            "name": "Twenty-Fifth Bam"
+        "id": 651,
+        "name": "Senji, Kiyomasa",
+        "traits": ["Sadistic", "Honorable", "Hot-headed", "Resilient"]
         },
         {
-            "id": 786,
-            "name": "Uchiha, Itachi"
+        "id": 652,
+        "name": "Senjougahara, Hitagi",
+        "traits": ["Sarcastic", "Intelligent", "Protective", "Tsundere"]
         },
         {
-            "id": 787,
-            "name": "Uchiha, Madara"
+        "id": 653,
+        "name": "Senko",
+        "traits": ["Nurturing", "Patient", "Optimistic", "Kind-hearted"]
         },
         {
-            "id": 788,
-            "name": "Uchiha, Sasuke"
+        "id": 654,
+        "name": "Senkuu Ishigami",
+        "traits": ["Inquisitive", "Strategic", "Optimistic", "Rational"]
         },
         {
-            "id": 789,
-            "name": "Uchiha, Sasuke"
+        "id": 655,
+        "name": "Sephiroth",
+        "traits": ["Manipulative", "Calm", "Intelligent", "Ruthless"]
         },
         {
-            "id": 790,
-            "name": "Uenoyama, Ritsuka"
+        "id": 656,
+        "name": "Sesshoumaru",
+        "traits": ["Proud", "Stoic", "Independent", "Honorable"]
         },
         {
-            "id": 791,
-            "name": "Ulquiorra Cifer"
+        "id": 657,
+        "name": "Shana",
+        "traits": ["Tsundere", "Brave", "Stubborn", "Loyal"]
         },
         {
-            "id": 792,
-            "name": "Urabe, Mikoto"
+        "id": 658,
+        "name": "Shanks",
+        "traits": ["Charismatic", "Laid-back", "Courageous", "Wise"]
         },
         {
-            "id": 793,
-            "name": "Urahara, Kisuke"
+        "id": 659,
+        "name": "Shiba, Tatsuya",
+        "traits": ["Stoic", "Analytical", "Protective", "Strategic"]
         },
         {
-            "id": 794,
-            "name": "Urushibara, Ruka"
-        },
+        "id": 660,
+        "name": "Shigaraki, Tomura",
+        "traits": ["Vengeful", "Sadistic", "Intelligent", "Manipulative"]
+        }
+        ,
         {
-            "id": 795,
-            "name": "Ushiromiya, Battler"
+        "id": 661,
+        "name": "Shigeo Kageyama",
+        "traits": ["Reserved", "Emotionally-Explosive", "Loyal", "Insecure"]
         },
         {
-            "id": 796,
-            "name": "Usopp"
+        "id": 662,
+        "name": "Shihouin, Yoruichi",
+        "traits": ["Intelligent", "Witty", "Non-Conformist", "Resourceful"]
         },
         {
-            "id": 797,
-            "name": "Uzui, Tengen"
+        "id": 663,
+        "name": "Shiina, Mahiru",
+        "traits": ["Unknown"]
         },
         {
-            "id": 798,
-            "name": "Uzumaki, Boruto"
+        "id": 664,
+        "name": "Shiina, Mayuri",
+        "traits": ["Nurturing", "Optimistic", "Dependent", "Emotionally-Resilient"]
         },
         {
-            "id": 799,
-            "name": "Uzumaki, Naruto"
+        "id": 665,
+        "name": "Shikamaru Nara",
+        "traits": ["Lazy", "Strategic-Thinker", "Loyal", "Pragmatic"]
         },
         {
-            "id": 800,
-            "name": "Valentine, Funny"
+        "id": 666,
+        "name": "Shiki Ryougi",
+        "traits": ["Mysterious", "Independent", "Introspective", "Morally-Ambiguous"]
         },
         {
-            "id": 801,
-            "name": "Vanitas"
+        "id": 667,
+        "name": "Shikimori, Miyako",
+        "traits": ["Unknown"]
         },
         {
-            "id": 802,
-            "name": "Vash the Stampede"
+        "id": 668,
+        "name": "Shimura, Shinpachi",
+        "traits": ["Unknown"]
         },
         {
-            "id": 803,
-            "name": "Vegeta"
+        "id": 669,
+        "name": "Shimura, Shinpachi",
+        "traits": ["Unknown"]
         },
         {
-            "id": 804,
-            "name": "Vermillion, Mereoleona"
-        },
+        "id": 670,
+        "name": "Shin-ah",
+        "traits": ["Unknown"]
+        }
+        ,
         {
-            "id": 805,
-            "name": "Vessalius, Oz"
+        "id": 671,
+        "name": "Shinji Ikari",
+        "traits": ["Insecure", "Dependent", "Introverted", "Conflict-Averse"]
         },
         {
-            "id": 806,
-            "name": "Victoria, Seras"
+        "id": 672,
+        "name": "Shino Asada",
+        "traits": ["Determined", "Courageous", "Loyal", "Introverted"]
         },
         {
-            "id": 807,
-            "name": "Vladilena Miliz\u00e9"
+        "id": 673,
+        "name": "Shinobu",
+        "traits": ["Compassionate", "Strategic-Thinker", "Calm", "Resilient"]
         },
         {
-            "id": 808,
-            "name": "Voldigoad, Anos"
+        "id": 674,
+        "name": "Shinonome, Hakase",
+        "traits": ["Eccentric", "Innovative", "Childlike", "Unpredictable"]
         },
         {
-            "id": 809,
-            "name": "von Einzbern, Illyasviel"
+        "id": 675,
+        "name": "Shinya Kougami",
+        "traits": ["Analytical", "Justice-Oriented", "Independent", "Stoic"]
         },
         {
-            "id": 810,
-            "name": "Walker, Allen"
+        "id": 676,
+        "name": "Shiraishi, Urara",
+        "traits": ["Intelligent", "Asocial", "Reserved", "Focused"]
         },
         {
-            "id": 811,
-            "name": "Wang, Qi"
+        "id": 677,
+        "name": "Shirasaki, Kaori",
+        "traits": ["Kind-hearted", "Adventurous", "Optimistic", "Empathetic"]
         },
         {
-            "id": 812,
-            "name": "Watanabe, You"
+        "id": 678,
+        "name": "Shirayuki",
+        "traits": ["Mysterious", "Resourceful", "Adaptable", "Disciplined"]
         },
         {
-            "id": 813,
-            "name": "Watanuki, Kimihiro"
+        "id": 679,
+        "name": "Shirayuki, Mizore",
+        "traits": ["Obsessive", "Loyal", "Introverted", "Romantic"]
         },
         {
-            "id": 814,
-            "name": "Watashi"
-        },
+        "id": 680,
+        "name": "Shiro",
+        "traits": ["Complex", "Adaptable", "Intelligent", "Unpredictable"]
+        }
+        ,
         {
-            "id": 815,
-            "name": "Watashi"
+        "id": 681,
+        "name": "Shiro",
+        "traits": ["Strategic-Thinker", "Loyal", "Protective", "Compassionate"]
         },
         {
-            "id": 816,
-            "name": "Wei, Wuxian"
+        "id": 682,
+        "name": "Shiroe",
+        "traits": ["Intelligent", "Manipulative", "Cautious", "Introverted"]
         },
         {
-            "id": 817,
-            "name": "Wen-li Yang"
+        "id": 683,
+        "name": "Shizuo Heiwajima",
+        "traits": ["Short-Tempered", "Strong-Willed", "Protective", "Impulsive"]
         },
         {
-            "id": 818,
-            "name": "Wolfwood, Nicholas D."
+        "id": 684,
+        "name": "Shokuhou, Misaki",
+        "traits": ["Manipulative", "Charismatic", "Influential", "Cunning"]
         },
         {
-            "id": 819,
-            "name": "Wong, Shorter"
+        "id": 685,
+        "name": "Shougo Makishima",
+        "traits": ["Intellectual", "Manipulative", "Idealistic", "Cruel"]
         },
         {
-            "id": 820,
-            "name": "Xie, Lian"
+        "id": 686,
+        "name": "Shouko Komi",
+        "traits": ["Introverted", "Warm", "Likable", "Stoic"]
         },
         {
-            "id": 821,
-            "name": "Yabuki, Joe"
+        "id": 687,
+        "name": "Shouko Nishimiya",
+        "traits": ["Resilient", "Forgiving", "Vulnerable", "Empathetic"]
         },
         {
-            "id": 822,
-            "name": "Yagami, Light"
+        "id": 688,
+        "name": "Shouto Todoroki",
+        "traits": ["Reserved", "Determined", "Complex", "Stoic"]
         },
         {
-            "id": 823,
-            "name": "Yakumo, Yuurakutei"
+        "id": 689,
+        "name": "Shouya Ishida",
+        "traits": ["Regretful", "Self-Loathing", "Redemptive", "Courageous"]
         },
         {
-            "id": 824,
-            "name": "Yamada, Ryou"
-        },
+        "id": 690,
+        "name": "Shouyou Hinata",
+        "traits": ["Energetic", "Optimistic", "Competitive", "Determined"]
+        }
+        ,
         {
-            "id": 825,
-            "name": "Yamaguchi, Tadashi"
+        "id": 691,
+        "name": "Siesta",
+        "traits": ["Submissive", "Loyal", "Jealous", "Affectionate"]
         },
         {
-            "id": 826,
-            "name": "Yamamoto, Takeshi"
+        "id": 692,
+        "name": "Simon",
+        "traits": ["Introverted", "Courageous", "Self-Doubting", "Determined"]
         },
         {
-            "id": 827,
-            "name": "Yamato"
+        "id": 693,
+        "name": "Sinbad",
+        "traits": ["Charismatic", "Manipulative", "Adventurous", "Strategic-Thinker"]
         },
         {
-            "id": 828,
-            "name": "Yamato, Kira"
+        "id": 694,
+        "name": "Son Gokuu",
+        "traits": ["Optimistic", "Naive", "Determined", "Compassionate"]
         },
         {
-            "id": 829,
-            "name": "Yami Sukehiro"
+        "id": 695,
+        "name": "Son, Gohan",
+        "traits": ["Intelligent", "Responsible", "Reluctant-Fighter", "Compassionate"]
         },
         {
-            "id": 830,
-            "name": "Yami Yuugi"
+        "id": 696,
+        "name": "Son, Hak",
+        "traits": ["Protective", "Sarcastic", "Loyal", "Strategic-Thinker"]
         },
         {
-            "id": 831,
-            "name": "Yasuri, Shichika"
+        "id": 697,
+        "name": "Sonoda, Umi",
+        "traits": ["Disciplined", "Serious", "Responsible", "Shy"]
         },
         {
-            "id": 832,
-            "name": "Yato"
+        "id": 698,
+        "name": "Sonozaki, Mion",
+        "traits": ["Mature", "Stable", "Tomboyish", "Leaderly"]
         },
         {
-            "id": 833,
-            "name": "Yato"
+        "id": 699,
+        "name": "Sonozaki, Shion",
+        "traits": ["Mischievous", "Teasing", "Romantic", "Jealous"]
         },
         {
-            "id": 834,
-            "name": "Yatogami, Tooka"
-        },
+        "id": 700,
+        "name": "Sora",
+        "traits": ["Deceptive", "Untrustworthy", "Selfish", "Mysterious"]
+        }
+        ,
         {
-            "id": 835,
-            "name": "Yazawa, Niko"
+        "id": 701,
+        "name": "Soul Eater Evans",
+        "traits": ["Loyal", "Hot-headed", "Protective", "Insecure"]
         },
         {
-            "id": 836,
-            "name": "Ye, Xiu"
+        "id": 702,
+        "name": "Souma Yukihira",
+        "traits": ["Competitive", "Optimistic", "Resourceful", "Stubborn"]
         },
         {
-            "id": 837,
-            "name": "Yeager, Eren"
+        "id": 703,
+        "name": "Souma, Hatsuharu",
+        "traits": ["Bipolar", "Loyal", "Calm", "Impulsive"]
         },
         {
-            "id": 838,
-            "name": "Ymir"
+        "id": 704,
+        "name": "Souma, Momiji",
+        "traits": ["Cheerful", "Empathetic", "Optimistic", "Sensitive"]
         },
         {
-            "id": 839,
-            "name": "Yonsa, Balsa"
+        "id": 705,
+        "name": "Souma, Shigure",
+        "traits": ["Manipulative", "Witty", "Cunning", "Laid-back"]
         },
         {
-            "id": 840,
-            "name": "Yor Forger"
+        "id": 706,
+        "name": "Souma, Shigure",
+        "traits": ["Manipulative", "Witty", "Cunning", "Laid-back"]
         },
         {
-            "id": 841,
-            "name": "Yoshida, Haru"
+        "id": 707,
+        "name": "Souma, Yuki",
+        "traits": ["Reserved", "Insecure", "Compassionate", "Intelligent"]
         },
         {
-            "id": 842,
-            "name": "Yoshino"
+        "id": 708,
+        "name": "Speeddraw, Fremy",
+        "traits": ["Distrustful", "Reserved", "Loyal", "Cautious"]
         },
         {
-            "id": 843,
-            "name": "Yotsuba Nakano"
+        "id": 709,
+        "name": "Speeddraw, Fremy",
+        "traits": ["Distrustful", "Reserved", "Loyal", "Cautious"]
         },
         {
-            "id": 844,
-            "name": "Yue"
-        },
+        "id": 710,
+        "name": "Stein, Franken",
+        "traits": ["Unavailable"]
+        }
+        ,
         {
-            "id": 845,
-            "name": "Yui"
+        "id": 711,
+        "name": "Strife, Cloud",
+        "traits": ["Introverted", "Brooding", "Determined", "Emotionally-Reserved"]
         },
         {
-            "id": 846,
-            "name": "Yui Yuigahama"
+        "id": 712,
+        "name": "Sturluson, Celty",
+        "traits": ["Curious", "Loyal", "Emotionally-Complex", "Adventurous"]
         },
         {
-            "id": 847,
-            "name": "Yuki Nagato"
+        "id": 713,
+        "name": "Subaru Natsuki",
+        "traits": ["Resilient", "Self-Sacrificing", "Pessimistic", "Emotionally-Vulnerable"]
         },
         {
-            "id": 848,
-            "name": "Yuki, Rito"
+        "id": 714,
+        "name": "Sugiura, Ayano",
+        "traits": ["Energetic", "Optimistic", "Competitive", "Emotionally-Open"]
         },
         {
-            "id": 849,
-            "name": "Yukine"
+        "id": 715,
+        "name": "Sukuna Ryoumen",
+        "traits": ["Manipulative", "Sadistic", "Intelligent", "Cunning"]
         },
         {
-            "id": 850,
-            "name": "Yukino Yukinoshita"
+        "id": 716,
+        "name": "Sung, Jin-Woo",
+        "traits": ["Determined", "Resourceful", "Stoic", "Adaptive"]
         },
         {
-            "id": 851,
-            "name": "Yukino, Yukinoshita"
+        "id": 717,
+        "name": "Sunohara, Youhei",
+        "traits": ["Loyal", "Impulsive", "Comedic", "Insecure"]
         },
         {
-            "id": 852,
-            "name": "Yuu Ishigami"
+        "id": 718,
+        "name": "Suou, Mikoto",
+        "traits": ["Stoic", "Protective", "Intense", "Independent"]
         },
         {
-            "id": 853,
-            "name": "Yuuichirou, Hyakuya"
+        "id": 719,
+        "name": "Suwa, Hiroto",
+        "traits": ["Empathetic", "Selfless", "Optimistic", "Supportive"]
         },
         {
-            "id": 854,
-            "name": "Yuuji Itadori"
-        },
+        "id": 720,
+        "name": "Suzuki, Iruma",
+        "traits": ["Kind-hearted", "Adaptable", "Innocent", "Courageous"]
+        }
+        ,
         {
-            "id": 855,
-            "name": "Yuuki, Asuna"
+        "id": 721,
+        "name": "Suzuki, Iruma",
+        "traits": ["kind-hearted", "easily-manipulated", "courageous", "loyal"]
         },
         {
-            "id": 856,
-            "name": "Yuuki, Asuna"
+        "id": 722,
+        "name": "Suzuya, Juuzou",
+        "traits": ["emotionally-detached", "complex-morality", "loyal", "observant"]
         },
         {
-            "id": 857,
-            "name": "Yuurakutei, Yakumo"
+        "id": 723,
+        "name": "Tabata, Hidenori",
+        "traits": ["sarcastic", "observant", "intelligent", "humorous"]
         },
         {
-            "id": 858,
-            "name": "Zaraki, Kenpachi"
+        "id": 724,
+        "name": "Tachibana, Makoto",
+        "traits": ["responsible", "kind-hearted", "protective", "empathetic"]
         },
         {
-            "id": 859,
-            "name": "Zenitsu Agatsuma"
+        "id": 725,
+        "name": "Tachibana, Rui",
+        "traits": ["independent", "emotionally-guarded", "intelligent", "ambitious"]
         },
         {
-            "id": 860,
-            "name": "Zeppeli, Caesar Anthonio"
+        "id": 726,
+        "name": "Tachibana, Taki",
+        "traits": ["determined", "focused", "empathetic", "responsible"]
         },
         {
-            "id": 861,
-            "name": "Zeref"
+        "id": 727,
+        "name": "Takagi, Yasushi",
+        "traits": ["intelligent", "analytical", "calm", "loyal"]
         },
         {
-            "id": 862,
-            "name": "Zoldyck, Killua"
+        "id": 728,
+        "name": "Takami, Keigo",
+        "traits": ["charismatic", "confident", "pragmatic", "observant"]
         },
         {
-            "id": 863,
-            "name": "Zuberg, Alice"
+        "id": 729,
+        "name": "Takarada, Rikka",
+        "traits": ["reserved", "mature", "snarky", "determined"]
         }
     ]
 }
