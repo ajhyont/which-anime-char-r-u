@@ -1,0 +1,184 @@
+{
+  "questions":[
+    {
+      "id":1,
+      "que":"You're in a Dungeon and a Mysterious Figure Suddenly Appears and Says Hello. How Do You React?",
+      "options-and-traits":[
+        {
+          "option":"A",
+          "ans":"A) Charge at them with your weapon drawn!",
+          "traits":["Aggressive", "Impulsive", "Adventurous"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Analyze their body language and intentions.",
+          "traits":["Analytical", "Cautious", "Observant"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Use stealth to hide and observe them.",
+          "traits":["Cautious", "Introverted", "Stealthy"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Team up and ask, \"Do you know the way out?\"",
+          "traits":["Cooperative", "Social", "Friendly"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Try to negotiate or trade with them.",
+          "traits":["Diplomatic", "Strategic", "Persuasive"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Cast an illusion to distract them and escape.",
+          "traits":["Creative", "Deceptive", "Innovative"]
+        }        
+      ]
+    },
+    {
+      "id":2,
+      "que":"How Do You Usually Like to Spend Your Free Time?",
+      "options-and-traits":[
+        {
+          "option":"A",
+          "ans":"A) Engaging in physical activities or sports.",
+          "traits":["Active", "Energetic", "Sporty", "Active", "Energetic", "Sporty"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Diving into a good book or solving complex puzzles.",
+          "traits":["Intellectual", "Focused", "Curious", "Intellectual", "Focused", "Curious"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Planning the ultimate prank on your best friend.",
+          "traits":["Cooperative", "Social", "Friendly", "Mischievous", "Playful", "Humorous"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Volunteering at a local animal shelter or food bank.",
+          "traits":["Altruistic", "Compassionate", "Generous", "Altruistic", "Compassionate", "Generous", "Altruistic", "Compassionate", "Generous"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Creating art or music.",
+          "traits":["Artistic", "Creative", "Expressive", "Artistic", "Creative", "Expressive"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Traveling and exploring new places.",
+          "traits":["Adventurous", "Curious", "Open-minded", "Adventurous", "Curious", "Open-minded"]
+        }        
+      ]
+    },
+    {
+      "id":3,
+      "que":"You Discover a Hidden Door in Your Grandfather's Study. What Do You Do Next?",
+      "options-and-traits":[
+        {
+          "option":"A",
+          "ans":"A) Kick it open and explore what's inside.",
+          "traits":["selfish", "Dramatic", "passionate", "stoic", "melancholic"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Alert the authorities or experts about the discovery.",
+          "traits":["Tough", "psychopathic", "Self-doubting", "driven", "violent"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Dare a friend to go in first.",
+          "traits":["Cooperative", "Social", "Friendly", "Introverted", "Competitive"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Seal it back up to prevent any potential danger.",
+          "traits":["Resourceful", "Amused", "Adaptable", "Introverted", "timid"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Take photos and research its history.",
+          "traits":["Mature-for-Age", "Intuitive", "Emotionally-Intense", "responsible", "introverted"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Call a family meeting to discuss it.",
+          "traits":["respectful", "Asocial", "calculative", "apathetic", "Cautious"]
+        }        
+      ]
+    },
+    {
+      "id":4,
+      "que":"If You Were to Stumble Upon a Magical Artifact, What Kind of Companion Would You Wish for?",
+      "options-and-traits":[
+        {
+          "option":"A",
+          "ans":"A) A fierce dragon to amplify your newfound powers.",
+          "traits":["Strong-willed", "Unstable", "Egotistical", "quick-witted", "calm"]
+        },
+        {
+          "option":"B",
+          "ans":"B) A wise mentor to guide you in using the artifact responsibly.",
+          "traits":["Artistic", "Creative", "Expressive", "observant", "Emotionally-Reserved"]
+        },
+        {
+          "option":"C",
+          "ans":"C) A mischievous imp to keep things unpredictable.",
+          "traits":["Logical", "Deadpan", "Strategic-thinker", "affectionate", "Regretful"]
+        },
+        {
+          "option":"D",
+          "ans":"D) A guardian angel to protect you.",
+          "traits":["Sardonic", "Responsible", "Calm-Under-Pressure", "Anxious"]
+        },
+        {
+          "option":"E",
+          "ans":"E) A talking animal to find hidden treasures.",
+          "traits":["Hardworking", "innocent", "strong-willed", "impulsive", "humorous"]
+        },
+        {
+          "option":"F",
+          "ans":"F) A shape-shifting friend to adapt to any situation.",
+          "traits":["Cooperative", "Social", "Friendly", "Caring", "disciplined"]
+        }        
+      ]
+    },
+    {
+      "id":5,
+      "que":"Imagine You're Offered a One-Time Chance to Gain a Superpower, But It Comes With a Price. What Do You Choose?",
+      "options-and-traits":[
+        {
+          "option":"A",
+          "ans":"A) Super Strength, but you can never lie again.",
+          "traits":["lazy", "Artistic", "Brash", "Flirtatious", "reluctant-leader"]
+        },
+        {
+          "option":"B",
+          "ans":"B) Telepathy, but you'll forget a cherished memory.",
+          "traits":["Materialistic", "Choleric", "assertive", "Social", "Supportive"]
+        },
+        {
+          "option":"C",
+          "ans":"C) Invisibility, but you lose your sense of taste.",
+          "traits":["Decisive", "Stoic", "Playful", "Imaginative", "Resolute"]
+        },
+        {
+          "option":"D",
+          "ans":"D) Healing powers, but you age twice as fast.",
+          "traits":["Selfless", "Seductive", "Strong-willed", "Reserved", "Creative"]
+        },
+        {
+          "option":"E",
+          "ans":"E) Time travel, but you can't change the past.",
+          "traits":["cunning", "maternal", "brave", "Vengeful", "prideful"]
+        },
+        {
+          "option":"F",
+          "ans":"F) Telekinesis, but you can't speak for a day each time you use it.",
+          "traits":["cautious", "anxious", "observant", "resilient", "Cruel"]
+        }        
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+    "Question 1: You're in a Dungeon and a Mysterious Figure Suddenly Appears and Says Hello. How Do You React?": {
+        "A)": [ "Aggressive", "Impulsive", "Adventurous", "Aggressive", "Impulsive", "Adventurous" ],
+        "B)": [ "Analytical", "Cautious", "Observant", "Analytical", "Cautious", "Observant" ],
+        "C)": [ "Cautious", "Introverted", "Stealthy", "Cautious", "Introverted", "Stealthy" ],
+        "D)": [ "Cooperative", "Social", "Friendly", "Cooperative", "Social", "Friendly" ],
+        "E)": [ "Diplomatic", "Strategic", "Persuasive", "Diplomatic", "Strategic", "Persuasive" ],
+        "F)": [ "Creative", "Deceptive", "Innovative", "Creative", "Deceptive", "Innovative" ]
+    },
+    "Question 2: How Do You Usually Like to Spend Your Free Time?": {
+        "A)": [ "Active", "Energetic", "Sporty", "Active", "Energetic", "Sporty" ],
+        "B)": [ "Intellectual", "Focused", "Curious", "Intellectual", "Focused", "Curious" ],
+        "C)": [ "Cooperative", "Social", "Friendly", "Mischievous", "Playful", "Humorous" ],
+        "D)": [ "Altruistic", "Compassionate", "Generous", "Altruistic", "Compassionate", "Generous", "Altruistic", "Compassionate", "Generous" ],
+        "E)": [ "Artistic", "Creative", "Expressive", "Artistic", "Creative", "Expressive" ],
+        "F)": [ "Adventurous", "Curious", "Open-minded", "Adventurous", "Curious", "Open-minded" ]
+    },
+    "Question 3: You Discover a Hidden Door in Your Grandfather's Study. What Do You Do Next?": {
+        "A)": [ "selfish", "Dramatic", "passionate", "stoic", "melancholic" ],
+        "B)": [ "Tough", "psychopathic", "Self-doubting", "driven", "violent" ],
+        "C)": [ "Cooperative", "Social", "Friendly", "Introverted", "Competitive" ],
+        "D)": [ "Resourceful", "Amused", "Adaptable", "Introverted", "timid" ],
+        "E)": [ "Mature-for-Age", "Intuitive", "Emotionally-Intense", "responsible", "introverted" ],
+        "F)": [ "respectful", "Asocial", "calculative", "apathetic", "Cautious" ]
+    },
+    "Question 4: If You Were to Stumble Upon a Magical Artifact, What Kind of Companion Would You Wish for?": {
+        "A)": [ "Strong-willed", "Unstable", "Egotistical", "quick-witted", "calm" ],
+        "B)": [ "Artistic", "Creative", "Expressive", "observant", "Emotionally-Reserved" ],
+        "C)": [ "Logical", "Deadpan", "Strategic-thinker", "affectionate", "Regretful" ],
+        "D)": [ "Sardonic", "Unknown", "Responsible", "Calm-Under-Pressure", "Anxious" ],
+        "E)": [ "Hardworking", "innocent", "strong-willed", "impulsive", "humorous" ],
+        "F)": [ "Cooperative", "Social", "Friendly", "Caring", "disciplined" ]
+    },
+    "Question 5: Imagine You're Offered a One-Time Chance to Gain a Superpower, But It Comes With a Price. What Do You Choose?": {
+        "A)": [ "lazy", "Artistic", "Brash", "Flirtatious", "reluctant-leader" ],
+        "B)": [ "Materialistic", "Choleric", "assertive", "Social", "Supportive" ],
+        "C)": [ "Decisive", "Stoic", "Playful", "Imaginative", "Resolute" ],
+        "D)": [ "Selfless", "Seductive", "Strong-willed", "Reserved", "Creative" ],
+        "E)": [ "cunning", "maternal", "brave", "Vengeful", "prideful" ],
+        "F)": [ "cautious", "anxious", "observant", "resilient", "Cruel" ]
+    }
+}
