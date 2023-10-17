@@ -3,7 +3,7 @@
     {
       "id":1,
       "que":"You're in a Dungeon and a Mysterious Figure Suddenly Appears and Says Hello. How Do You React?",
-      "options-and-traits":[
+      "optionsAndTraits":[
         {
           "option":"A",
           "ans":"A) Charge at them with your weapon drawn!",
@@ -39,7 +39,7 @@
     {
       "id":2,
       "que":"How Do You Usually Like to Spend Your Free Time?",
-      "options-and-traits":[
+      "optionsAndTraits":[
         {
           "option":"A",
           "ans":"A) Engaging in physical activities or sports.",
@@ -75,7 +75,7 @@
     {
       "id":3,
       "que":"You Discover a Hidden Door in Your Grandfather's Study. What Do You Do Next?",
-      "options-and-traits":[
+      "optionsAndTraits":[
         {
           "option":"A",
           "ans":"A) Kick it open and explore what's inside.",
@@ -111,7 +111,7 @@
     {
       "id":4,
       "que":"If You Were to Stumble Upon a Magical Artifact, What Kind of Companion Would You Wish for?",
-      "options-and-traits":[
+      "optionsAndTraits":[
         {
           "option":"A",
           "ans":"A) A fierce dragon to amplify your newfound powers.",
@@ -147,7 +147,7 @@
     {
       "id":5,
       "que":"Imagine You're Offered a One-Time Chance to Gain a Superpower, But It Comes With a Price. What Do You Choose?",
-      "options-and-traits":[
+      "optionsAndTraits":[
         {
           "option":"A",
           "ans":"A) Super Strength, but you can never lie again.",
