@@ -1,5 +1,6 @@
-import React, { useContext } from 'react';
-import './App.css';
+import './styles/global.css';
+import './styles/App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
 import { LandingPage } from './components/LandingPage';
 import { QuizPage } from './components/QuizPage';

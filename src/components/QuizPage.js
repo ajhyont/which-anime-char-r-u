@@ -1,6 +1,7 @@
 import React, {useState, useContext, useEffect} from 'react';
 import questionsData from '../data/list-of-mcqs-and-traits.json';
 import {SelectedOptionsContext} from '../managing-context/SelectedOptionsContext'
+import '../styles/QuizPage.css';
 
 export const QuizPage=()=>{    
   const [localSelectedOptions,setLocalSelectedOptions]=useState({});
