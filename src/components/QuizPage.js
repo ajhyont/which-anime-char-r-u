@@ -3,6 +3,7 @@ import questionsData from '../data/list-of-mcqs-and-traits.json';
 import { SelectedOptionsContext } from '../managing-context/SelectedOptionsContext'
 import '../styles/global.css';
 import '../styles/QuizPage.css';
+import { MatchUserToCharacter } from '../logic/user-matched-to-character';
 
 export const QuizPage=()=>{    
 
