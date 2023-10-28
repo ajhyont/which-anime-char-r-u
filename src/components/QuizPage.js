@@ -1,9 +1,9 @@
 import React, { useState, useContext, useEffect } from 'react';
 import questionsData from '../data/list-of-mcqs-and-traits.json';
-import { SelectedOptionsContext } from '../managing-context/SelectedOptionsContext'
+import { SelectedOptionsContext } from '../managing-context/SelectedOptionsContext';
 import '../styles/global.css';
 import '../styles/QuizPage.css';
-import { MatchUserToCharacter } from '../logic/user-matched-to-character';
+import MatchUserToCharacter from '../logic/MatchUserToCharacter';
 
 export const QuizPage=()=>{    
 
@@ -13,12 +13,21 @@ export const QuizPage=()=>{
   const handleOptionChange=(e,questionId)=>{
     setLocalSelectedOptions({ ...localSelectedOptions, [questionId]: e.target.value, });
   };
-  useEffect( ()=>{console.log("Selected options:",selectedOptions);},[selectedOptions] );
-  const handleSubmit=(e)=>{ e.preventDefault(); setSelectedOptions(localSelectedOptions); };
+  useEffect( ()=>{
+    console.log("Selected options:",selectedOptions);
+    console.log("Type of selectedOptions=");console.log(typeof selectedOptions);
+    const bestMatchCharacter = MatchUserToCharacter(selectedOptions);
+    console.log("Best Match character is:",bestMatchCharacter);
+  },[selectedOptions] );
+  ////////////
+  const handleSubmit=(e)=>{ 
+    e.preventDefault(); 
+    setSelectedOptions(localSelectedOptions);     
+  };
+  ////////////
   const handleNext=()=>{
     if(currentQueIndex<questionsData.questions.length-1){ setCurrentQueIndex(currentQueIndex+1); }
-  };
-  
+  };  
   const handlePrev=()=>{
     if(currentQueIndex>0){ setCurrentQueIndex(currentQueIndex-1); }
   };

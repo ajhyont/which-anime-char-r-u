@@ -1,8 +1,5 @@
 import React, { useState,useEffect } from "react";
 import axios from "axios";
-import '../styles/CharacterSearch.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-// import '../styles/global.css';
 
 export const CharacterSearch=()=>{
 
@@ -32,28 +29,22 @@ export const CharacterSearch=()=>{
     }, [characterName]);
 
   return(
-    <div className="container text-center">
-      <div className="search-box">
-        <div className="form-control">
-          <input className="form-control"
-            type="text"
-            value={characterName}
-            onChange={ (e)=>setCharacterName(e.target.value) }
-            placeholder="Enter Character name"
-          />
+    <>
+      <input 
+        type="text"
+        value={characterName}
+        onChange={ (e)=>setCharacterName(e.target.value) }
+        placeholder="Enter Character name"
+      />
+      <button onClick={fetchData}>Fetch</button>
+      { characterInfo && (
+        <div>
+          <h2>{`${characterInfo.name.first} ${characterInfo.name.last}`}</h2>
+          <img src={characterInfo.image.large} alt={characterInfo.name.first} />
+          <p>{characterInfo.description}</p>          
         </div>
-        { characterInfo && (
-          <div className="character-info">
-            <h2>{`${characterInfo.name.first} ${characterInfo.name.last}`}</h2>
-            <img 
-              className="character-large"
-              src={characterInfo.image.large} alt={characterInfo.name.first}               
-            />
-            <p className="character-description">{characterInfo.description}</p>          
-          </div>
-        )}
-      </div>
-    </div>
+      )}
+    </>
   );
 
 };

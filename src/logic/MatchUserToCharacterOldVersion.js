@@ -2,7 +2,7 @@ import React, {useEffect,useContext} from 'react';
 import animeCharacters from '../data/anime-characters-and-traits.json';
 import { SelectedOptionsContext } from '../managing-context/SelectedOptionsContext';
 
-export const MatchUserToCharacter=()=>{
+export const MatchUserToCharacterOldVersion=()=>{
 
   const {selectedOptions} = useContext(SelectedOptionsContext);
   //Converting user-seelcted options into character traits.

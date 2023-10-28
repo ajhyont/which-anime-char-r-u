@@ -5,6 +5,7 @@ import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
 import { LandingPage } from './components/LandingPage';
 import { QuizPage } from './components/QuizPage';
 import { SelectedOptionsProvider } from './managing-context/SelectedOptionsContext';
+import { CharacterSearch } from './logic/CharacterSearch';
 
 export default function App() {
   return (    
@@ -13,6 +14,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/quiz" element={<QuizPage />} />
+          <Route path='/search' element={<CharacterSearch />} />
         </Routes>    
       </Router>
     </SelectedOptionsProvider>
