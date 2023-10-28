@@ -1,13 +1,15 @@
 import React, {useState,useEffect,useContext} from 'react';
 import axios from 'axios';
+import { useNavigate } from 'react-router';
 import { SelectedOptionsContext } from '../managing-context/SelectedOptionsContext';
 import '../styles/ResultsPage.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export const ResultsPage=()=>{
-  const {matchedCharacter}  = useContext(SelectedOptionsContext);
+export const ResultsPage=()=>{  
+  const { matchedCharacter,resetSelectedOptions,setMatchedCharacter }  = useContext(SelectedOptionsContext);
   const characterName = matchedCharacter.name;
   const [characterInfo,setCharacterInfo] = useState(null);
+  const navigate = useNavigate();
   const fetchData = async()=>{
     const variables = { search: characterName.trim().toLowerCase() };
     const query=`
@@ -25,12 +27,15 @@ export const ResultsPage=()=>{
       setCharacterInfo(resp.data.data.Character);
     }catch(error){ console.error('Error fetching data:',error); }
   };
-
   useEffect(()=>{
     const timerId = setTimeout(()=>{ if(characterName) fetchData(); },100);
     return ()=> clearTimeout(timerId);
   },[characterName]);
-
+  const handleReset=()=>{
+    resetSelectedOptions();
+    navigate('/');
+    setMatchedCharacter(null);
+  };
   return(
     <div className='results-page'>
        <h1>Your Anime Character Match is:</h1>
@@ -47,6 +52,7 @@ export const ResultsPage=()=>{
           </div>
         )}
        </div>
+       <button onClick={handleReset} className='reset-btn'>Start another Quiz!</button>
     </div>    
   );
 };
