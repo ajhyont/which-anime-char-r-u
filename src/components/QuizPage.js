@@ -1,30 +1,36 @@
 import React, { useState, useContext, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import questionsData from '../data/list-of-mcqs-and-traits.json';
 import { SelectedOptionsContext } from '../managing-context/SelectedOptionsContext';
+import MatchUserToCharacter from '../logic/MatchUserToCharacter';
 import '../styles/global.css';
 import '../styles/QuizPage.css';
-import MatchUserToCharacter from '../logic/MatchUserToCharacter';
 
 export const QuizPage=()=>{    
 
   const [localSelectedOptions,setLocalSelectedOptions]=useState({});
-  const { selectedOptions, setSelectedOptions, resetSelectedOptions } = useContext(SelectedOptionsContext);
   const [currentQueIndex,setCurrentQueIndex]=useState(0);
+  const { selectedOptions,setSelectedOptions,resetSelectedOptions,setMatchedCharacter,matchedCharacter } = useContext(SelectedOptionsContext);
+  const navigate = useNavigate();
   const handleOptionChange=(e,questionId)=>{
     setLocalSelectedOptions({ ...localSelectedOptions, [questionId]: e.target.value, });
   };
-  useEffect( ()=>{
-    console.log("Selected options:",selectedOptions);
-    console.log("Type of selectedOptions=");console.log(typeof selectedOptions);
-    const bestMatchCharacter = MatchUserToCharacter(selectedOptions);
-    console.log("Best Match character is:",bestMatchCharacter);
-  },[selectedOptions] );
-  ////////////
   const handleSubmit=(e)=>{ 
     e.preventDefault(); 
     setSelectedOptions(localSelectedOptions);     
+    setTimeout( ()=>{ navigate('../ResultsPage');}, 1500);
   };
-  ////////////
+  useEffect( ()=>{    
+    console.log("Selected options:",selectedOptions);
+    console.log("Type of selectedOptions=");console.log(typeof selectedOptions);
+    const bestMatchCharacter = MatchUserToCharacter(selectedOptions);
+    setMatchedCharacter(bestMatchCharacter);
+    },[selectedOptions] 
+  );
+  useEffect( ()=>{
+    console.log("Best Match character is:",matchedCharacter);
+    }, [matchedCharacter]
+  );
   const handleNext=()=>{
     if(currentQueIndex<questionsData.questions.length-1){ setCurrentQueIndex(currentQueIndex+1); }
   };  
