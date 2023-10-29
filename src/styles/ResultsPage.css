@@ -1,0 +1,58 @@
+.results-page-body::before{
+  content: "";
+  position: fixed;
+  top: 0; right: 0; bottom: 0; left: 0;
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  background-image: url('../media/resultsPageBkground.png');
+  background-size: 200% 200%;
+  background-position: 0% 50%;
+  background-repeat: no-repeat;
+  animation: panning 180s infinite linear;
+  filter: blur(8px);  
+}
+
+@keyframes panning{
+  0%{ background-position: 0% 50% }
+  50%{ background-position: 100% 50% }
+  100%{ background-position: 0% 50%; }
+}
+
+.character-large{
+  width: 484px;
+  height: 484px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.character-description{
+  height: 484px;
+  overflow-y: auto;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin-left: 8em;
+}
+
+.reset-btn{
+  display: block;
+  margin: 30em auto;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0px 8px 15px rgba(0,0,0,0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+.reset-btn:hover{
+  background-color: #0056b3;
+  box-shadow: 0px 15px 20px rgba(0,56,179,0.4);
+  color: #fff;
+  transform: translateY(-7px);  
+}

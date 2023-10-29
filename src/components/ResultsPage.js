@@ -2,10 +2,12 @@ import React, {useState,useEffect,useContext} from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router';
 import { SelectedOptionsContext } from '../managing-context/SelectedOptionsContext';
-import '../styles/ResultsPage.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../styles/global.css';
+import '../styles/ResultsPage.css';
 
 export const ResultsPage=()=>{  
+
   const { matchedCharacter,resetSelectedOptions,setMatchedCharacter }  = useContext(SelectedOptionsContext);
   const characterName = matchedCharacter.name;
   const [characterInfo,setCharacterInfo] = useState(null);
@@ -36,23 +38,30 @@ export const ResultsPage=()=>{
     navigate('/');
     setMatchedCharacter(null);
   };
+  useEffect(()=>{
+    document.body.classList.add('results-page-body');
+    return()=>{ document.body.classList.remove('results-page-body'); };
+  },[]);
   return(
-    <div className='results-page'>
-       <h1>Your Anime Character Match is:</h1>
-       <h2>{matchedCharacter ? matchedCharacter.name : "No match found"}</h2>
-       <div>
+    <div className='results-page container'>       
+      <div className='row align-items-center'>
         {characterInfo && (
-          <div className='character-info'>
-            <h2>{`${characterInfo.name.first} ${characterInfo.name.last}`}</h2>
+          <div className='character-info col-12 row'>
+            <h2 className='text-center'>{`${characterInfo.name.first} ${characterInfo.name.last}`}</h2>
             <img 
-              className='character-large'
+              className='character-large col-md-4 img-fluid rounded-circle'
               src={characterInfo.image.large} alt={characterInfo.name.first}
-            />
-            <p className='character-description'>{characterInfo.description}</p>
+            />    
+            <div className='col-md-6'>
+              <p className='character-description border border-primary rounded p-3'>
+                {characterInfo.description}                
+              </p>
+            </div>
           </div>
         )}
-       </div>
-       <button onClick={handleReset} className='reset-btn'>Start another Quiz!</button>
+      </div>
+      <button onClick={handleReset} className='reset-btn btn btn-primary mt-5'>🔁 Start another Quiz!</button>
     </div>    
   );
+
 };
