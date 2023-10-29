@@ -10,7 +10,7 @@ export const QuizPage=()=>{
 
   const [localSelectedOptions,setLocalSelectedOptions]=useState({});
   const [currentQueIndex,setCurrentQueIndex]=useState(0);
-  const { selectedOptions,setSelectedOptions,resetSelectedOptions,setMatchedCharacter,matchedCharacter } = useContext(SelectedOptionsContext);
+  const { selectedOptions,setSelectedOptions,setMatchedCharacter,matchedCharacter } = useContext(SelectedOptionsContext);
   const navigate = useNavigate();
   const handleOptionChange=(e,questionId)=>{
     setLocalSelectedOptions({ ...localSelectedOptions, [questionId]: e.target.value, });
@@ -30,13 +30,7 @@ export const QuizPage=()=>{
   useEffect( ()=>{
     console.log("Best Match character is:",matchedCharacter);
     }, [matchedCharacter]
-  );  
-  const handleNext=()=>{
-    if(currentQueIndex<questionsData.questions.length-1){ setCurrentQueIndex(currentQueIndex+1); }
-  };  
-  const handlePrev=()=>{
-    if(currentQueIndex>0){ setCurrentQueIndex(currentQueIndex-1); }
-  };
+  );    
   useEffect(()=>{
     document.body.classList.add('quiz-page-body');
     return()=>{ document.body.classList.remove('results-page-body'); };
@@ -66,8 +60,6 @@ export const QuizPage=()=>{
           </div>
         ))}
       </div>
-      <button type='button' onClick={handlePrev} className='arrow-btn left'>←</button>
-      <button type='button' onClick={handleNext} className='arrow-btn right'>→</button>
       <hr />
       <button type="submit" className='submit-btn'>Submit</button>
     </form>

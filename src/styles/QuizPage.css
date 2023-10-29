@@ -10,20 +10,23 @@
   background-position: 0% 50%;
   background-repeat: no-repeat;
   animation: panning 180s infinite linear;
-  filter: blur(8px);  
 }
 @keyframes panning{
   0%{ background-position: 0% 50% }
   50%{ background-position: 100% 50% }
   100%{ background-position: 0% 50%; }
 }
-.quiz-form{  
-  backdrop-filter: blur(4px);
+.quiz-form{    
+  letter-spacing: 1.1px;
   padding: 2em;
   border-radius: 10px;
   color: #fff;
   text-shadow: 2px 2px 2px #000;
   font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  
 }
 
 .question-container{
@@ -34,6 +37,7 @@
   border-radius: 3.3em;
   padding: 1em;
   margin-bottom: 1em;
+  backdrop-filter: blur(8px);
 }
 
 .option-container{ 
@@ -60,21 +64,26 @@
 }
 .hidden-radio{ display: none; }
 .hidden-radio:checked + .label-container{
-  background-color: rgba(0,128,0,0.3);
-  border: 1px solid rgba(0,128,0,0.5);
+  background-color: rgba(16, 75, 223, 0.6);
+  border: 1px solid rgba(16, 75, 223, 0.8);
 }
 
-.submit-btn, .reset-btn{
+.submit-btn{
   font-size: 1.2em;
   padding: 0.5em 1em;
   border-radius: 10px;
-  background-color: #4caf50;
+  background-color: #007bff;
   color: white;
-  margin: 0.5em;
+  margin: 0.5em 0;
   cursor: pointer;
   transition: transform 0.2s ease-in-out;
+  width: 100%;
+  text-align: center;
 }
 
-.submit-btn:hover, .reset-btn:hover{
-  transform: scale(1.1);
+.submit-btn:hover{
+  background-color: #0056b3;
+  box-shadow: 0px 15px 20px rgba(0,56,179,0.4);
+  color: #fff;
+  transform: translateY(-7px);  
 }
