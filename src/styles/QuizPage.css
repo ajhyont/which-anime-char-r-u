@@ -50,8 +50,8 @@
 }
 .option-container:hover .label-container{
   transform: scale(1.028);
-  background-color: rgba(0,0,0,0.1);
-  border: 1px solid rgba(0,0,0,0.2);
+  background-color: rgba(0,0,0,0.4);
+  border: 1px solid rgba(0,0,0,0.5);
 }
 .label-container{
   display: inline-block;

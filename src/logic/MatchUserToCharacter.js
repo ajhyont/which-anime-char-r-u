@@ -28,7 +28,8 @@ const MatchUserToCharacter= (selectedOptions)=>{
   const animeCharactersArray = Object.values(animeCharacters);
   const characterMatchScore=getCharacterMatchScore(animeCharactersArray,userSelectedTraits);
   const sortedCharacters= Object.entries(characterMatchScore).sort((a,b)=>b[1]-a[1]);
-  const bestMatch = sortedCharacters[0];
+  const randomIndex = Math.floor(Math.random()*Math.min(3,sortedCharacters.length));  
+  const bestMatch = sortedCharacters[randomIndex];
   const bestMatchCharacter = animeCharactersArray.find(character=>character.id===parseInt(bestMatch[0]));
   return bestMatchCharacter;
 };
